@@ -7014,11 +7014,11 @@ BG 18.63: Thus, I have explained to you this knowledge that is more secret than 
 Commentary
 A secret is that knowledge which is not accessible to majority of the people. Most of the laws of Physics were a secret until a few centuries ago, and many still continue to remain so. Spiritual knowledge is profound and not realizable through direct perception. It needs to be learnt through the Guru and the scriptures. Hence, it is described as secret. In the second chapter, Shree Krishna had revealed knowledge of the soul, which is guhya, or secret knowledge. In the seventh and eighth chapters, he explained knowledge of his powers, which is guhyatar, or more secret. In the ninth and subsequent chapters, he revealed knowledge of his bhakti, which is guhyatamam, or most secret. In the present chapter, verse 55, he revealed that he can be known in his personal form only by bhakti. Shree Krishna is now concluding the Bhagavad Gita. Having spoken the eighteen chapters, including most secret knowledge to Arjun, he now leaves the choice in Arjun’s hands. He says, “I have revealed to you profound and confidential knowledge. Now the choice is in your hands.” Lord Ram made a similar statement to the residents of Ayodhya. He invited them all for his discourse:
 
-eka bāra raghunātha bolāe, guru dwija purabāsī saba āe (Ramayan) [v34]
+$$shlok-commentary$$  eka bāra raghunātha bolāe, guru dwija purabāsī saba āe (Ramayan) [v34]
 
 “Once, Lord Ram called all the residents of Ayodhya. Everyone, including Guru Vasishth came to hear him.” In the discourse, Lord Ram explained to them the purpose of human life and the way to accomplish it. In the end, he concluded:
 
-nahiṅ anīti nahiṅ kachhu prabhutāī, sunahu karahu jo tumhahi sohāī (Ramayan) [v35]
+$$shlok-commentary$$  nahiṅ anīti nahiṅ kachhu prabhutāī, sunahu karahu jo tumhahi sohāī (Ramayan) [v35]
 
 “The advice I have given to you is neither incorrect nor coercive. Listen to it carefully, contemplate over it, and then do what you wish.”
 
@@ -7058,15 +7058,15 @@ BG 18.65: Always think of me, be devoted to me, worship me, and offer obeisance 
 Commentary
 In chapter 9, Shree Krishna had promised Arjun to reveal to him the most secret knowledge, and then gone on to describe the glories of bhakti. Here, he repeats the first line of verse 9.34, asking him to engage in his devotion. By developing deep love for Shree Krishna and having his mind always absorbed in exclusive devotion to him, Arjun will be assured of attaining the supreme destination. The perfect example of someone completely absorbed in devotion was King Ambarish. The Śhrīmad Bhāgavatam describes:
 
-sa vai manaḥ kṛiṣhṇa-padāravindayor vacāhṁsi vaikuṇṭha-guṇānuvarṇane
-karau harer mandira-mārjanādiṣhu śhrutiṁ chakārāchyuta-sat-kathodaye
+$$shlok-commentary$$  sa vai manaḥ kṛiṣhṇa-padāravindayor vacāhṁsi vaikuṇṭha-guṇānuvarṇane
+$$shlok-commentary$$  karau harer mandira-mārjanādiṣhu śhrutiṁ chakārāchyuta-sat-kathodaye
 
-mukunda-liṅgālaya-darśhane dṛiśhau tad-bhṛitya-gātra-sparśhe ’ṅga-saṅgamam
-ghrāṇaṁ cha tat-pāda-saroja-saurabhe śhrīmat-tulasyā rasanāṁ tad-arpite
+$$shlok-commentary$$  mukunda-liṅgālaya-darśhane dṛiśhau tad-bhṛitya-gātra-sparśhe ’ṅga-saṅgamam
+$$shlok-commentary$$  ghrāṇaṁ cha tat-pāda-saroja-saurabhe śhrīmat-tulasyā rasanāṁ tad-arpite
 
-pādau hareḥ kṣhetra-padānusarpaṇe śhiro hṛiṣhīkeśha-padābhivandane
-kāmaṁ cha dāsye na tu kāma-kāmyayā yathottamaśhloka-janāśhrayā ratiḥ
-(9.4.18-20) [v36]
+$$shlok-commentary$$  pādau hareḥ kṣhetra-padānusarpaṇe śhiro hṛiṣhīkeśha-padābhivandane
+$$shlok-commentary$$  kāmaṁ cha dāsye na tu kāma-kāmyayā yathottamaśhloka-janāśhrayā ratiḥ
+$$shlok-commentary$$  (9.4.18-20) [v36]
 
 “Ambarish absorbed his mind on the lotus feet of Shree Krishna; he used his speech in glorifying the qualities of God, his hands in cleaning the temple, and his ears in hearing the divine pastimes of the Lord. He engaged his eyes in seeing the deities; he used his limbs in touching the bodies of the devotees, his nose in smelling the fragrance of the Tulsī (holy basil) leaves offered at the feet of the Lord, and his tongue in tasting prasād (food sanctified by offering to God). He utilized his feet for walking to the holy abodes, and his head in offering obeisance to the lotus feet of God. He offered all paraphernalia, such as garlands and sandalwood, in the service of God. He did all this, not with some selfish motive, but only to attain the selfless service of Lord Krishna, through purification.”
 
@@ -7093,25 +7093,22 @@ To comprehend this instruction of Shree Krishna, we need to understand the term 
 
 If one leaves the material dharma it is considered a sin due to dereliction of duty. But if one leaves material dharma and takes the shelter of spiritual dharma, it is not a sin. The Śhrīmad Bhāgavatam states:
 
-devarṣhi-bhūtāpta-nṛiṇāṁ pitṝīṇāṁ na kiṅkaro nāyam ṛiṇī cha rājan
-
-sarvātmanā yaḥ śharaṇaṁ śharaṇyaṁ gato mukundaṁ parihṛitya kartam (11.5.41)[v37]
+$$shlok-commentary$$  devarṣhi-bhūtāpta-nṛiṇāṁ pitṝīṇāṁ na kiṅkaro nāyam ṛiṇī cha rājan
+$$shlok-commentary$$  sarvātmanā yaḥ śharaṇaṁ śharaṇyaṁ gato mukundaṁ parihṛitya kartam (11.5.41)[v37]
 
 This verse explains that for those who do not surrender to God, there are five debts—to the celestial gods, to the sages, to the ancestors, to other humans, and to other living beings. The varṇāśhram system includes various procedures for releasing ourselves from these five kinds of debts. However, when we surrender to God, we are automatically released from all these debts, just as by watering the roots of a tree, all its branches, twigs, leaves, flowers, and fruit automatically get watered. Similarly, by fulfilling our duty to God, we automatically fulfill our duty to everyone. Hence, there is no sin in renouncing material dharma if we are properly situated in spiritual dharma. In fact, the ultimate goal is to engage completely and wholeheartedly in spiritual dharma. The Śhrīmad Bhāgavatam states:
 
-ājñāyaivaṁ guṇān doṣhān mayādiṣhṭān api svakān
-
-dharmān santyajya yaḥ sarvān māṁ bhajeta sa tu sattamaḥ (11.11.32) [v38]
+$$shlok-commentary$$  ājñāyaivaṁ guṇān doṣhān mayādiṣhṭān api svakān
+$$shlok-commentary$$  dharmān santyajya yaḥ sarvān māṁ bhajeta sa tu sattamaḥ (11.11.32) [v38]
 
 “I have given innumerable instructions regarding the performance of bodily dharma in the Vedas. But those who realize the shortcomings in these, and renounce all prescribed duties, to simply engage in my devotional service, I consider them to be the best sādhaks.” In the Ramayan, we read how Lakshman renounced all material duties to accompany Lord Ram in the forest. He said:
 
-guru pitu mātu na jānahu kāhū, kahahu subhāū nātha patiyāū
-
-more sabahiñ eka tuma swāmī, dinabhandhu ura antarayamī [v39]
+$$shlok-commentary$$  guru pitu mātu na jānahu kāhū, kahahu subhāū nātha patiyāū
+$$shlok-commentary$$  more sabahiñ eka tuma swāmī, dinabhandhu ura antarayamī [v39]
 
 “O Lord, please believe me, I do not know any teacher, father, mother, etc. As far as I am concerned, you, the savior of the fallen and the knower of the heart, are my Master and my everything.” Similarly, Prahlad said:
 
-mātā nāsti pitā na ’sti na ’sti me swajano janaḥ [v40]
+$$shlok-commentary$$  mātā nāsti pitā na ’sti na ’sti me swajano janaḥ [v40]
 
 “I do not know any mother, father, or relative (God is everything to me).”
 
@@ -7138,7 +7135,7 @@ It was explained in the previous verse that if one is situated in loving devotio
 
 This word of caution applies specifically for the confidential teachings of the previous verse, and in general, for the entire message of the Bhagavad Gita. If it is explained to someone who is envious of Shree Krishna, that person may respond, “Shree Krishna was very conceited. He kept asking Arjun to glorify him.” By misunderstanding the teachings, the faithless listener will be harmed by the divine message. The Padma Purāṇ also states:
 
-aśhraddadhāne vimukhe ’py aśhṛiṇvati yaśh chopadeśhaḥ śhiva-nāmāparādhaḥ [v41]
+$$shlok-commentary$$  aśhraddadhāne vimukhe ’py aśhṛiṇvati yaśh chopadeśhaḥ śhiva-nāmāparādhaḥ [v41]
 
 “By giving transcendental instructions to those who are faithless and averse to God, we cause them to become offenders.” Hence, Shree Krishna describes the disqualifications for listeners in the above verse.
 
@@ -7160,9 +7157,8 @@ Shree Krishna now declares the consequence of properly preaching the message of 
 
 The opportunity to engage ourselves in devotion is a special blessing of God, but the opportunity to help others engage in devotion is an even bigger blessing, which attracts the special grace of God. Whenever we share something good with others, we benefit from it too. When we share whatever knowledge we have with others, by grace our own knowledge increases as well. By often giving food to others, we never go hungry ourselves. Saint Kabir said:
 
-dāna diye dhana nā ghaṭe, nadī ghate na nīra
-
-apane hātha dekha lo, yoṅ kyā kahe kabīra [v42]
+$$shlok-commentary$$  dāna diye dhana nā ghaṭe, nadī ghate na nīra
+$$shlok-commentary$$  apane hātha dekha lo, yoṅ kyā kahe kabīra [v42]
 
 “Wealth does not decrease by giving in charity; a river does not become narrow, though people take water from it. I am not saying this without basis; see it yourself in the world.” Thus, those who share the spiritual knowledge of the Bhagavad Gita with others receive the highest blessing themselves.
 
@@ -7276,9 +7272,8 @@ BG 18.74: Sanjay said: Thus, have I heard this wonderful conversation between Sh
 Commentary
 In this way, Sanjay comes to the end of his narration of the divine discourse of the Bhagavad Gita. He refers to Arjun as mahātmā (great soul), as he has heeded the advice and instructions of Shree Krishna, and hence has become eminently wise. Sanjay now remarks how amazed and astounded he is on hearing their divine dialogue. The hair standing on end is one of the symptoms of deep devotional fervor. The Bhakti Rasamrita Sindhu states:
 
-stambha sveda ’tha romāñchaḥ svara bhedo’tha vepathuḥ
-
-vaivarṇyamaśhru pralaya ityaṣhṭau sāttvikāḥ smṛitāḥ [v43]
+$$shlok-commentary$$  stambha sveda ’tha romāñchaḥ svara bhedo’tha vepathuḥ
+$$shlok-commentary$$  vaivarṇyamaśhru pralaya ityaṣhṭau sāttvikāḥ smṛitāḥ [v43]
 
 “The eight symptoms of devotional ecstasy are: becoming stupefied and motionless, sweating, hair standing on end, choking of the voice, trembling, color of the face becoming ashen, shedding tears, and fainting.” Sanjay is experiencing such intense devotional sentiments that his hair is bristling with divine joy.
 
