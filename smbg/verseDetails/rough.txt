@@ -33,13 +33,12 @@ BG 10.2: Neither celestial gods nor the great sages know my origin. I am the sou
 Commentary
 A father knows about the birth and life of his son, because he witnesses it. But the birth and childhood of his father are beyond the ken of the son, because they occurred before he was born. Likewise, the devatās (celestial gods) and the ṛiṣhis (sages) cannot comprehend the real nature of the origin of God, who existed before they were even born. And so, the Rig Veda states:
 
-ko addhā veda ka iha prāvochat, kuta ā jātā kuta iyaṁ viśhrushtiḥ
-
-arvāgdevā asya visarjanāya, athā ko veda yata ābabhūva (10.129.6)[v1]
+$$shlok-commentary$$  ko addhā veda ka iha prāvochat, kuta ā jātā kuta iyaṁ viśhrushtiḥ
+$$shlok-commentary$$  arvāgdevā asya visarjanāya, athā ko veda yata ābabhūva (10.129.6)[v1]
 
 “Who in the world can know clearly? Who can proclaim from where this universe was born? Who can state where this creation has come from? The devatās came after creation. Therefore, who knows from where the universe arose?” Again, the Īśhopaniṣhad states:
 
-nainaddevā āpnuvan pūrvamarṣhat (Īśhopaniṣhad 4)[v2]
+$$shlok-commentary$$  nainaddevā āpnuvan pūrvamarṣhat (Īśhopaniṣhad 4)[v2]
 
 “God cannot be known by the celestial devatās, as he existed before them.” Yet, such inaccessible knowledge will now be given by Shree Krishna to nurture the devotion of his dear friend.
 
@@ -62,13 +61,11 @@ Having said that no one can know him, Shree Krishna now states that some people 
 
 To make the distinction between the souls and himself, Shree Krishna declares that he is loka maheśhwaram (the great Lord of all the abodes of existence). The same declaration has been made in the Śhwetāśhvatar Upaniṣhad:
 
-tamīśhwarāṇāṁ paramaṁ maheśhwaraṁ
-
-taṁ devatānāṁ paramaṁ cha daivataṁ
-
-patiṁ patīnāṁ paramaṁ parastād
-
-vidāma devaṁ bhuvaneśhmīḍyam (6.7)[v3]
+$$shlok-commentary$$  tamīśhwarāṇāṁ paramaṁ maheśhwaraṁ
+$$shlok-commentary$$  taṁ devatānāṁ paramaṁ cha daivataṁ
+$$shlok-commentary$$  patiṁ patīnāṁ paramaṁ parastād
+$$shlok-commentary$$  vidāma devaṁ bhuvaneśhmīḍyam 
+$$shlok-commentary$$  (6.7)[v3]
 
 “The Supreme Lord is the Controller of all controllers; he is the God of all gods. He is the Beloved of all beloveds; he is the Ruler of the world, and beyond the material energy.”
 
@@ -192,15 +189,15 @@ BG 10.8: I am the origin of all creation. Everything proceeds from me. The wise 
 Commentary
 Shree Krishna begins the verse by saying ahaṁ sarvasya prabhavo, meaning “I am the Supreme Ultimate Truth and the cause of all causes.” He has repeated this multiple times in the Bhagavad Gita, in verses 7.7, 7.12, 10.5, and 15.15. It is also strongly proclaimed in all the other scriptures. The Rig Veda states:
 
-yaṁ kāmaye taṁ taṁ ugraṁ kṛiṣhṇomi taṁ brahmāṇaṁ taṁ ṛiṣhiṁ taṁ sumedhsam (10.125.5)[v4]
+$$shlok-commentary$$  yaṁ kāmaye taṁ taṁ ugraṁ kṛiṣhṇomi taṁ brahmāṇaṁ taṁ ṛiṣhiṁ taṁ sumedhsam 
+$$shlok-commentary$$  (10.125.5)[v4]
 
 “I make the persons I love exceedingly mighty; I make them men or women; I make them wise sages; I make a soul empowered for the seat of Brahma.” The wise who comprehend this truth develop firm faith and worship him with loving devotion.
 
 Thus, Shree Krishna is the Supreme Lord of both the material and spiritual creations. However, administering creation is not the primary work of God. Chaitanya Mahaprabhu states:
 
-swayaṁ bhagavānera karma nahe bhāra-haraṇa
-
-(Chaitanya Charitāmṛit, Ādi Leela 4.8)[v5]
+$$shlok-commentary$$  swayaṁ bhagavānera karma nahe bhāra-haraṇa
+$$shlok-commentary$$  (Chaitanya Charitāmṛit, Ādi Leela 4.8)[v5]
 
 “Shree Krishna does not directly involve himself in the works of creating, maintaining, and dissolving the material universes.” Shree Krishna’s primary activity is to engage in eternal loving pastimes with the liberated souls in Golok, his divine abode. For the purpose of material creation, he expands himself as Karanodakshayi Vishnu, who is also called Maha Vishnu.
 
@@ -212,13 +209,11 @@ Garbhodakashayi Vishnu further expands himself as Kshirodakshayi Vishnu, and res
 
 All the three forms of Lord Vishnu mentioned here are non-different from Shree Krishna. Thus, in this verse, Shree Krishna states that all spiritual and material creation emanate from him. Shree Krishna is also called the Avatārī (the source of all the Avatārs). The Śhrīmad Bhāgvatam states: ete chāṁśha kalāḥ puṁsaḥ kṛiṣhṇas tu bhagavān svayam (1.3.28)[v6] “All the forms of God are the expansions, or the expansions of the expansions of Shree Krishna, who is the primordial form of God.” And so, the secondary creator Brahma prays to Shree Krishna:
 
-yasyaikaniśhvasita kālamathāvalambya
-
-jīvanti lomavilajā jagadaṇḍanāthāḥ
-
-viṣhṇurmahān saihayasya kalāviśheṣho
-
-govindamādi puruṣaṁ tamahaṁ bhajāmi (Brahma Samhitā 5.48)[v7]
+$$shlok-commentary$$  yasyaikaniśhvasita kālamathāvalambya
+$$shlok-commentary$$  jīvanti lomavilajā jagadaṇḍanāthāḥ
+$$shlok-commentary$$  viṣhṇurmahān saihayasya kalāviśheṣho
+$$shlok-commentary$$  govindamādi puruṣaṁ tamahaṁ bhajāmi 
+$$shlok-commentary$$  (Brahma Samhitā 5.48)[v7]
 
 “Infinite universes—each having Shankar, Brahma, and Vishnu—manifest from the pores of Maha Vishnu’s body when he breathes in, and again dissolve into him when he breathes out. I worship Shree Krishna of whom Maha Vishnu is an expansion.” Shree Krishna now goes on to explain how devotees worship him.
 
@@ -265,23 +260,24 @@ BG 10.10: To those whose minds are always united with me in loving devotion, I g
 Commentary
 Divine knowledge of God is not attained by the flight of our intellect. No matter how powerful a mental machine we may possess, we have to admit the fact that our intellect is made from the material energy. Hence, our thoughts, understanding, and wisdom are confined to the material realm; God and his divine realm remain entirely beyond the scope of our corporeal intellect. The Vedas emphatically declare:
 
-yasyā mataṁ tasya mataṁ mataṁ yasya na veda saḥ
-
-avijñātaṁ vijānatāṁ vijñātamavijānatām (Kenopaniṣhad 2.3)[v9]
+$$shlok-commentary$$  yasyā mataṁ tasya mataṁ mataṁ yasya na veda saḥ
+$$shlok-commentary$$  avijñātaṁ vijānatāṁ vijñātamavijānatām 
+$$shlok-commentary$$  (Kenopaniṣhad 2.3)[v9]
 
 “Those who think they can understand God with their intellects have no understanding of God. Only those who think that he is beyond the scope of their comprehension truly understand him.”
 
 The Bṛihadāraṇyak Upaniṣhad states:
 
-sa eṣha neti netyātmā agṛihyoḥ (3.9.26)[v10]
+$$shlok-commentary$$  sa eṣha neti netyātmā agṛihyoḥ 
+$$shlok-commentary$$  (3.9.26)[v10]
 
 “One can never comprehend God by self-effort based upon the intellect.” The Ramayan states:
 
-rāma atarkya buddhi mana bānī, mata hamāra asa sunahi sayānī [v11]
+$$shlok-commentary$$  rāma atarkya buddhi mana bānī, mata hamāra asa sunahi sayānī [v11]
 
 “Lord Ram is beyond the scope of our intellect, mind, and words.” Now, if these statements on the topic of knowing God plainly declare that it is not possible to know him, how then can God-realization be possible for anyone? Shree Krishna reveals here how knowledge of God can be gained. He says that it is God who bestows divine knowledge upon the soul, and the fortunate soul who receives his grace is able to know him. The Yajur Veda states:
 
-tasya no rāsva tasya no dhehī [v12]
+$$shlok-commentary$$  tasya no rāsva tasya no dhehī [v12]
 
 “Without bathing oneself in the nectar emanating from the lotus feet of God, no one can know him.” Thus, true knowledge of God is not a result of intellectual gymnastics but a consequence of divine grace. Shree Krishna also mentions in this verse that he does not choose the recipient of his grace in a whimsical manner. Rather, he bestows it upon those who unite their minds with him in devotion. He next talks about what happens when we receive divine grace.
 
@@ -345,9 +341,8 @@ BG 10.14: O Krishna, I totally accept everything you have told me as the truth. 
 Commentary
 Listening attentively to Shree Krishna’s divine opulence and unlimited supremacy in brief, Arjun’s thirst for hearing more has increased. Wanting Shree Krishna to further describe his glories, he wishes to assure the Lord that he is fully convinced. By using the word yat, Arjun means that whatever Shree Krishna has said to him from the seventh to the ninth chapters, he holds as true. He asserts that all Shree Krishna has stated is factual and not any metaphorical description. He addresses Shree Krishna as Bhagavān, or the Supreme Lord. The word Bhagavān is defined in Devī Bhāgavat Purāṇ in the following manner:
 
-aiśhwaryasya samagrasya dharmasya yaśhasaḥ śhriyaḥ
-
-jñānavairāgyośhchaiva ṣaṇṇāṁ bhagavānniḥ [v14]
+$$shlok-commentary$$  aiśhwaryasya samagrasya dharmasya yaśhasaḥ śhriyaḥ
+$$shlok-commentary$$  jñānavairāgyośhchaiva ṣaṇṇāṁ bhagavānniḥ [v14]
 
 “Bhagavān is he who possesses these six opulences to the infinite extent—strength, knowledge, beauty, fame, opulence, and renunciation.” The devatās (celestial gods), dānavas (demons), mānavas (human beings) all have finite abilities to understand. They cannot comprehend the full identity of Bhagavān.
 
@@ -378,7 +373,7 @@ Deva-deva – the God of all the celestial gods.
 
 The Śhwetāśhvatar Upaniṣhad declares the same fact:
 
-yasmāt paraṁ nāparamasti kiñchid (3.9)[v15]
+$$shlok-commentary$$  yasmāt paraṁ nāparamasti kiñchid (3.9)[v15]
 
 “God can never be surpassed; he is beyond everything.”
 
@@ -424,9 +419,9 @@ Arjun says, “… hearing your nectar,” instead of “… hearing your words 
 
 Descriptions of God’s glories are like nectar for those who love him. He has been drinking Shree Krishna’s ambrosial nectar-like words with his ears, and he now cheers him, by saying bhūyaḥ kathaya, “Once more! My thirst for hearing your glories is not satiated.” That is the nature of divine nectar. It satiates us while simultaneously increasing the thirst for more. The sages of Naimisharanya made a similar statement while hearing the Śhrīmad Bhāgavatam from Suta Goswami:
 
-vayaṁ tu na vitṛipyāma uttamaśhlokavikrame
-
-yachchhṛiṇvatāṁ rasajñānāṁ svādu svādu pade pade (1.1.19)[v16]
+$$shlok-commentary$$  vayaṁ tu na vitṛipyāma uttamaśhlokavikrame
+$$shlok-commentary$$  yachchhṛiṇvatāṁ rasajñānāṁ svādu svādu pade pade 
+$$shlok-commentary$$  (1.1.19)[v16]
 
 “Those who are devoted to Lord Krishna never tire of hearing descriptions of his divine pastimes. The nectar of these pastimes is such that the more it is relished the more it increases.”
 
@@ -449,19 +444,18 @@ BG 10.19: The Blessed Lord spoke: I shall now briefly describe my divine glories
 Commentary
 The Amar Kosh (ancient Sanskrit dictionary that is widely respected) defines vibhūti as vibhūtir bhūtir aiśhwaryam [v17] (power and wealth). God’s powers and wealth are unlimited. Actually, everything about him is unlimited. He has unlimited forms, unlimited names, unlimited abodes, unlimited descensions, unlimited pastimes, unlimited devotees, and so on. Hence, the Vedas refer to him by the name anant (unlimited):
 
-anantaśhchātmā viśhwarūpo hyakartā (Śhwetāśhvatar Upaniṣhad 1.9)[v18]
+$$shlok-commentary$$  anantaśhchātmā viśhwarūpo hyakartā 
+$$shlok-commentary$$  (Śhwetāśhvatar Upaniṣhad 1.9)[v18]
 
 “God is infinite and manifests in innumerable forms in the universe. Although he administers the universe, he is yet the non-doer.” The Ramayan states:
 
-hari ananta hari kathā anantā [v19]
+$$shlok-commentary$$  hari ananta hari kathā anantā [v19]
 
 “God is unlimited, and the pastimes he enacts in his unlimited Avatārs are also unlimited.” Sage Ved Vyas goes to the extent of saying:
 
-yo vā anantasya gunānanantān anukramiṣhyan sa tu bāla-buddhiḥ
-
-rajānsi bhūmer gaṇayet kathañchit kālena naivākhilaśhakti dhāmnaḥ
-
-(Bhāgavatam 11.4.2)[v20]
+$$shlok-commentary$$  yo vā anantasya gunānanantān anukramiṣhyan sa tu bāla-buddhiḥ
+$$shlok-commentary$$  rajānsi bhūmer gaṇayet kathañchit kālena naivākhilaśhakti dhāmnaḥ
+$$shlok-commentary$$  (Bhāgavatam 11.4.2)[v20]
 
 “Those who think they can count the glories of God have a childish intellect. We may be successful in counting the specks of dust on the crest of the earth, but we can never count the unlimited glories of God.” Therefore, Shree Krishna says here that he will only be describing a small fraction of his vibhūtis.
 
@@ -484,23 +478,25 @@ Shree Krishna declares that he is not far from the soul—in fact he is closer t
 
 Our soul is the body of God, who is the Soul of our soul. The Bhāgavatam states:
 
-harirhi sākṣhādbhagavān śharīriṇāmātmā jhaṣhāṇāmiva toyamīpsitam (5.18.13)[v22]
+$$shlok-commentary$$  harirhi sākṣhādbhagavān śharīriṇāmātmā jhaṣhāṇāmiva toyamīpsitam 
+$$shlok-commentary$$  (5.18.13)[v22]
 
 “God is the ātmā of the ātmā (Soul of the soul) of all living beings.” In the Bhāgavatam again, when Shukadev described how the gopīs used to leave their own children to go and see baby Shree Krishna, Parikshit asked him how this was possible:
 
-brahman parodbhave kṛiṣhṇe iyān premā kathaṁ bhavet (10.14.49)[v23]
+$$shlok-commentary$$  brahman parodbhave kṛiṣhṇe iyān premā kathaṁ bhavet 
+$$shlok-commentary$$  (10.14.49)[v23]
 
 “O Brahmin, all mothers are attached to their own children. How did the gopīs develop such intense attachment to Shree Krishna, which they did not even feel toward their own child?” Shukadev replied:
 
-kṛiṣhṇamenamavehi tvamātmānamakhilātmanām (Bhāgavatam 10.14.55)[v24]
+$$shlok-commentary$$  kṛiṣhṇamenamavehi tvamātmānamakhilātmanām 
+$$shlok-commentary$$  (Bhāgavatam 10.14.55)[v24]
 
 “Please understand that Lord Krishna is the Supreme Soul of all living beings in the universe. For the benefit of humankind, he has appeared in a human form by his Yogmaya power.”
 
 Shree Krishna further states that he is the beginning, middle, and end of all living beings. They have emanated from him, and so he is their beginning. All life that exists in creation is sustained by his energy, and so he is the middle. And those who attain liberation go to his divine abode to live eternally with him. Hence, God is also the end of all living beings. Amongst the various definitions of God given by the Vedas, one of them is:
 
-yato vā imāni bhūtāni jāyante yena jātāni jīvanti, yatprayantyabhisamviśhanti
-
-(Taittirīya Upaniṣhad 3.1.1)[v25]
+$$shlok-commentary$$  yato vā imāni bhūtāni jāyante yena jātāni jīvanti, yatprayantyabhisamviśhanti
+$$shlok-commentary$$  (Taittirīya Upaniṣhad 3.1.1)[v25]
 
 “God is he from whom all living beings have emanated; God is he within whom all living beings are situated; God is he into whom all living beings shall unite.”
 
@@ -523,9 +519,8 @@ From the Puranas we learn that Sage Kashyap had two wives— Aditi and Diti. Fro
 
 Amongst luminous objects, the sun is supreme. The Ramayan states:
 
-rākāpati ṣhoṛasa uahiñ tārāgana samudāi,
-
-sakala girinha dava lāia binu rabi rāti na jāi [v26]
+$$shlok-commentary$$  rākāpati ṣhoṛasa uahiñ tārāgana samudāi,
+$$shlok-commentary$$  sakala girinha dava lāia binu rabi rāti na jāi [v26]
 
 “At night, all the lamps along with all the stars in the sky and the moon as well are together insufficient in removing the darkness of the night. But the moment the sun rises, the night gets dispelled.” That is the power of the sun, which Shree Krishna reveals as his vibhūti.
 
@@ -623,7 +618,8 @@ The Himalayas are a mountain range lying at the north of India. Since ages, they
 
 Yajña is the act of dedicating ourselves to the Supreme. The simplest of all yajñas is the chanting of the holy names of God. This is called japa yajña, or the sacrifice of the devotional repetition of the divine names of God. For the practice of ritualistic yajñas, a number of rules are applicable, all of which need to be meticulously followed. However, in japa yajña, there are no rules. It can be done anywhere and at any time, and is more purifying than the other forms of yajñas. In the present age of Kali, the chanting of the names of God is even more emphasized.
 
-kalijuga kevala nāma ādhārā, sumiri sumiri nara utarahiṅ pārā (Ramayan)[v28]
+$$shlok-commentary$$  kalijuga kevala nāma ādhārā, sumiri sumiri nara utarahiṅ pārā 
+$$shlok-commentary$$  (Ramayan)[v28]
 
 “In the age of Kali, the chanting and remembrance of the names of God is the most powerful means of crossing the ocean of material existence.”
 
@@ -762,15 +758,11 @@ Earlier in the twentieth verse, Shree Krishna had stated that he is the beginnin
 
 Vidyā is the education that a person acquires in relation to subjects of knowledge. The scriptures describe eighteen types of vidyās. Amongst them, fourteen are prominent:
 
-aṅgāni vedāśhchatvāro mīmānsā nyāya vistaraḥ
-
-purāṇaṁ dharmaśhāstraṁ cha vidyā hyetāśhchaturdaśha
-
-āyurvedo dhanurvedo gāndharvaśhchaiva te trayaḥ
-
-arthaśhāstraṁ chaturthaṁ tu vidyā hyaṣhṭādaśhaiva tāḥ
-
-(Viṣhṇu Purāṇ 3.6.27-28)[v29]
+$$shlok-commentary$$  aṅgāni vedāśhchatvāro mīmānsā nyāya vistaraḥ
+$$shlok-commentary$$  purāṇaṁ dharmaśhāstraṁ cha vidyā hyetāśhchaturdaśha
+$$shlok-commentary$$  āyurvedo dhanurvedo gāndharvaśhchaiva te trayaḥ
+$$shlok-commentary$$  arthaśhāstraṁ chaturthaṁ tu vidyā hyaṣhṭādaśhaiva tāḥ
+$$shlok-commentary$$  (Viṣhṇu Purāṇ 3.6.27-28)[v29]
 
 “Śhikśhā, Kalp, Vyākaraṇ, Nirukti, Jyotiṣh, Chhanda—these are the six types of knowledge known as Vedāṅg (limbs of the Vedas). Ṛig, Yajur, Sāma, Atharva—these are the four branches of Vedic knowledge. Along with Mīmānsā, Nyāya, Dharma Śhāstra, and the Puranas, these comprise the fourteen chief vidyās.” Practice of these vidyās cultivates the intellect, deepens the knowledge, and increases awareness of the path of dharma. Additionally, the science of spirituality liberates human beings from material bondage and gives them immortality. Thus, it is superior to the previously mentioned vidyās. This is mentioned in the Śhrīmad Bhāgavatam as well: sā vidyā tanmatiryayā (Verse 4.29.49)[v30] “The best knowledge is that by which the intellect becomes attached to the lotus feet of God.”
 
@@ -838,9 +830,8 @@ Earlier Shree Krishna had said that of the Vedas he is the Sāma Veda, which is 
 
 The Sanskrit language, like other languages, has distinctive systems of rhymes and meters for writing poetry. The poetry of the Vedas is in many meters. Amongst these, the Gayatri meter is very attractive and melodious. A famous mantra set in this meter is the Gayatri mantra. It is also a deeply meaningful prayer:
 
-bhūrbhuvaḥ swaḥ tatsaviturvareṇyaṁ bhargo devasya dhīmahi dhiyo yo naḥ prachodayāt
-
-(Rig Veda 3.62.10)[v31]
+$$shlok-commentary$$  bhūrbhuvaḥ swaḥ tatsaviturvareṇyaṁ bhargo devasya dhīmahi dhiyo yo naḥ prachodayāt
+$$shlok-commentary$$  (Rig Veda 3.62.10)[v31]
 
 “We meditate upon the Lord who is illuminating the three worlds and is worthy of our worship. He is the remover of all sins and the destroyer of ignorance. May he illumine our intellects in the proper direction.” The Gayatri mantra is a part of the sacred thread ceremony for young males, and is recited as a part of the daily rituals. The Devi Gayatri, the Rudra Gayatri, the Brahma Gayatri, the Paramhansa Gayatri, and several other Gayatri mantras are also found in the Vedas.
 
@@ -988,7 +979,7 @@ Shree Krishna’s statement indicates that he has already answered the question.
 
 Why does he make a reference to a fraction of his being here? The reason is that the entire material creation consisting of unlimited universes is only one-fourth of God’s entire manifestation; the remaining three-fourths is the spiritual creation.
 
-pādo ’sya viśhwā bhūtāni tripādasyāmṛitaṁ divi (Puruṣh Sūktam Mantra 3)[v32]
+$$shlok-commentary$$  pādo ’sya viśhwā bhūtāni tripādasyāmṛitaṁ divi (Puruṣh Sūktam Mantra 3)[v32]
 
 “This temporary world made from the material energy is but one part of the Supreme Divine Personality. The other three parts are his eternal abodes that are beyond the phenomenon of life and death.”
 
@@ -1256,11 +1247,9 @@ BG 11.14: Then, Arjun, full of wonder and with hair standing on end, bowed his h
 Commentary
 Arjun was struck with amazement and deep reverence on seeing that breathtaking spectacle. It struck devotional chords in his heart that evoked paroxysms of delight. The elation experienced through devotional sentiments occasionally finds expression in physical symptoms. The bhakti scriptures describe eight such symptoms, or the aṣhṭa sāttvic bhāv, that sometimes manifests in devotees when their heart gets thrilled in devotion:
 
-stambha swedo ’ tha romāñchaḥ svarabhedo ’tha vepathuḥ
-
-vaivarṇyamaśhru pralaya ityaṣhṭau sātvikāḥ smṛitāḥ
-
-(Bhakti Rasāmṛit Sindhu)[v1]
+$$shlok-commentary$$  stambha swedo ’ tha romāñchaḥ svarabhedo ’tha vepathuḥ
+$$shlok-commentary$$  vaivarṇyamaśhru pralaya ityaṣhṭau sātvikāḥ smṛitāḥ
+$$shlok-commentary$$  (Bhakti Rasāmṛit Sindhu)[v1]
 
 “Becoming stupefied, sweating, horripilation, choking of the voice, trembling, complexion becoming ashen, shedding tears, and fainting—these are the physical symptoms by which intense love in the heart sometimes manifests.” That is what Arjun experienced as his hair began standing on end. Bowing down in reverence with folded hands, he uttered the words that follow. What Arjun said is now described in the next seventeen verses.
 
@@ -1352,11 +1341,13 @@ BG 11.18: I recognize you as the supreme imperishable being, the ultimate truth 
 Commentary
 Arjun announced that he recognized the sovereignty of Shree Krishna’s position as the Supreme Lord, who is the support of all creation, and who is to be known through all the scriptures. The Kaṭhopaniṣhad states:
 
-sarve vedā yat padamāmananti (1.2.15)[v2]
+$$shlok-commentary$$  sarve vedā yat padamāmananti 
+$$shlok-commentary$$  (1.2.15)[v2]
 
 “The aim of all the Vedic mantras is to take us in the direction of God. He is the object of the study of the Vedas.” The Śhrīmad Bhāgavatam states:
 
-vāsudeva-parā vedā vāsudeva-parā makhāḥ (1.2.28)[v3]
+$$shlok-commentary$$  vāsudeva-parā vedā vāsudeva-parā makhāḥ 
+$$shlok-commentary$$  (1.2.28)[v3]
 
 “The goal of cultivating Vedic knowledge is to reach God. All sacrifices are also meant for pleasing him.” In his tribute to Shree Krishna, Arjun expressed his realization that the personal form of the Lord, standing before him, was the same supreme absolute truth that is the object of all Vedic knowledge.
 
@@ -1405,7 +1396,7 @@ BG 11.20: The space between heaven and earth and all the directions are pervaded
 Commentary
 Arjun says, “O Omnipresent Lord, you are pervading in all ten directions, the whole earth, the sky above, and the space in-between. All living beings are shuddering in fear of you.” Why should the three worlds shudder before the universal form when they have not even seen it? Arjun implies that everyone is functioning in fear of God’s laws. His edicts are in place, and everyone is obliged to submit to them.
 
-karama pradhāna bisva kari rākhā, jo jasa karai so tasa phala chākhā (Ramayan)[v4]
+$$shlok-commentary$$  karama pradhāna bisva kari rākhā, jo jasa karai so tasa phala chākhā (Ramayan)[v4]
 
 “The world functions according to the law of karma. Whatever we do, we will have to reap the karmic results.” Like the law of karma, there are innumerable laws in existence. Many scientists make a living out of discovering and theorizing the physical laws of nature, but they can never make the laws. God is the supreme law-maker, and everyone is subject to the dominion of his laws.
 
@@ -1472,15 +1463,15 @@ BG 11.23: O mighty Lord, in veneration of your magnificent form with its many mo
 Commentary
 The numerous hands, legs, faces, and stomach of God are everywhere. The Śhwetāśhvatar Upaniṣhad states:
 
-sahasraśhīrṣhā puruṣhaḥ sahasrākṣhaḥ sahasrapāt
-
-sa bhūmiṁ viśhwato vṛitvātyatiṣhṭhaddaśhāṅgulam (3.14)[v5]
+$$shlok-commentary$$  sahasraśhīrṣhā puruṣhaḥ sahasrākṣhaḥ sahasrapāt
+$$shlok-commentary$$  sa bhūmiṁ viśhwato vṛitvātyatiṣhṭhaddaśhāṅgulam 
+$$shlok-commentary$$  (3.14)[v5]
 
 “The Supreme Entity has thousands of heads, thousands of eyes, and thousands of feet. He envelopes the universe, but is transcendental to it. He resides in all humans, about ten fingers above the navel, in the lotus of the heart.” Those who are beholding and those who are being beheld, the terrified and the terrifying, are all within the universal form of the Lord. Again, the Kaṭhopaniṣhad states:
 
-bhayādasyāgnistapati bhayāt tapati sūryaḥ
-
-bhayādindraśhcha vāyuśhcha mṛityurdhāvati pañchamaḥ (2.3.3)[v6]
+$$shlok-commentary$$  bhayādasyāgnistapati bhayāt tapati sūryaḥ
+$$shlok-commentary$$  bhayādindraśhcha vāyuśhcha mṛityurdhāvati pañchamaḥ 
+$$shlok-commentary$$  (2.3.3)[v6]
 
 “It is from the fear of God that the fire burns and the sun shines. It is out of fear of him that the wind blows and Indra causes the rain to fall. Even Yamraj, the god of death, trembles before him.”
 
@@ -1509,19 +1500,16 @@ That is the nature of love. It absorbs the mind so deeply that the devotee forge
 
 The cowherds of Braj merely viewed Shree Krishna as their bosom buddy. Jagadguru Shree Kripaluji Maharaj describes their pastimes with Shree Krishna very sweetly:
 
-dekho dekho rī, gwāla bālana yārī
-
-rijhavata khela jitāya sakhana ko, ghoṛā bani bani banawārī
-
-(Prem Ras Madirā, Rasiyā Mādhuri, Pada 7)[v7]
+$$shlok-commentary$$  dekho dekho rī, gwāla bālana yārī
+$$shlok-commentary$$  rijhavata khela jitāya sakhana ko, ghoṛā bani bani banawārī
+$$shlok-commentary$$  (Prem Ras Madirā, Rasiyā Mādhuri, Pada 7)[v7]
 
 “Look at the sweetness of the loving interactions between Shree Krishna and his cowherd friends! They play games together, and when Shree Krishna loses the game, he becomes a horse by sitting on all fours and his friend rides on his back.” If the cowherd friends remembered that Shree Krishna was God, they would never have the gumption to do such a thing. And the Lord too relishes the intimacy of such interactions with his devotees in which they relate with him as a dear friend.
 
 Shree Krishna enacted the famous Goverdhan leela pastime upon the earth, in which he lifted the Goverdhan Hill on the little finger of his left hand, to protect the residents of the land of Braj from the rain caused by Indra, the king of heaven and the celestial god of rain. However, Krishna’s little cowherd associates were not impressed. In their eyes, Krishna was merely a loveable friend, and so they did not believe he could lift the hill. Jagadguru Shree Kripaluji Maharaj states in continuation to the verse above:
 
-nakha dhāryo goverdhana-giri jaba, sakhana kahyo hama giridhārī
-
-(Prem Ras Madirā, Rasiyā Mādhurī, Pada 7)[v8]
+$$shlok-commentary$$  nakha dhāryo goverdhana-giri jaba, sakhana kahyo hama giridhārī
+$$shlok-commentary$$  (Prem Ras Madirā, Rasiyā Mādhurī, Pada 7)[v8]
 
 “When Shree Krishna lifted the Goverdhan Hill, his cowherd friends applied their sticks to the bottom of the hill, thinking that they were the actual lifters of the hill.” At the end, Indra accepted defeat and came seated on his white elephant. He apologized for having sent the torrential rain, without realizing Shree Krishna’s supreme position.
 
@@ -1579,21 +1567,17 @@ BG 11.26-27: I see all the sons of Dhritarashtra, along with their allied kings,
 Commentary
 What are the teeth of God that Arjun is referring to? He mentioned them in the previous verse as well. We use our teeth to grind our food. God’s teeth are his force of destruction that grinds everyone to death with the passage of time. The American poet, H.W. Longfellow wrote:
 
-Though the mills of God grind slowly,
-
-Yet they grind exceeding small;
-
-Though with patience he stands waiting,
-
-With exactness grinds he all [v9]
+$$shlok-commentary$$  Though the mills of God grind slowly,
+$$shlok-commentary$$  Yet they grind exceeding small;
+$$shlok-commentary$$  Though with patience he stands waiting,
+$$shlok-commentary$$  With exactness grinds he all [v9]
 
 Arjun sees the great Kaurava generals—Bheeshma, Dronacharya, and Karn—and also many of the Pandava generals rushing headlong into the mouth of the Lord, to be ground between his teeth. He is beholding the imminent future in the cosmic form of God. Since God is beyond the limits of time, so the past, present, and future are visible within him in the present.
 
 Bheeshma, the grandsire of the Kauravas and the Pandavas, was the son of Shantanu and Ganga. To facilitate his father’s wish for remarriage, Bheeshma renounced his right to the throne, and also took a lifelong vow of celibacy. However, Bheeshma had continued to support Duryodhan, despite knowing very well that he was evil and was usurping the right of the Pandavas. Thus, he was destined to die in this war of goodness versus evil. The Śhrīmad Bhāgavatam describes Bheeshma’s prayer to the Lord, when he lay on the bed of arrows at the end of his life:
 
-sapadi sakhi-vacho niśhamya madhye nija-parayor balayo rathaṁ niveśhya
-
-sthitavati para-sainikāyur akṣhṇā hṛitavati pārtha-sakhe ratir mamāstu (1.9.35)[v10]
+$$shlok-commentary$$  sapadi sakhi-vacho niśhamya madhye nija-parayor balayo rathaṁ niveśhya
+$$shlok-commentary$$  sthitavati para-sainikāyur akṣhṇā hṛitavati pārtha-sakhe ratir mamāstu (1.9.35)[v10]
 
 “Let my mind meditate upon Arjun’s dear pal, Shree Krishna, who obeyed his friend’s command to drive the chariot to the center of the two armies, and while there, he shortened the lifespan of the opposing generals by his mere glance.” So, Bheeshma himself was aware that the consequence of fighting against the Supreme Lord Shree Krishna would be death.
 
@@ -1739,9 +1723,8 @@ BG 11.34: Dronacharya, Bheeshma, Jayadratha, Karn, and other brave warriors have
 Commentary
 Many of the generals on the side of the Kauravas were heretofore undefeated in combat. Jayadrath had the boon that whoever caused his head to fall on the ground would instantly have his own head burst into pieces. Karn had a special weapon called “Śhakti” given to him by Indra, which would slay anyone against whom it was used. But it could only be used once, and so Karn had kept it to take vengeance on Arjun. Dronacharya had received the knowledge of all weapons and how to neutralize them from Parshuram, who was an Avatār of God. Bheeshma had a boon that he would only die when he chose to do so. And yet, if God wished them to die in the battle, then nothing could save them. There is a saying:
 
-vindhya na īndhana pāiye, sāgara juḍai na nīra
-
-parai upas kuber ghara, jyoṅ vipakṣha raghubīra [v11]
+$$shlok-commentary$$  vindhya na īndhana pāiye, sāgara juḍai na nīra
+$$shlok-commentary$$  parai upas kuber ghara, jyoṅ vipakṣha raghubīra [v11]
 
 “If Lord Ram decides to be against you, then you may live in the Vindhyachal forest, but you will not be able to get firewood to light a fire; you may be by the side of the ocean, but water will be scarce for your usage; and you may live in the house of Kuber, the god of wealth, but you will not have enough to eat.” Thus, even the biggest arrangements for security cannot avert a person’s death if God has willed it to happen. Similarly, Shree Krishna says that he has already decided the outcome, but he wishes Arjun to be the medium to accomplish it and receive the glory of the conquest as a reward for his agency. Just as devotees wish to glorify God, it is God’s nature to glorify his devotees. Hence, Shree Krishna does not wish the credit to come to him; he wishes people to say after the war, “Arjun fought so valiantly that he secured victory for the Pandavas.”
 
@@ -1839,17 +1822,17 @@ BG 11.38: You are the primeval God and the original Divine Personality; you are 
 Commentary
 Arjun addresses Shree Krishna as the original Divine Person, the cause of all causes. Every object and every personality has a cause, or a source, from which it came into being. Even Lord Vishnu has a cause. Although he is also a form of God, he is an expansion of Shree Krishna. However, Shree Krishna is not the expansion of any personality. He is the causeless first cause of everything that exists. Hence, Brahma prays to him:
 
-īśhwaraḥ paramaḥ kṛiṣhaṇaḥ sachchidānanda vigrahaḥ
-
-anādirādi govindaḥ sarva kāraṇa kāraṇam (Brahma Samhitā 5.1)[v12]
+$$shlok-commentary$$  īśhwaraḥ paramaḥ kṛiṣhaṇaḥ sachchidānanda vigrahaḥ
+$$shlok-commentary$$  anādirādi govindaḥ sarva kāraṇa kāraṇam 
+$$shlok-commentary$$  (Brahma Samhitā 5.1)[v12]
 
 “Shree Krishna is the original form of the Supreme Lord. His personality is full of knowledge and Bliss. He is the origin of all, but he is without origin. He is the cause of all causes.”
 
 Shree Krishna is omniscient—the knower of everything. Further, he is also the object of all knowledge. The Śhrīmad Bhāgavatam (4.29.49) states: sā vidyā tanmatir yayā [v13]“True knowledge is that which helps us know God.” Jagadguru Shree Kripaluji Maharaj states:
 
-jo hari sevā hetu ho, soī karm bakhān
-
-jo hari bhagati baṛhāve, soī samujhiya jñāna (Bhakti Śhatak verse 66)[v14]
+$$shlok-commentary$$  jo hari sevā hetu ho, soī karm bakhān
+$$shlok-commentary$$  jo hari bhagati baṛhāve, soī samujhiya jñāna 
+$$shlok-commentary$$  (Bhakti Śhatak verse 66)[v14]
 
 “Whatever work is done in the service of God, know that truly to be karm. Whatever knowledge enhances our love for God, know that to be true jñāna.” Hence, Shree Krishna is both the knower and the object of knowledge.
 
@@ -1926,23 +1909,28 @@ BG 11.41-42: Thinking of you as my friend, I presumptuously addressed you as, �
 Commentary
 Declaring the unparalleled supremacy of God, all the scriptures state:
 
-aham evāsam evāgre nānyat kiñchāntaraṁ bahiḥ (Bhāgavatam 6.4.47)[v15]
+$$shlok-commentary$$  aham evāsam evāgre nānyat kiñchāntaraṁ bahiḥ 
+$$shlok-commentary$$  (Bhāgavatam 6.4.47)[v15]
 
 “I, the Supreme Lord, am everything that exists. There is nothing beyond me and nothing higher than me.”
 
-tvamomkāraḥ parātparaḥ (Vālmīki Ramayan)[v16]
+$$shlok-commentary$$  tvamomkāraḥ parātparaḥ 
+$$shlok-commentary$$  (Vālmīki Ramayan)[v16]
 
 “The primordial sound “Om” is your manifestation. You are greater than the greatest.”
 
-vāsudevaḥ praḥ prabhuḥ (Nārad Pañcharātra)[v17]
+$$shlok-commentary$$  vāsudevaḥ praḥ prabhuḥ 
+$$shlok-commentary$$  (Nārad Pañcharātra)[v17]
 
 “Shree Krishna is the ultimate Supreme Lord.”
 
-na devaḥ keśhavāt paraḥ (Nārad Purāṇ)[v18]
+$$shlok-commentary$$  na devaḥ keśhavāt paraḥ 
+$$shlok-commentary$$  (Nārad Purāṇ)[v18]
 
 “There is no god higher than Lord Krishna.”
 
-vidyāt taṁ puruṣhaṁ param (Manu Smṛiti 12.122)[v19]
+$$shlok-commentary$$  vidyāt taṁ puruṣhaṁ param 
+$$shlok-commentary$$  (Manu Smṛiti 12.122)[v19]
 
 “God is the highest and ultimate personality that exists.” However, as was explained previously (commentary of verse 11.24), when love swells immensely it makes the lover forget the formal position of the beloved. Thus, in his extreme love for Shree Krishna, Arjun had shared many intimate memorable moments with him, blissfully oblivious of his supreme position.
 
@@ -1971,7 +1959,8 @@ Arjun says that Shree Krishna is the greatest and the senior most. The father is
 
 The Śhwetāśhvatar Upaniṣhad states:
 
-na tatsamaśh chābhyadhikaśh cha dṛiśhyate (6.8)[v21]
+$$shlok-commentary$$  na tatsamaśh chābhyadhikaśh cha dṛiśhyate 
+$$shlok-commentary$$  (6.8)[v21]
 
 “Nobody is equal to God, nor is anyone superior to him.” Realizing Shree Krishna to be that same Supreme Lord of the Vedas, Arjun is declaring the above attributes regarding him.
 
@@ -2019,11 +2008,9 @@ There are two kinds of bhakti—aiśhwarya bhakti and mādhurya bhakti. Aiśhwar
 
 Mādhurya bhakti is that where the devotee feels an intimate personal relationship with God. The dominant sentiment in such devotion is “Shree Krishna is mine and I am his.” Examples of mādhurya bhakti are the cowherd boys of Vrindavan who loved Krishna as their friend, Yashoda and Nand baba, who loved Krishna as their child, and the gopīs who loved him as their beloved. Mādhurya bhakti is infinitely sweeter than aiśhwarya bhakti. Hence, Jagadguru Shree Kripaluji Maharaj states:
 
-sabai sarasa rasa dwārikā, mathurā aru braja māhiñ
-
-madhura, madhuratara, madhuratama, rasa brajarasa sama nāhiñ
-
-(Bhakti Śhatak verse 70)[v22]
+$$shlok-commentary$$  sabai sarasa rasa dwārikā, mathurā aru braja māhiñ
+$$shlok-commentary$$  madhura, madhuratara, madhuratama, rasa brajarasa sama nāhiñ
+$$shlok-commentary$$  (Bhakti Śhatak verse 70)[v22]
 
 “The divine bliss of God is immensely sweet in all his forms. Yet, there is a gradation in it—the bliss of his Dwaraka pastimes is sweet, the bliss of his Mathura pastimes is sweeter, and the bliss of his Braj pastimes is the sweetest.”
 
@@ -2062,9 +2049,9 @@ By special grace, Arjun has been shown the cosmic form that is not easily seen b
 
 In the four-armed form, Shree Krishna appeared before Arjun on another occasion as well. When Arjun tied Ashwatthama, the killer of the five sons of Draupadi and brought him before her, at that time Shree Krishna revealed himself in his four-armed form.
 
-niśhamya bhīma-gaditaṁ draupadyāśh cha chatur-bhujaḥ
-
-ālokya vadanaṁ sakhyur idam āha hasanniva (Śhrīmad Bhāgavatam 1.7.52)[v23]
+$$shlok-commentary$$  niśhamya bhīma-gaditaṁ draupadyāśh cha chatur-bhujaḥ
+$$shlok-commentary$$  ālokya vadanaṁ sakhyur idam āha hasanniva 
+$$shlok-commentary$$  (Śhrīmad Bhāgavatam 1.7.52)[v23]
 
 “The four-armed Shree Krishna heard the statements of Bheem, Draupadi, and others. Then he looked toward his dear friend Arjun and began smiling.” By requesting Shree Krishna to manifest in his four-armed form, Arjun is also confirming that the four-armed form of the Lord is non-different from his two-armed form.
 
@@ -2114,7 +2101,8 @@ BG 11.48: Not by study of the Vedas, nor by the performance of sacrifice, ritual
 Commentary
 Shree Krishna declares that no amount of self-effort—the study of the Vedic texts, performance of ritualistic ceremonies, undertaking of severe austerities, abstinence from food, or generous acts of charity—is sufficient to bestow a vision of the cosmic form of God. This is only possible by his divine grace. This has been repeatedly stated in the Vedas as well:
 
-tasya no hrāsva tasya no dhehi (Yajur Veda)[v24]
+$$shlok-commentary$$  tasya no hrāsva tasya no dhehi 
+$$shlok-commentary$$  (Yajur Veda)[v24]
 
 “Without being anointed in the nectar of the grace of the Supreme Lord, nobody can see him.”
 
@@ -2210,7 +2198,8 @@ BG 11.52-53: The Supreme Lord said: This form of mine that you are seeing is exc
 Commentary
 Having shown Arjun the cosmic form, and having praised it as being unavailable to anyone but him, Shree Krishna does not want him to slacken his love for the personal form of God. Hence, Shree Krishna says that the way in which Arjun sees God is exceedingly rare. He emphasizes that even the celestial gods yearn to realize God in his two-armed personal form as he is standing before Arjun. This is not possible by any amount of Vedic studies, austerities, or fire sacrifices. The basic spiritual principle is that God cannot be known by the strength of one’s efforts. However, those who engage in devotion to him become recipients of his grace. Then, by virtue of his grace, they are easily able to know him. The Muṇḍakopaniṣhad states:
 
-nāyamātmā pravachanena labhyo na medhayā na bahunā śhrutena (3.2.3)[v26]
+$$shlok-commentary$$  nāyamātmā pravachanena labhyo na medhayā na bahunā śhrutena 
+$$shlok-commentary$$  (3.2.3)[v26]
 
 “God cannot be known either by spiritual discourses or through the intellect; nor can he be known by hearing various kinds of teachings.” If none of these means can help realize God in his personal form, then how can he be seen in this manner? He now reveals the secret.
 
@@ -2231,23 +2220,24 @@ BG 11.54: O Arjun, by unalloyed devotion alone can I be known as I am, standing 
 Commentary
 In this verse, Shree Krishna emphasizes bhakti as the means for attaining him. Earlier, in verse 11.48, he had stated that his universal form can be seen only by devotion. Now, in this verse, Shree Krishna emphatically declares that his two-armed form as he is standing before Arjun can only be realized through bhakti. This has been repeatedly stated in the Vedic scriptures:
 
-bhaktirevainaṁ nayati bhaktirevainaṁ paśhyati bhaktirevainaṁ darśhayati bhakti vaśhaḥ
-
-puruṣho bhaktireva garīyasī (Māṭhar Śhruti)[v27]
+$$shlok-commentary$$  bhaktirevainaṁ nayati bhaktirevainaṁ paśhyati bhaktirevainaṁ darśhayati bhakti vaśhaḥ
+$$shlok-commentary$$  puruṣho bhaktireva garīyasī (Māṭhar Śhruti)[v27]
 
 “Devotion alone will unite us with God; devotion alone will help us see him; devotion alone will help us attain him; God is enslaved by true devotion, which is the best of all paths.”
 
-na sādhayati māṁ yogo na sānkhyaṁ dharma uddhava
-
-na svādhyāyas tapas tyāgo yathā bhaktir mamorjitā (Bhāgavatam 11.14.20)[v28]
+$$shlok-commentary$$  na sādhayati māṁ yogo na sānkhyaṁ dharma uddhava
+$$shlok-commentary$$  na svādhyāyas tapas tyāgo yathā bhaktir mamorjitā 
+$$shlok-commentary$$  (Bhāgavatam 11.14.20)[v28]
 
 “Uddhav, I come under the control of my devotees and am won over by them. But those who do not engage in devotion can never attain me by practicing aṣhṭāṅg yog, studying Sānkhya and other philosophies, performing pious acts and austerities, or cultivating renunciation.”
 
-bhaktyāham ekayā grāhyaḥ śhraddhayātmā priyaḥ satām (Bhāgavatam 11.14.21)[v29]
+$$shlok-commentary$$  bhaktyāham ekayā grāhyaḥ śhraddhayātmā priyaḥ satām 
+$$shlok-commentary$$  (Bhāgavatam 11.14.21)[v29]
 
 “I am only attained through bhakti. Those who engage in my bhakti with faith are very dear to me.”
 
-milahiṅ na raghupati binu anurāgā, kieṅ joga tapa gyāna birāgā. (Ramayan)[v30]
+$$shlok-commentary$$  milahiṅ na raghupati binu anurāgā, kieṅ joga tapa gyāna birāgā. 
+$$shlok-commentary$$  (Ramayan)[v30]
 
 “Without devotion, one can never attain God, no matter how much one endeavors through the practice of aṣhṭāṅg yog, austerities, knowledge, and detachment.” In the next verse, Shree Krishna describes what bhakti is.
 
@@ -2270,9 +2260,8 @@ At the end of the ninth chapter, Shree Krishna had told Arjun to fix his mind up
 
 They perform all their duties for my sake. Accomplished devotees do not divide their works into material and spiritual. They perform every work for the pleasure of God, thus consecrating every act of theirs to him. The Saint Kabir states:
 
-jahañ jahañ chalūñ karūñ parikramā, jo jo karūñ so sevā
-
-jaba sovūñ karūñ daṇḍavat, jānūñ deva na dūjā [v31]
+$$shlok-commentary$$  jahañ jahañ chalūñ karūñ parikramā, jo jo karūñ so sevā
+$$shlok-commentary$$  jaba sovūñ karūñ daṇḍavat, jānūñ deva na dūjā [v31]
 
 “When I walk, I think I am circumambulating the Lord; when I work, I think I am serving the Lord; and when I sleep, I think I am offering him obeisance. In this manner, I perform no activity other than that which is offered to him.”
 
@@ -2310,9 +2299,8 @@ In the last chapter, Arjun saw the cosmic form of the Lord, which encompasses th
 
 Arjun’s question once again confirms that God has both aspects—the all-pervading formless Brahman and the personal form.  Those who say that God cannot possess a personal form limit Him, and those who say that God only exists in a personal form also limit Him.  God is perfect and complete, and so He is both formless and possessing forms.  We individual souls too have both aspects to our personality.  The soul is formless, and yet it has taken on a body, not once, but innumerable times, in countless past lifetimes.  If we tiny souls have the ability to possess a form, can the all-powerful God not possess a form whenever He wishes?  Even the great proponent of the path of jñāna-yog, Jagadguru Shankaracharya, stated:
 
-mūrtaṁ chaivāmūrtaṁ dwe eva brahmaṇo rūpe, ityupaniṣhat tayorvā dwau
-
-bhaktau bhagavadupadiṣhṭau, kleṣhādakleśhādwā muktisyāderatayormadhye
+$$shlok-commentary$$  mūrtaṁ chaivāmūrtaṁ dwe eva brahmaṇo rūpe, ityupaniṣhat tayorvā dwau
+$$shlok-commentary$$  bhaktau bhagavadupadiṣhṭau, kleṣhādakleśhādwā muktisyāderatayormadhye
 
 “The Supreme entity is both personal and impersonal.  Practitioners of the spiritual path are also of two kinds—devotees of the formless Brahman, and devotees of the personal form.  But the path of worshipping the formless is very difficult.”
 
@@ -2337,17 +2325,15 @@ God can be realized in varying degrees of closeness.  Let us understand this thr
 
 Similarly, God is perfect and complete, and is the possessor of unlimited energies.  His personality is replete with divine Names, Forms, Pastimes, Virtues, Associates, and Abodes.  However, He is realized in varying levels of closeness, as the Brahman (formless all-pervading manifestation of God), the Paramātmā (the Supreme Soul seated in the heart of all living beings, distinct from the individual soul), and Bhagavān (the personal manifestation of God that descends upon the earth).  The Bhagavatam states:
 
-vadanti tat tattva vidastattvaṁ yaj-jñānamadvayam
-
-brahmeti paramātmeti bhagavān iti śhabdyate   (1.2.11)
+$$shlok-commentary$$  vadanti tat tattva vidastattvaṁ yaj-jñānamadvayam
+$$shlok-commentary$$  brahmeti paramātmeti bhagavān iti śhabdyate   (1.2.11)
 
 “The knowers of the Truth have stated that there is only one Supreme Entity that manifests in three ways in the world—Brahman, Paramātmā, and Bhagavān.”  They are not three different Gods; rather, They are three manifestations of the one Almighty God.  However, Their qualities are different.  This is just as water, steam, and ice are all made from the same substance—H2O molecules—but their physical qualities are different.  If a thirsty person asks for water, and we give ice, it will not quench the thirst.  Ice and water are both the same substance but their physical properties are different.  Similarly, Brahman, Paramātmā, and Bhagavān are manifestations of the one Supreme Lord but Their qualities are different.  
 
 Brahman is the all-pervading form of God, which is everywhere.  The Śhwetāśhvatar Upaniṣhad states:
 
-eko devaḥ sarvabhūteṣhu gūḍhaḥ
-
-sarvavyāpī sarvabhūtāntarātmā...(6.11)   
+$$shlok-commentary$$  eko devaḥ sarvabhūteṣhu gūḍhaḥ
+$$shlok-commentary$$  sarvavyāpī sarvabhūtāntarātmā...(6.11)   
 
 “There is only one Supreme Entity.  He is seated in everything and everyone.”  This all-pervading aspect of the Lord is called Brahman.  It is full of eternality, knowledge, and bliss.  However in this aspect, God does not manifest His infinite qualities, enchanting personal beauty, and sweet Pastimes.  He is like a divine light that is nirguṇa (without qualities), nirvivśeṣh (without attributes), nirākār (without form). 
 
@@ -2359,9 +2345,8 @@ The path of aṣhṭāṅg-yog, as revealed by Patanjali in the Yog Darśhan, st
 
 Bhagavān is the aspect of God that manifests with a personal form.  The Shreemad Bhagavatam states:
 
-kṛiṣhṇam enam avehi tvam ātmānam akhilātmanām
-
-jagad-dhitāya so ’pyatra dehīvābhāti māyayā   (10.14.55)
+$$shlok-commentary$$  kṛiṣhṇam enam avehi tvam ātmānam akhilātmanām
+$$shlok-commentary$$  jagad-dhitāya so ’pyatra dehīvābhāti māyayā   (10.14.55)
 
 “The Supreme Lord Who is the Soul of all souls, has descended upon the earth in His personal form, as Shree Krishna, for the welfare of the world.”  In this Bhagavān aspect, God manifests all the sweetness of His Names, Forms, Qualities, Abodes, Pastimes, and Associates.  These attributes exist in Brahman and Paramātmā as well, but they remain latent, just as fire is latent in a match-stick, and only manifests when it is struck against the igniting strip of the matchbox.  Similarly, as Bhagavān, all the powers and aspects of God’s personality, which are latent in the other forms, get revealed.
 
@@ -2455,13 +2440,13 @@ Having explained that worship of the personal form is better, Shree Krishna now 
 
 The importance of the mind has been repeatedly stated in the Vedic scriptures: 
 
-            chetaḥ khalvasya bandhāya muktaye chātmano matam
-
-            guṇeṣhu saktaṁ bandhāya rataṁ vā puṁsi muktaye   (Bhagavatam 3.25.15)
+$$shlok-commentary$$              chetaḥ khalvasya bandhāya muktaye chātmano matam
+$$shlok-commentary$$              guṇeṣhu saktaṁ bandhāya rataṁ vā puṁsi muktaye   
+$$shlok-commentary$$              (Bhagavatam 3.25.15)
 
 “Captivity in Maya and liberation from it is determined by the mind.  If it is attached to the world, one is in bondage, and if the mind is detached from the world, one gets liberated.” 
 
-            mana eva manuṣhyāṇāṁ kāraṇaṁ bandha mokṣhayoḥ   (Pañchadaśhī)
+$$shlok-commentary$$              mana eva manuṣhyāṇāṁ kāraṇaṁ bandha mokṣhayoḥ   (Pañchadaśhī)
 
 “Bondage and liberation are decided by the state of the mind.”  Mere physical devotion is not sufficient; we must absorb the mind in thinking of God.  The reason is that without the engagement of the mind, mere sensory activity is of no value.  For example, we hear a sermon with our ears, but if the mind wanders off, we will not know what was said.  The words will fall on the ears but they will not register.  This shows that without engaging the mind the work of the senses does not count.  On the other hand, the mind is such an instrument that in it all the senses reside in the subtle form.  Thus, even without the actual sensory activity the mind experiences the perceptions of sight, smell, taste, touch, and sound.  For example, at night when we sleep our senses are inactive.  Yet while dreaming, our mind experiences the objects of all the senses.  This proves that the mind has the capacity to experience all perceptions even without the gross senses.  Therefore, while noting our karmas, God gives importance to the mental works and not the physical works of the senses. 
 
@@ -2488,9 +2473,9 @@ Fixing the mind upon Shree Krishna is the perfection of sādhanā (spiritual pra
 
 Jagadguru Shree Kripaluji Maharaj emphasizes this repeated practice in his instructions for sādhaks:
 
-jagata te mana ko haṭā kara, lagā hari meñ pyāre
-
-isī kā abhyāsa puni puni, karu nirantara pyāre   (Sādhanā Karu Pyāre)   
+$$shlok-commentary$$  jagata te mana ko haṭā kara, lagā hari meñ pyāre
+$$shlok-commentary$$  isī kā abhyāsa puni puni, karu nirantara pyāre   
+$$shlok-commentary$$  (Sādhanā Karu Pyāre)   
 
 “O dear one, remove the mind from the world and fix it on God.  Practice this constantly, again and again!”
 
@@ -2610,13 +2595,10 @@ BG 12.15: Those who are not a source of annoyance to anyone and who in turn are 
 Commentary
 The soul is by nature pure and uncontaminated.  The problem is that it is presently covered by the impure mind.  Once these impurities are removed, the glorious qualities of the soul naturally shine forth.  The Shreemad Bhagavatam states:
 
-yasyāsti bhaktir bhagavatyakiñchanā
-
-sarvair guṇais tatra samāsate surāḥ
-
-harāvabhaktasya kuto mahad-guṇā
-
-manorathenāsati dhāvato bahiḥ   (5.18.12)
+$$shlok-commentary$$  yasyāsti bhaktir bhagavatyakiñchanā
+$$shlok-commentary$$  sarvair guṇais tatra samāsate surāḥ
+$$shlok-commentary$$  harāvabhaktasya kuto mahad-guṇā
+$$shlok-commentary$$  manorathenāsati dhāvato bahiḥ   (5.18.12)
 
 “All the wonderful qualities of the celestial gods manifest in those who devote themselves to the Supreme Lord.  But those who do not engage in devotion only keep running on the chariot of their mind (no matter how many self-transformational techniques they may practice).”  Here, Shree Krishna describes some more qualities that develop in His devotees. 
 
@@ -2674,7 +2656,7 @@ They neither rejoice in mundane pleasures nor despair in worldly sorrows.  If we
 
 Neither lament for any loss nor hanker for any gain.  Such devotees neither hanker after pleasant worldly situations nor grieve in unpleasant ones.  The Nārad Bhakti Darśhan states:
 
-yatprāpya na kiñchidvāñchhati, na śhochati, na dveṣhṭi, na ramate, notsāhi bhavati (Sūtra 5)
+$$shlok-commentary$$  yatprāpya na kiñchidvāñchhati, na śhochati, na dveṣhṭi, na ramate, notsāhi bhavati (Sūtra 5)
 
 “On attaining divine love for God, the devotees neither yearn for pleasant things nor grieve on losing them.  They are not hateful of those who harm them.  They have no liking for worldly enjoyments.  They are not anxious for the enhancement of their worldly position.”  Devotees relish the bliss of God, so the bliss of all material objects seems insignificant in comparison.
 
@@ -2723,17 +2705,15 @@ Given to silent contemplation.  Crows and swans have diametrically opposite choi
 
 Content with whatever comes their way.  The needs of the devotees shrink to the bare necessities for maintaining the body.  Saint Kabir expresses this in his famous couplet:
 
-            mālik itanā dījiye, jāme kuṭumba samāya
-
-            maiṅ bhī bhūkhā na rahūñ, sādhu na bhūkhā jāya
+$$shlok-commentary$$              mālik itanā dījiye, jāme kuṭumba samāya
+$$shlok-commentary$$              maiṅ bhī bhūkhā na rahūñ, sādhu na bhūkhā jāya
 
 “O Lord, give me just enough for the bare maintenance of my family’s bodily needs, and for giving alms to the sadhu who comes to my door.”   
 
 Without attachment to the place of residence.  No earthly home can be a permanent residence for the soul, for it must necessarily be left behind at the time of death.  When the Mogul Emperor, Akbar, built his capital, Fatehpur Sikri, he put the following inscription on the main entrance gate: “The world is a bridge; cross over it but build no house on it.”  In the same vein, Jagadguru Shree Kripaluji Maharaj states:
 
-            jaga meñ raho aise govinda radhey, dharmaśhālā meñ yātrī raheñ jyoñ batā de
-
-(Rādhā Govind Geet)
+$$shlok-commentary$$              jaga meñ raho aise govinda radhey, dharmaśhālā meñ yātrī raheñ jyoñ batā de
+$$shlok-commentary$$              (Rādhā Govind Geet)
 
 “Live in this world as a traveler lives in a wayside inn (aware that it is to be vacated the next morning).”  Realizing the truth of this statement, devotees look on their home as only a temporary dwelling place.  
 
@@ -2779,10 +2759,6 @@ Translation
 BG 13.1: Arjun said, “O Keshav, I wish to understand what are prakṛiti and puruṣh, and what are kṣhetra and kṣhetrajña? I also wish to know what is true knowledge, and what is the goal of this knowledge?
 
 Commentary
- 
-
- 
-
 *[1] In some editions of the Bhagavad Gita, this verse has been omitted, and the next verse figures as the first verse of the thirteenth chapter.
 
 
@@ -2861,7 +2837,8 @@ Knowledge is appealing to the intellect when it is expressed with precision and 
 
 Vedas:  These are not just the name of some books; they are the eternal knowledge of God.  Whenever God creates the world, He manifests the Vedas for the benefit of the souls.  The Bṛihadāraṇyak Upaniṣhad (4.5.11) states:  niḥśhvasitamasya vedāḥ  “The Vedas manifested from the breath of God.”  They were first revealed in the heart of the first-born Brahma.  From there, they came down through the oral tradition, and hence, another name for them is Śhruti, or “knowledge received through the ear.”  At the beginning of the age of Kali, Ved Vyas, who was himself a descension of God, put down the Vedas in the form of a book, and divided the one body of knowledge into four portions—Ṛig Veda, Yajur Veda, Sāma Veda, and Atharva Veda.  Hence, he got the name Ved Vyās, or “one who divided the Vedas.”  The distinction must be borne in mind that Ved Vyas is never referred to as the composer of the Vedas but merely the one who divided them.  Hence, the Vedas are also called apauruṣheya, which means “not created by any person.”  They are respected as the infallible authority for spiritual knowledge. 
 
-bhūtaṁ bhavyaṁ bhaviṣhyaṁ cha sarvaṁ vedāt prasidhyati  (Manu Smṛiti 12.97)
+$$shlok-commentary$$  bhūtaṁ bhavyaṁ bhaviṣhyaṁ cha sarvaṁ vedāt prasidhyati  
+$$shlok-commentary$$  (Manu Smṛiti 12.97)
 
 “Any spiritual principle must be validated on the authority of the Vedas.”  To elaborate this knowledge of the Vedas, many sages wrote texts and these traditionally became included in the gamut of the Vedic scriptures because they conform to the authority of the Vedas.  Some of the important Vedic scriptures are listed below.
 
@@ -2891,7 +2868,7 @@ Amongst these scriptural texts, the Brahma Sūtra (Vedānt Darśhan) is consider
 
 Chaitanya Mahaprabhu, himself a Vedic scholar par excellence, did not write any commentary on the Vedānt Darśhan.  He took the view that the writer of the Vedānt, Sage Ved Vyas himself, declared that his final scripture the Shreemad Bhagavatam is its perfect commentary:
 
-arthoyaṁ brahmasūtrāṇaṁ sarvopaniṣhadāmapi
+$$shlok-commentary$$  arthoyaṁ brahmasūtrāṇaṁ sarvopaniṣhadāmapi
 
 “The Shreemad Bhagavatam reveals the meaning and the essence of the Vedānt Darśhan and all the Upanishads.”  Hence, out of respect for Ved Vyas, Chaitanya Mahaprabhu did not deem it fit to write another commentary on the scripture. 
 
@@ -3006,9 +2983,9 @@ Service of the Guru.  Spiritual knowledge is received from the Guru.  This impar
 
 Cleanliness of body and mind.  Purity should be both internal and external.  The Śhāṇdilya Upaniṣhad states:  śhauchaṁ nāma dwividhaṁ-bāhyamāntaraṁ cheti (1.1)  “There are two types of cleanliness—internal and external.”  External cleanliness is helpful in maintaining good health, developing discipline, and uncluttering the mind.  But mental cleanliness is even more important, and it is achieved by focusing the mind on the all-pure God.  Jagadguru Shree Kripaluji Maharaj states:
 
-māyādhīn malīn mana, hai anādi kālīn,
-
-hari virahānala dhoya jala, karu nirmala bani dīn.   (Bhakti Śhatak verse 79)   
+$$shlok-commentary$$  māyādhīn malīn mana, hai anādi kālīn,
+$$shlok-commentary$$  hari virahānala dhoya jala, karu nirmala bani dīn.   
+$$shlok-commentary$$  (Bhakti Śhatak verse 79)   
 
 “The material mind is dirty since endless lifetimes.  Purify it in the fire of longing for God, while practicing utmost humility.” 
 
@@ -3020,9 +2997,9 @@ Dispassion toward the objects of the senses.  It is a stage higher than the self
 
 Absence of egotism.  Egotism is the conscious awareness of “I,” “me,” and “mine.”  This is classified as nescience because it is at the bodily level, arising out of the identification of the self with the body.  It is also called the aham chetanā (pride arising out of the sense of self).  All mystics emphatically declare that to invite God into our hearts, we must get rid of the pride of the self.
 
-            jaba maiṅ thā taba hari nathīṅ, ab hari hai, maiṅ nāhīṅ
-
-            prem galī ati sankarī, yā meṅ dwe na samāhīṅ   (Saint Kabir)
+$$shlok-commentary$$              jaba maiṅ thā taba hari nathīṅ, ab hari hai, maiṅ nāhīṅ
+$$shlok-commentary$$              prem galī ati sankarī, yā meṅ dwe na samāhīṅ   
+$$shlok-commentary$$              (Saint Kabir)
 
 “When ‘I’ existed, God was not there; now God exists and ‘I’ do not.  The path of divine love is very narrow; it cannot accommodate both ‘I’ and God.” 
 
@@ -3103,15 +3080,15 @@ BG 13.15: Though He perceives all sense-objects, yet He is devoid of the senses.
 Commentary
 Having stated that God’s senses are everywhere, Shree Krishna now states the exact opposite, that He does not possess any senses.  If we try to understand this through mundane logic, we will find this contradictory.  We will inquire, “How can God have both infinite senses and also be without senses?”  However, mundane logic does not apply to Him who is beyond the reach of the intellect.  God possesses infinite contradictory attributes at the same time.  The Brahma Vaivarta Purāṇ states:
 
-viruddha dharmo rūposā vaiśhvaryāt puruṣhottamāh
+$$shlok-commentary$$  viruddha dharmo rūposā vaiśhvaryāt puruṣhottamāh
 
 “The Supreme Lord is the reservoir of innumerable contradictory attributes.”  In this verse, Shree Krishna mentions a few of the infinite contradictory attributes that exist in the personality of God.
 
 He is devoid of mundane senses like ours, and hence it is correct to say that He does not have senses.  Sarvendriya vivarjitam means “He is without material senses.”  However, He possesses divine senses that are everywhere, consequently, it is also correct to say that the senses of God are in all places.  Sarvendriya guṇābhāsaṁ means “He manifests the functions of the senses and grasps the sense objects.”  Including both these attributes, the Śhwetāśhvatar Upaniṣhad  states:
 
-apāṇipādo javano grahītā
-
-paśhyatyachakṣhuḥ sa śhṛiṇotyakarṇaḥ   (3.19) 
+$$shlok-commentary$$  apāṇipādo javano grahītā
+$$shlok-commentary$$  paśhyatyachakṣhuḥ sa śhṛiṇotyakarṇaḥ   
+$$shlok-commentary$$  (3.19) 
 
 “God does not possess material hands, feet, eyes, and ears.  Yet He grasps, walks, sees, and hears.”
 
@@ -3136,9 +3113,9 @@ BG 13.16: He exists outside and inside all living beings, those that are moving 
 Commentary
 There is a Vedic Mantra that describes God in practically the same manner as Shree Krishna has described here:
 
-tad ejati tan naijati taddūre tadvantike
-
-tad antar asya sarvasya tadusarvasyāsya bāhyataḥ   (Īśhopaniṣhad mantra 5)  
+$$shlok-commentary$$  tad ejati tan naijati taddūre tadvantike
+$$shlok-commentary$$  tad antar asya sarvasya tadusarvasyāsya bāhyataḥ   
+$$shlok-commentary$$  (Īśhopaniṣhad mantra 5)  
 
 “The Supreme Brahman does not walk, and yet He walks; He is far, but He is also near.  He exists inside everything, but He is also outside everything.” 
 
@@ -3161,9 +3138,9 @@ BG 13.17: He is indivisible, yet He appears to be divided amongst living beings.
 Commentary
 God’s personality includes His various energies.  All manifest and unmanifest objects are but expansions of His energy.  Thus, we can say He is all that exists.  Accordingly, Shreemad Bhagavatam states:
 
-dravyaṁ karma cha kālaśh cha svabhāvo jīva eva cha
-
-vāsudevāt paro brahman na chānyo ’rtho ’sti tattvataḥ   (2.5.14)
+$$shlok-commentary$$  dravyaṁ karma cha kālaśh cha svabhāvo jīva eva cha
+$$shlok-commentary$$  vāsudevāt paro brahman na chānyo ’rtho ’sti tattvataḥ   
+$$shlok-commentary$$  (2.5.14)
 
 “The various aspects of creation—time, karma, the natures of individual living beings, and the material ingredients of creation—are all the Supreme Lord Shree Krishna Himself.  There is nothing in existence apart from Him.”  
 
@@ -3188,13 +3165,13 @@ BG 13.18: He is the source of light in all luminaries, and is entirely beyond th
 Commentary
 Here, Shree Krishna establishes the supremacy of God in different ways.  There are various illuminating objects, such as the sun, moon, stars, fire, jewels, etc.  Left alone, none of these have any power to illuminate.  When God imparts the power to them, only then can they illumine anything.  The Kaṭhopaniṣhad says: 
 
-tameva bhāntamanubhāti sarvaṁ
-
-tasya bhāsā saravamidaṁ vibhāti   (2.2.15)
+$$shlok-commentary$$  tameva bhāntamanubhāti sarvaṁ
+$$shlok-commentary$$  tasya bhāsā saravamidaṁ vibhāti   
+$$shlok-commentary$$  (2.2.15)
 
 “God makes all things luminous.  It is by His luminosity that all luminous objects give light.” 
 
-sūryastapati tejasendraḥ   (Vedas) 
+$$shlok-commentary$$  sūryastapati tejasendraḥ   (Vedas) 
 
 “By His radiance, the sun and moon become luminous.”  In other words, the luminosity of the sun and the moon is borrowed from God.  They may lose their luminosity someday, but God can never lose His. 
 
@@ -3219,45 +3196,43 @@ Shree Krishna now concludes His description of the field and the object of knowl
 
 Jagadguru Shree Kripaluji Maharaj puts this very nicely:
 
-jo hari sevā hetu ho, soī karm bakhāna
-
-jo hari bhagati baṛhāve, soī samujhiya jñāna   (Bhakti Śhatak 66) 
+$$shlok-commentary$$  jo hari sevā hetu ho, soī karm bakhāna
+$$shlok-commentary$$  jo hari bhagati baṛhāve, soī samujhiya jñāna   
+$$shlok-commentary$$  (Bhakti Śhatak 66) 
 
 “That work which is done in devotion to God is the real karm; and that knowledge which increases love for God is real knowledge.” 
 
 Devotion not only helps us to know God, it also makes the devotee godlike, and hence, Shree Krishna states that the devotees attain His nature.  This has been emphasized in the Vedic scriptures again and again.  The Vedas state:
 
-bhaktirevainaṁ nayati bhaktirevainaṁ paśhyati bhaktirevainaṁ darśhayati bhakti vaśhaḥ puruṣho bhaktireva bhūyasī  (Māṭhar Śhruti)
+$$shlok-commentary$$  bhaktirevainaṁ nayati bhaktirevainaṁ paśhyati bhaktirevainaṁ darśhayati bhakti vaśhaḥ puruṣho bhaktireva bhūyasī  
+$$shlok-commentary$$  (Māṭhar Śhruti)
 
 “Bhakti alone can lead us to God.  Bhakti alone can make us see God.  Bhakti alone can bring us in the presence of God.  God is under the control of bhakti.  Hence, do bhakti exclusively.”  Again the Muṇḍakopaniṣhad states:
 
-upāsate puruṣhaṁ ye hyakāmā-
-
-ste śhukrametadativartanti dhīrāḥ   (3.2.1)
+$$shlok-commentary$$  upāsate puruṣhaṁ ye hyakāmā-
+$$shlok-commentary$$  ste śhukrametadativartanti dhīrāḥ   (3.2.1)
 
 “Those who engage in bhakti toward the Supreme Divine Personality, giving up all material desires, escape the cycle of life and death.”  Yet again, the Śhwetāśhvatar Upaniṣhad states:
 
-yasya deve parā bhaktiryathā deve tathā gurau
-
-tasyaite kathitā hyarthā prakāśhante mahātmanaḥ   (6.23)
+$$shlok-commentary$$  yasya deve parā bhaktiryathā deve tathā gurau
+$$shlok-commentary$$  tasyaite kathitā hyarthā prakāśhante mahātmanaḥ   (6.23)
 
 “Those who have unflinching bhakti toward God and identical bhakti toward the Guru, in the hearts of such saintly persons, by the grace of God the imports of the Vedic scriptures are automatically revealed.”  The other Vedic Scriptures also reiterate this emphatically:
 
-na sādhayati māṁ yogo na sānkhyaṁ dharma uddhava
-
-na svādhyāyas tapas tyāgo yathā bhaktir mamorjitā   (Bhagavatam 11.14.20)
+$$shlok-commentary$$  na sādhayati māṁ yogo na sānkhyaṁ dharma uddhava
+$$shlok-commentary$$  na svādhyāyas tapas tyāgo yathā bhaktir mamorjitā   
+$$shlok-commentary$$  (Bhagavatam 11.14.20)
 
 Shree Krishna states: “Uddhav, I am not attained by aṣhṭāṅg-yog, by the study of sānkhya, cultivation of scriptural knowledge, austerities, nor by renunciation.  It is by bhakti alone that I am won over.”  In the Bhagavad Gita, Shree Krishna repeatedly states this, in verses 8.22, 11.54, etc.  In verse 18.55, He says:  “Only by loving devotion does one come to know who I am in truth.  Then, having come to know My personality through devotion, one enters My divine realm.”  The Ramayan also says:
 
-rāmahi kevala premu piārā, jāni leu jo jānanihārā.
+$$shlok-commentary$$  rāmahi kevala premu piārā, jāni leu jo jānanihārā.
 
 “The Supreme Lord Ram is only attained through love.  Let this truth be known by all who care to know.”  Actually, this principle is emphasized in the other religious traditions as well.  In the Jewish Torah it is written: “You shall love the Lord your God with all your heart, and with all your soul, and with all your might (Deuteronomy 6.5).  Jesus of Nazareth repeats this commandment in the Christian New Testament as one of the first and foremost commandments to follow (Mark 12.30)  
 
  The Guru Granth Sahib states:
 
-hari sama jaga mahañ vastu nahiṅ, prem panth soñ pantha
-
-sadguru sama sajjan nahīñ, gītā sama nahiñ grantha
+$$shlok-commentary$$  hari sama jaga mahañ vastu nahiṅ, prem panth soñ pantha
+$$shlok-commentary$$  sadguru sama sajjan nahīñ, gītā sama nahiñ grantha
 
 “There is no personality like God; there is no path equal to the path of devotion; there is no human equal to the Guru; and there is no scripture that can compare with the Gita.”
 
@@ -3299,9 +3274,9 @@ The material energy, with the direction of Brahma, creates myriad elements and f
 
 The soul gets a bodily form (field of activity) according to its past karmas, and it identifies itself with the body, mind, and intellect.  Thus, it seeks the pleasure of the bodily senses.  When the senses come in contact with the sense objects, the mind experiences a pleasurable sensation.  Since the soul identifies with the mind, it vicariously enjoys that pleasurable sensation.  In this way, the soul perceives the sensations of both pleasure and pain, through the medium of the senses, mind, and intellect.  This can be compared to a dream state:
 
-ehi bidhi jaga hari āśhrita rahaī, jadapi asatya deta duḥkh ahaī   (Ramayan)
+$$shlok-commentary$$  ehi bidhi jaga hari āśhrita rahaī, jadapi asatya deta duḥkh ahaī   (Ramayan)
 
-jauṅ sapaneṅ sira kāṭai koī, binu jāgeṅ na dūri dukh hoī   (Ramayan)
+$$shlok-commentary$$  jauṅ sapaneṅ sira kāṭai koī, binu jāgeṅ na dūri dukh hoī   (Ramayan)
 
 “The world is sustained by God.  It creates an illusion, which, although unreal, gives misery to the soul.  This is just like if someone’s head gets cut in a dream, the misery will continue until the person wakes up and stops dreaming.”  In this dream state of identifying with the body, the soul experiences pleasure and pain in accordance with its own past and present karmas.  As a result, it is said to be responsible for both kinds of experiences.
 
@@ -3343,21 +3318,15 @@ Shree Krishna has explained the status of the jīvātmā (individual soul) withi
 
 The Supreme Soul, who is located within everyone, also manifests in the personal form as Lord Vishnu.  The Supreme Lord in His form as Vishnu is responsible for maintaining this creation.  He resides in the Kṣhīr Sāgar (the ocean of milk), at the top of the universe in His personal form.  He also expands Himself to reside in the hearts of all living beings as the Paramātmā.  Seated within, He notes their actions, keeps an account of their karmas, and bestows the results at the proper time.  He accompanies the jīvātmā (individual soul) to whatever body it receives in each lifetime.  He does not hesitate in residing in the body of a snake, a pig, or insect.  The Muṇḍakopaniṣhad states:
 
-dvā suparṇā sayujā sakhāyā
-
-samānaṁ vṛikṣhaṁ pariṣhasvajāte
-
-tayoranyaḥ pippalaṁ svādvattya-
-
-naśhnannanyo abhichākaśhīti
-
-samāne vṛikṣhe puruṣho nimagno-
-
-’nīśhayā śhochati muhyamānaḥ
-
-juṣhtaṁ yadā paśhyatyanyamīśha-
-
-masya mahimānamiti vītaśhokaḥ   (3.1.1-2)
+$$shlok-commentary$$  dvā suparṇā sayujā sakhāyā
+$$shlok-commentary$$  samānaṁ vṛikṣhaṁ pariṣhasvajāte
+$$shlok-commentary$$  tayoranyaḥ pippalaṁ svādvattya-
+$$shlok-commentary$$  naśhnannanyo abhichākaśhīti
+$$shlok-commentary$$  samāne vṛikṣhe puruṣho nimagno-
+$$shlok-commentary$$  ’nīśhayā śhochati muhyamānaḥ
+$$shlok-commentary$$  juṣhtaṁ yadā paśhyatyanyamīśha-
+$$shlok-commentary$$  masya mahimānamiti vītaśhokaḥ   
+$$shlok-commentary$$  (3.1.1-2)
 
 “Two birds are seated in the nest (heart) of the tree (the body) of the living form.  They are the jīvātmā (individual soul) and Paramātmā (Supreme Soul).  The jīvātmā has its back toward the Paramātmā, and is busy enjoying the fruits of the tree (the results of the karmas it receives while residing in the body).  When a sweet fruit comes, it becomes happy; when a bitter fruit comes, it becomes sad.  The Paramātmā is a friend of the jīvātmā, but He does not interfere; He simply sits and watches.  If the jīvātmā can only turn around to the Paramātmā, all its miseries will come to an end.”  The jīvātmā has been bestowed with free will i.e. the freedom to turn away or toward God.  By the improper use of that free will the jīvātmā is in bondage, and by learning its proper usage, it can attain the eternal service of God and experience infinite bliss.
 
@@ -3378,13 +3347,10 @@ BG 13.24: Those who understand the truth about Supreme Soul, the individual soul
 Commentary
 Ignorance has led the soul into its present predicament.  Having forgotten its spiritual identity as a tiny fragment of God, it has fallen into material consciousness.  Therefore, knowledge is vital for resurrecting itself from its present position.  The Śhwetāśhvatar Upaniṣhad states exactly the same thing:
 
-sanyuktametat kṣharam akṣharaṁ cha
-
-vyaktāvyaktaṁ bharate viśhwam īśhaḥ
-
-anīśhaśh chātmā badhyate bhoktṛibhāvā-
-
-jjñātvā devaṁ muchyate sarvapāśhaiḥ   (1.8)
+$$shlok-commentary$$  sanyuktametat kṣharam akṣharaṁ cha
+$$shlok-commentary$$  vyaktāvyaktaṁ bharate viśhwam īśhaḥ
+$$shlok-commentary$$  anīśhaśh chātmā badhyate bhoktṛibhāvā-
+$$shlok-commentary$$  jjñātvā devaṁ muchyate sarvapāśhaiḥ   (1.8)
 
 “There are three entities in creation—the ever-changing material nature, the unchangeable souls, and the Master of both, who is the Supreme Lord.  Ignorance of these entities is the cause of bondage of the soul, while knowledge of them helps it cut asunder the fetters of Maya.” 
 
@@ -3413,7 +3379,7 @@ Others find satisfaction in exercising their intellect.  The idea of the distinc
 
 Yet others find their spirits soaring when they can engage in meaningful action.  They strive to engage their God-given abilities in working for Him.  Nothing satisfies them more than using the last drop of their energy in service of God.  In this way, all kinds of sādhaks utilize their individual propensities for realizing the Supreme.  The fulfillment of any endeavor involving knowledge, action, love, etc. is when it is combined with devotion for the pleasure of God.  The Shreemad Bhagavatam states:
 
-sā vidyā tanmatir yayā   (4.29.49)
+$$shlok-commentary$$  sā vidyā tanmatir yayā   (4.29.49)
 
 “True knowledge is that which helps us develop love for God.  The fulfillment of karma occurs when it is done for the pleasure of the Lord.” 
 
@@ -3436,9 +3402,9 @@ There are those who are unaware of the methods of sādhanā.  But somehow, they 
 
 In the Vedic tradition, hearing from the saints has been highly emphasized as a powerful tool for spiritual elevation.  In the Shreemad Bhagavatam, King Parikshit asked Shukadev the question: “How can we purify the undesirable entities in our hearts, such as lust, anger, greed, envy, hatred, etc.?”  Shukadev replied:
 
-śhṛiṇvatāṁ sva-kathāḥ kṛiṣhṇaḥ puṇya-śhravaṇa-kīrtanaḥ
-
-hṛidy antaḥ stho hy abhadrāṇi vidhunoti suhṛit satām   (Bhagavatam 1.2.17)
+$$shlok-commentary$$  śhṛiṇvatāṁ sva-kathāḥ kṛiṣhṇaḥ puṇya-śhravaṇa-kīrtanaḥ
+$$shlok-commentary$$  hṛidy antaḥ stho hy abhadrāṇi vidhunoti suhṛit satām   
+$$shlok-commentary$$  (Bhagavatam 1.2.17)
 
 “Parikshit!  Simply hear the descriptions of the divine Names, Forms, Pastimes, Virtues, Abodes, and saints of God from a saint.  This will naturally cleanse the heart of the unwanted dirt of endless lifetimes.” 
 
@@ -3480,17 +3446,18 @@ BG 13.28: They alone truly see, who perceive the Paramātmā (Supreme Soul) acco
 Commentary
 Shree Krishna had previously used the expression yaḥ paśhyati sa paśhyati (they alone truly see, who see that…)  Now He states that it is not enough to see the presence of the soul within the body.  We must also appreciate that God, the Supreme Soul, is seated within all bodies.  His presence in the heart of all living beings was previously stated in verse 13.23 in this chapter.  It is also mentioned in verses 10.20 and 18.61 of the Bhagavad Gita, and in other Vedic scriptures as well:
 
-eko devaḥ sarvabhūteṣhu gūḍhaḥ
-
-sarvavyāpī sarvabhūtāntarātmā   (Śhwetāśhvatar Upaniṣhad 6.11)
+$$shlok-commentary$$  eko devaḥ sarvabhūteṣhu gūḍhaḥ
+$$shlok-commentary$$  sarvavyāpī sarvabhūtāntarātmā   
+$$shlok-commentary$$  (Śhwetāśhvatar Upaniṣhad 6.11)
 
 “God is one.  He resides in the hearts of all living beings.  He is omnipresent.  He is the Supreme Soul of all souls.”
 
-bhavān hi sarva-bhūtānām ātmā sākṣhī sva-dṛig vibho   (Bhagavatam 10.86.31)
+$$shlok-commentary$$  bhavān hi sarva-bhūtānām ātmā sākṣhī sva-dṛig vibho   
+$$shlok-commentary$$  (Bhagavatam 10.86.31)
 
 “God is seated inside all living beings as the Witness and the Master.”
 
-rām brahma chinamaya abināsī,  sarba rahit saba ura pura bāsī   (Ramayan)
+$$shlok-commentary$$  rām brahma chinamaya abināsī,  sarba rahit saba ura pura bāsī   (Ramayan)
 
 “The Supreme Lord Ram is eternal and beyond everything.  He resides in the hearts of all living entities.” 
 
@@ -3600,15 +3567,14 @@ BG 13.34: Just as one sun illumines the entire solar system, so does the individ
 Commentary
 Although the soul energizes the entire body in which it is present with consciousness, yet by itself, it is exceedingly small.  eṣho ’ṇurātmā  (Muṇḍakopaniṣhad 3.1.9) “The soul is very tiny in size.”  The Śhwetāśhvatar Upaniṣhad states:
 
-bālāgraśhatabhāgasya śhatadhā kalpitasya cha
-
-bhāgo jīvaḥ sa vijñeyaḥ sa chānantyāya kalpate   (5.9)
+$$shlok-commentary$$  bālāgraśhatabhāgasya śhatadhā kalpitasya cha
+$$shlok-commentary$$  bhāgo jīvaḥ sa vijñeyaḥ sa chānantyāya kalpate   (5.9)
 
 “If we divide the tip of a hair into a hundred parts, and then divide each part into further hundred parts, we will get the size of the soul.  These souls are innumerable in number.”  This is a manner of expressing the minuteness of the soul. 
 
 How can such an infinitesimal soul energize the body, which is huge in comparison?   Shree Krishna explains this with the analogy of the sun.  Although situated in one place, the sun illumines the entire solar system with its light.  Likewise, the Vedānt Darśhan states:
 
-guṇādvā lokavat   (2.3.25)  
+$$shlok-commentary$$  guṇādvā lokavat   (2.3.25)  
 
 “The soul, although seated in the heart spreads its consciousness throughout the field of the body.”
 
