@@ -3659,9 +3659,8 @@ BG 14.3-4: The total material substance, prakṛiti, is the womb. I impregnate i
 Commentary
 As explained in chapters 7 and 8, the material creation follows cycles of creation, maintenance, and dissolution. During dissolution, souls who are vimukh (have their backs) toward God remain in a state of suspended animation within the body of Maha Vishnu. The material energy, prakṛiti, also lies unmanifest in God’s mahodar (big stomach). When he desires to activate the process of creation, he glances at prakṛiti. It then begins to unwind, and sequentially, the entities mahān, ahankār, pañch-tanmātrās, and pañch-mahābhūta are created. Also, with the help of the secondary creator Brahma, the material energy creates various life forms, and God casts the souls into appropriate bodies, determined by their past karmas. Thus, Shree Krishna states that prakṛiti is like the womb and the souls are like the sperms. He places the souls in the womb of Mother Nature to give birth to multitudes of living beings. Sage Ved Vyas also describes it in the same fashion in Śhrīmad Bhāgavatam:
 
-daivāt kṣhubhita-dharmiṇyāṁ svasyāṁ yonau paraḥ pumān
-
-ādhatta vīryaṁ sāsūta mahat-tattvaṁ hiraṇmayam (3.26.19)[v1]
+$$shlok-commentary$$  daivāt kṣhubhita-dharmiṇyāṁ svasyāṁ yonau paraḥ pumān
+$$shlok-commentary$$  ādhatta vīryaṁ sāsūta mahat-tattvaṁ hiraṇmayam (3.26.19)[v1]
 
 “In the womb of the material energy the Supreme Lord impregnates the souls. Then, inspired by the karmas of the individual souls, the material nature gets to work to create suitable life forms for them.” He does not cast all souls into the material world, rather only those who are vimukh.
 
@@ -3892,9 +3891,9 @@ BG 14.18: Those situated in the mode of goodness rise upward; those in the mode 
 Commentary
 Shree Krishna explains that the reincarnation of the souls in their next birth is linked to the guṇas that predominates their personality. Upon completion of their sojourn in the present life, the souls reach the kind of place that corresponds to their guṇas. This can be compared to students applying for college admission after completing school. There are many colleges in the country. Those students with good qualifying criteria at the school level gain admission in the best colleges, while those with poor grades and other scores are admitted to the worst ones. Likewise, the Bhāgavatam says:
 
-sattve pralīnāḥ svar yānti nara-lokaṁ rajo-layāḥ
-
-tamo-layās tu nirayaṁ yānti mām eva nirguṇāḥ (11.25.22)[v2]
+$$shlok-commentary$$  sattve pralīnāḥ svar yānti nara-lokaṁ rajo-layāḥ
+$$shlok-commentary$$  tamo-layās tu nirayaṁ yānti mām eva nirguṇāḥ 
+$$shlok-commentary$$  (11.25.22)[v2]
 
 “Those who are in sattva guṇa reach the higher celestial abodes; those who are in rajo guṇa return to the earth planet; and those who are in tamo guṇa go to the nether worlds; while those who are transcendental to the three modes attain Me.”
 
@@ -4023,9 +4022,9 @@ Having explained the traits of those who are situated beyond the three guṇas, 
 
 Many people are of the view that if the mind is fixed upon the personal form of God, it will not rise to the transcendental platform. Only when it is attached to the formless Brahman, will the mind become transcendental to the modes of material nature. However, this verse refutes such a view. Although the personal form of God possesses infinite guṇas (qualities), these are all divine and beyond the modes of material nature. Hence, the personal form of God is also nirguṇa (beyond the three material modes). Sage Ved Vyas explains how the personal form of God is nirguṇa:
 
-yastu nirguṇa ityuktaḥ śhāstreṣhu jagadīśhvaraḥ
-
-prākṛitairheya sanyuktairguṇairhīnatvamuchyate (Padma Purāṇ)[v3]
+$$shlok-commentary$$  yastu nirguṇa ityuktaḥ śhāstreṣhu jagadīśhvaraḥ
+$$shlok-commentary$$  prākṛitairheya sanyuktairguṇairhīnatvamuchyate 
+$$shlok-commentary$$  (Padma Purāṇ)[v3]
 
 “Wherever the scriptures refer to God as nirguṇa (without attributes), they mean that he is without material attributes. Nevertheless, his divine personality is not devoid of qualities—he possesses infinite divine attributes.”
 
@@ -4048,15 +4047,15 @@ BG 14.27: I am the basis of the formless Brahman, the immortal and imperishable,
 Commentary
 The previous verse may give rise to the question about the relationship between Shree Krishna and the formless Brahman. It was previously stated that the all-powerful God has both aspects to his personality—the formless and the personal form. Here, Shree Krishna reveals that the Brahman which the jñānīs worship is the light from the personal form of God. Padma Purāṇ states:
 
-yannakhenduruchirbrahma dheyaṁ brahmādibhiḥ suraiḥ
-
-guṇatrayamatītaṁ taṁ vande vṛindāvaneśhvaram (Patal Khand 77.60)[v4]
+$$shlok-commentary$$  yannakhenduruchirbrahma dheyaṁ brahmādibhiḥ suraiḥ
+$$shlok-commentary$$  guṇatrayamatītaṁ taṁ vande vṛindāvaneśhvaram 
+$$shlok-commentary$$  (Patal Khand 77.60)[v4]
 
 “The light that emanates from the toe nails of the feet of the Lord of Vrindavan, Shree Krishna, is the transcendental Brahman that the jñānīs and even the celestial gods meditate upon.” Similarly, Chaitanya Mahaprabhu said:
 
-tāṅhāra aṅgera śhuddha kiraṇa-maṇḍala
-
-upaniṣhat kahe tāṅre brahma sunirmala (Chaitanya Charitāmṛit, Ādi Leela 2.12) [v5]
+$$shlok-commentary$$  tāṅhāra aṅgera śhuddha kiraṇa-maṇḍala
+$$shlok-commentary$$  upaniṣhat kahe tāṅre brahma sunirmala 
+$$shlok-commentary$$  (Chaitanya Charitāmṛit, Ādi Leela 2.12) [v5]
 
 “The effulgence emanating from the divine body of God is described by the Upaniṣhads as Brahman.” Thus, in this verse, Shree Krishna unequivocally confirms that the panacea for the disease of the three guṇas is to engage in unwavering devotion to the personal form of the Supreme Lord.
 
@@ -4091,13 +4090,14 @@ In this way, the leaves of the Aśhvatth tree nourish the material existence of 
 
 The Vedas also mention this tree:
 
-ūrdhvamūlo ’vākśhākha eṣho ’śhvatthaḥ sanātanaḥ   (Kaṭhopaniṣhad 2.3.1) 
+$$shlok-commentary$$  ūrdhvamūlo ’vākśhākha eṣho ’śhvatthaḥ sanātanaḥ   
+$$shlok-commentary$$  (Kaṭhopaniṣhad 2.3.1) 
 
 “The aśhvatth tree, with its roots upward and branches downward is eternal.”
 
-ūrdhvamūlaṁ arvākśhākhaṁ vṛikṣhaṁ yo samprati
-
-na sa jātu janaḥ śhraddhayātmṛityutyurmā mārayaditi   (Taittirīya Āraṇyak 1.11.5)
+$$shlok-commentary$$  ūrdhvamūlaṁ arvākśhākhaṁ vṛikṣhaṁ yo samprati
+$$shlok-commentary$$  na sa jātu janaḥ śhraddhayātmṛityutyurmā mārayaditi   
+$$shlok-commentary$$  (Taittirīya Āraṇyak 1.11.5)
 
 “Those who know this tree with its roots upward and branches downward will not believe that death can finish them.” 
 
@@ -4159,9 +4159,9 @@ Shree Krishna says that the mystery of the aśhvatth tree is not easy to underst
 
 In the bodily form, the soul only thinks of itself to be the person in flesh and bones. It is forgetful of its origin and its eternal existence. It identifies itself with its human name, family, country, etc. Thus, to satisfy the bodily needs and in quest of material happiness, the living being gets involved in unfruitful endeavors. Sometimes to satiate one’s materialistic desires knowingly or unknowingly a human being commits sins. These cause it to move downward and it is reborn in the lower species and nether regions. Whereas, sometimes it gets attracted towards the leaves of this tree, which are the ritualistic ceremonies of the Vedas, these help in accumulating pious merits. The propensity of material pleasures drives the human being to involve in such pious activities. The pious merits help the soul move upward in the celestial abodes, but once these merits deplete, it is sent back to the lower forms, and this cycle continues. Thus, Chaitanya Mahaprabhu said:
 
-kṛiṣhṇa bhuli ’sei jīva anādi-bahirmukha, ataeva māyā tāre deya samsāra-duḥkha
-kabhu swarge uṭhāya, kabhu narake ḍubāya, daṇḍya-jane rājā yena nadīte chubāy
-(Chaitanya Charitāmṛit, Madhya Leela 20.117-118)
+$$shlok-commentary$$  kṛiṣhṇa bhuli ’sei jīva anādi-bahirmukha, ataeva māyā tāre deya samsāra-duḥkha
+$$shlok-commentary$$  kabhu swarge uṭhāya, kabhu narake ḍubāya, daṇḍya-jane rājā yena nadīte chubāy
+$$shlok-commentary$$  (Chaitanya Charitāmṛit, Madhya Leela 20.117-118)
 
 “Since the soul is forgetful of God since eternity, the material energy is subjecting it to worldly miseries.  Sometimes, it lifts the soul to the celestial abodes, and other times it drops it down to the hellish regions.  This is akin to the torture meted by kings in olden times.”  In the olden days, some kings ordered a very torturous punishment, wherein a person’s head was immersed into the water almost till suffocation, then released for a few gasps, again put back into the water, and was repeated. The condition is similar for a soul trapped in the tree of material existence, it is pushed back and forth between the upper and lower regions according to its merits. When born in the celestial forms it enjoys some temporary relief, which fades soon and the soul gets dropped back to the human form.  
 
@@ -4196,20 +4196,21 @@ In this verse, Shree Krishna has explained the requisites for complete surrender
 
 Only through proper knowledge of God can this false notion of being the enjoyer be removed. It is necessary to realize that God alone is the owner of all the material energy and it needs to be used for his service only. He is the master of the entire creation, and the souls are his eternal servants. The souls should give up the attitude of pride and develop an attitude of selfless service to the Lord. This can be achieved by understanding the true nature of the self as the eternal servant, eliminating material attachments that pull us towards the world and away from him. The Padma Purāṇ states:
 
-dāsa bhūtamidaṁ tasya jagatsthāvara jangamam
-śhrīmannārāyaṇa swāmī jagatānprabhurīśhwaraḥ
+$$shlok-commentary$$  dāsa bhūtamidaṁ tasya jagatsthāvara jangamam
+$$shlok-commentary$$  śhrīmannārāyaṇa swāmī jagatānprabhurīśhwaraḥ
 
 “The Supreme Lord Narayan is the controller and the Lord of the world.  All moving and non-moving beings and entities in this creation are His servants.”  Hence, as our desire to serve God increases, the illusion of being the enjoyer of prakṛiti (material world) gets gradually eliminated and the heart is cleansed.  Jagadguru Shree Kripaluji Maharaj emphasizes this above everything else, as the most powerful means for purifying the heart:
 
-sau bātana kī bāta ika, dharu muralīdhara dhyāna,
-baṛhavahu sevā-vāsanā, yaha sau jñānana jñāna.
-(Bhakti Śhatak, verse 74) 
+$$shlok-commentary$$  sau bātana kī bāta ika, dharu muralīdhara dhyāna,
+$$shlok-commentary$$  baṛhavahu sevā-vāsanā, yaha sau jñānana jñāna.
+$$shlok-commentary$$  (Bhakti Śhatak, verse 74) 
 
 “Out of a hundred advice for purification, the most important is this.  Let your mind be absorbed in the divine flute-player, Shree Krishna, and keep increasing your desire to serve Him.  This counsel is more important than a hundred such gems of knowledge.” 
 
 But what happens once our etheric hearts are cleansed and become perfectly situated in the loving service of the Lord? In this verse, Shree Krishna says that all those perfected souls enter his spiritual realm and stay there forever. Once the state of God-realization is achieved, the material realm serves no purpose, the soul is free from the cycle of life and death. It now stays in God’s divine Abode along with other perfected, God-realized souls. The material realm is only one-fourth, while the spiritual realm is three-fourths of the entire creation. As a city prison only occupies a small part of a large city, similarly, the material realm is a very small part of God’s vast creation. The Vedas state:
 
-pādo ’sya viśhwā bhūtāni, tripādasya amṛitam divi   (Puruṣh Sūktam Mantra 3)
+$$shlok-commentary$$  pādo ’sya viśhwā bhūtāni, tripādasya amṛitam divi   
+$$shlok-commentary$$  (Puruṣh Sūktam Mantra 3)
 
 “This temporary world made from the material energy is but one part of creation.  The other three parts are the eternal Abode of God that is beyond the phenomenon of life and death.”
 
@@ -4234,19 +4235,19 @@ Here, Lord Shree Krishna briefly describes his divine Abode, which he says is se
 
 The Paravyom is the spiritual sky of the divine realm. It is filled with splendor and divine opulence. It contains numerous abodes of various eternal forms of God. Narayan, Ram, Shree Krishna, etc. all have their separate Abodes.  They reside there eternally along with their devotees and perform divine Leelas (Pastimes). In a prayer to Shree Krishna Brahma says:
 
-goloka-nāmni nija-dhāmni tale cha tasya
-devī maheśha-hari-dhāmasu teṣhu teṣhu
-te te prabhāva-nichayā vihitāśh cha yena
-govindam ādi-puruṣhaṁ tam ahaṁ bhajāmi
-(Brahma Samhitā verse 43)
+$$shlok-commentary$$  goloka-nāmni nija-dhāmni tale cha tasya
+$$shlok-commentary$$  devī maheśha-hari-dhāmasu teṣhu teṣhu
+$$shlok-commentary$$  te te prabhāva-nichayā vihitāśh cha yena
+$$shlok-commentary$$  govindam ādi-puruṣhaṁ tam ahaṁ bhajāmi
+$$shlok-commentary$$  (Brahma Samhitā verse 43)
 
 “In the spiritual sky is Golok, the personal Abode of Shree Krishna.  That spiritual sky also contains the Abodes of Narayan, Shiv, Durga, etc.  I adore Supreme Divine Personality Lord Krishna, by the majesty of whose opulence, this is possible.” Brahma has further described Golok in the following verse:
 
-ānanda-chinmaya-rasa-pratibhāvitābhis
-tābhir ya eva nija-rūpatayā kalābhiḥ
-goloka eva nivasaty akhilātma-bhūto
-govindam ādi-puruṣhaṁ tam ahaṁ bhajāmi
-(Brahma Samhitā verse 37)
+$$shlok-commentary$$  ānanda-chinmaya-rasa-pratibhāvitābhis
+$$shlok-commentary$$  tābhir ya eva nija-rūpatayā kalābhiḥ
+$$shlok-commentary$$  goloka eva nivasaty akhilātma-bhūto
+$$shlok-commentary$$  govindam ādi-puruṣhaṁ tam ahaṁ bhajāmi
+$$shlok-commentary$$  (Brahma Samhitā verse 37)
 
 “I worship Govind, the Supreme Lord, who resides in Golok with the expansion of His own form, Radha.  Their eternal Associates are the sakhis, who are enlivened by the ever-blissful spiritual energy and are the embodiments of sixty-four artistic abilities.” 
 
@@ -4285,7 +4286,7 @@ Nitya Baddha:  The embodied souls who have been trapped in the material realm si
 
  The Kaṭhopaniṣhad states:
 
-parāñchi khāni vyatṛiṇat swayambhū   (2.1.2)
+$$shlok-commentary$$  parāñchi khāni vyatṛiṇat swayambhū   (2.1.2)
 
 “The creator, Brahma, has made the senses such that they are turned outward toward the world.” 
 
@@ -4341,9 +4342,9 @@ She was astonished to see him there and enquired how he managed to come that lat
 
 Her words had a life-changing effect on Tulsidas. He left home, renounced a householders’ life and took up devotion. By detaching himself from the material pleasures and engaging them towards devotion to God, he went on to become a great saint and poet. He later wrote:
 
-kāmihi nāri piāri jimi lobhihi priya jimi dāma,
-timi raghunātha nirantara priya lāgahu mohi rāma
-(Ramayan)
+$$shlok-commentary$$  kāmihi nāri piāri jimi lobhihi priya jimi dāma,
+$$shlok-commentary$$  timi raghunātha nirantara priya lāgahu mohi rāma
+$$shlok-commentary$$  (Ramayan)
 
 “As a lustful man desires a beautiful woman, and as an avaricious person desires wealth, may my mind and senses constantly desire Lord Ram.”
 
@@ -4466,8 +4467,9 @@ BG 15.14: It is I who take the form of the fire of digestion in the stomachs of 
 Commentary
 Shree Krishna says that God exists inside all living beings as vaiśhvānara, meaning “fire of digestion,” which is ignited by the power of God.  The Bṛihadāraṇyak Upaniṣhad has also stated:
 
-ayam agnir vaiśhvānaro yo ’yam antaḥ puruṣhe
-yenedam annaṁ achyate (5.9.1) 
+$$shlok-commentary$$  ayam agnir vaiśhvānaro yo ’yam antaḥ puruṣhe
+$$shlok-commentary$$  yenedam annaṁ achyate 
+$$shlok-commentary$$  (5.9.1) 
 
 “God is the fire inside the stomach that enables living beings to digest food.” 
 
@@ -4504,7 +4506,8 @@ Shree Krishna says that He has also given us this power of forgetting the past. 
 
 Uddhav says to Shree Krishna:  
 
-tvatto jñānaṁ hi jīvānāṁ pramoṣhas te ’tra śhaktitaḥ  (Bhagavatam 11.22.28)
+$$shlok-commentary$$  tvatto jñānaṁ hi jīvānāṁ pramoṣhas te ’tra śhaktitaḥ  
+$$shlok-commentary$$  (Bhagavatam 11.22.28)
 
 “From You alone, the knowledge of the living being arises, and by Your potency that knowledge is stolen away.” 
 
@@ -4516,7 +4519,8 @@ The Kaṭhopaniṣhad (1.2.15) states: sarve vedā yat padamāmananti  “All th
 
 Jagadguru Shree Kripaluji Maharaj states: 
 
-sarva śhāstra sāra yaha govind rādhe, āṭhoṅ yām mana hari guru meṅ lagā de  (Rādhā Govind Geet) 
+$$shlok-commentary$$  sarva śhāstra sāra yaha govind rādhe, āṭhoṅ yām mana hari guru meṅ lagā de  
+$$shlok-commentary$$  (Rādhā Govind Geet) 
 
 “The essence of all the scriptures is to engage your mind day and night in loving devotion to God and Guru.” 
 
@@ -4583,13 +4587,13 @@ So far in this chapter, Shree Krishna has detailed that His opulence is the sour
 
 Does that mean the Puruṣhottam He has referred to and Lord Shree Krishna Himself are two different entities? To eliminate any such doubts, in this verse, while referring to Himself Shree Krishna has used the term aham (I), which is first person singular. He also said that the Vedas and the Smritis have described Him similarly:
 
-kṛiṣhṇa eva paro devas taṁ dhyāyet taṁ rasayet taṁ yajet taṁ bhajed
-(Gopāl Tāpani Upaniṣhad)
+$$shlok-commentary$$  kṛiṣhṇa eva paro devas taṁ dhyāyet taṁ rasayet taṁ yajet taṁ bhajed
+$$shlok-commentary$$  (Gopāl Tāpani Upaniṣhad)
 
 “Lord Krishna is the Supreme Lord. Meditate upon Him, relish the bliss of His devotion, and worship Him.” 
 
-yo ’sau paraṁ brahma gopālaḥ
-(Gopāl Tāpani Upaniṣhad) 
+$$shlok-commentary$$  yo ’sau paraṁ brahma gopālaḥ
+$$shlok-commentary$$  (Gopāl Tāpani Upaniṣhad) 
 
 “Gopal (Lord Krishna) is the Supreme Being.”
 
@@ -4612,8 +4616,8 @@ BG 15.19: Those who know Me without doubt as the Supreme Divine Personality trul
 Commentary
 As per the Shreemad Bhagavatam, there are three ways to realize God:
 
-vadanti tat tattva-vidas tattvaṁ yaj jñānam advayam
-brahmeti paramātmeti bhagavān iti śhabdyate   (1.2.11)
+$$shlok-commentary$$  vadanti tat tattva-vidas tattvaṁ yaj jñānam advayam
+$$shlok-commentary$$  brahmeti paramātmeti bhagavān iti śhabdyate   (1.2.11)
 
 “The knowers of the Truth have stated that there is only one Supreme Entity that manifests in three ways in the world—Brahman, Paramātmā, and Bhagavān.” 
 
@@ -4623,23 +4627,27 @@ In this chapter, Shree Krishna has described all three forms of God. But which o
 
 Jagadguru Shree Kripaluji Maharaj in his book Bhakti Śhatak has given a detailed explanation of why Bhagavān realization is the highest. He has quoted the same verse 1.2.11 of the Shreemad Bhagavatam and said:
 
-tīna rūp śhrī kṛiṣhṇa ko, vedavyās batāya,
-brahma aura parmātmā, aru bhagavān kahāya.   (Bhakti Śhatak verse 21)
+$$shlok-commentary$$  tīna rūp śhrī kṛiṣhṇa ko, vedavyās batāya,
+$$shlok-commentary$$  brahma aura parmātmā, aru bhagavān kahāya.   
+$$shlok-commentary$$  (Bhakti Śhatak verse 21)
 
 “Ved Vyas has declared that the Supreme Lord manifests in three ways—Brahman, Paramātmā, and Bhagavān.”  Then he goes on to describe these three manifestations of the Absolute Truth.
 
-sarvaśhakti sampann ho, śhakti vikāsa na hoya,
-sata chita ānanda rūp jo, brahma kahāve soya.   (Bhakti Śhatak verse 22)
+$$shlok-commentary$$  sarvaśhakti sampann ho, śhakti vikāsa na hoya,
+$$shlok-commentary$$  sata chita ānanda rūp jo, brahma kahāve soya.   
+$$shlok-commentary$$  (Bhakti Śhatak verse 22)
 
 “As Brahman, the infinite energies of God are all latent.  He merely displays eternal knowledge and bliss.”
 
-sarvaśhakti sanyukta ho, nāma rūp guṇa hoya,
-līlā parikara rahit ho, paramātmā hai soya.   (Bhakti Śhatak verse 23) 
+$$shlok-commentary$$  sarvaśhakti sanyukta ho, nāma rūp guṇa hoya,
+$$shlok-commentary$$  līlā parikara rahit ho, paramātmā hai soya.   
+$$shlok-commentary$$  (Bhakti Śhatak verse 23) 
 
 “As Paramātmā, God displays His Form, Name, and Virtues.  But He does not engage in Leelas, nor does He have associates.”
 
-sarvaśhakti prākaṭya ho, līlā vividha prakāra,
-viharata parikara saṅg jo, tehi bhagavān pukāra.   (Bhakti Śhatak verse 24)
+$$shlok-commentary$$  sarvaśhakti prākaṭya ho, līlā vividha prakāra,
+$$shlok-commentary$$  viharata parikara saṅg jo, tehi bhagavān pukāra.   
+$$shlok-commentary$$  (Bhakti Śhatak verse 24)
 
 “The aspect of God in which He manifests all His energies and engages in various loving Pastimes with His devotees is called Bhagavān.”
 
@@ -4867,9 +4875,8 @@ BG 16.9: Holding fast to such views, these misdirected souls, with small intelle
 Commentary
 Bereft of true self-knowledge, the demoniac-minded fabricate distorted views of the truth with their impure intellects. An example of this is the theory of Charvak, a well-known materialistic philosopher in Indian history. He said:
 
-yāvajjīveta sukaṁ jīvet, ṛiṇaṁ kṛitvā ghṛitaṁ pivet
-
-bhasmī bhūtasya dehasya punarāgamanaṁ kutaḥ [v2]
+$$shlok-commentary$$  yāvajjīveta sukaṁ jīvet, ṛiṇaṁ kṛitvā ghṛitaṁ pivet
+$$shlok-commentary$$  bhasmī bhūtasya dehasya punarāgamanaṁ kutaḥ [v2]
 
 “As long as you live, enjoy yourself. If drinking ghee gives you pleasure, then do so even if you have to take a debt for the purpose. When the body is cremated, you will cease to exist, and will not come back in the world again (so do not worry of any karmic consequences of your actions).”
 
@@ -4909,10 +4916,11 @@ BG 16.11: They are obsessed with endless anxieties that end only with death. Sti
 Commentary
 Materially inclined people often reject the spiritual path on the grounds that it is too burdensome and laborious, and the final goal is too distant. They prefer to pursue the way of the world that promises to provide immediate gratification, but they end up struggling even more in the worldly direction. Their desires for material attainments torment them and they undertake enormous schemes to fulfill their aspirations. When a cherished object is attained, for a moment they experience relief, but then new anguish begins. They are worried about the object being snatched away and they labor to retain it. Finally, when the inevitable separation from the object of attachment takes place, there is only misery. Thus, it is said:
 
-yā chintā bhuvi putra pautra bharaṇavyāpāra sambhāṣhaṇe
-yā chintā dhana dhānya yaśhasāṁ lābhe sadā jāyate
-sā chintā yadi nandanandan padadvandvāra vindekṣhaṇam
-kā chintā yamarāja bhīma sadandvāraprayāṇe vibho (Sukti Sudhakar)[v3]
+$$shlok-commentary$$  yā chintā bhuvi putra pautra bharaṇavyāpāra sambhāṣhaṇe
+$$shlok-commentary$$  yā chintā dhana dhānya yaśhasāṁ lābhe sadā jāyate
+$$shlok-commentary$$  sā chintā yadi nandanandan padadvandvāra vindekṣhaṇam
+$$shlok-commentary$$  kā chintā yamarāja bhīma sadandvāraprayāṇe vibho 
+$$shlok-commentary$$  (Sukti Sudhakar)[v3]
 
 “People experience untold worries and stress in worldly endeavors—bringing up children and grandchildren, engaging in business, accumulating wealth and treasures, and acquiring fame. If they show the same level of attachment and concern for developing love for Shree Krishna’s lotus feet, they will never again have to worry about Yamraj, the god of death (for they will cross over the cycle of life and death).” But the demoniac-minded refuse to accept this blatant fact because their intellects are convinced that worldly pleasures are the highest experience of joy. They cannot even see that death is patiently waiting to carry them off to miserable destinies and more suffering in future lives.
 
@@ -4933,9 +4941,9 @@ BG 16.12: Held in bondage by hundreds of desires, and driven by lust and anger, 
 Commentary
 Money is the means for enjoying the world. That is why materialistic people who are driven by insatiable desires accord such priority to accumulating it in their lives. They do not even hesitate to adopt unlawful means for earning wealth. Therefore, double punishment awaits them for their unethical conduct. The Bhāgavatam states:
 
-yāvad bhriyeta jaṭharaṁ tāvat svatvaṁ hi dehinām
-
-adhikaṁ yo ’bhimanyeta sa steno daṇḍam arhati (7.14.8)[v4]
+$$shlok-commentary$$  yāvad bhriyeta jaṭharaṁ tāvat svatvaṁ hi dehinām
+$$shlok-commentary$$  adhikaṁ yo ’bhimanyeta sa steno daṇḍam arhati 
+$$shlok-commentary$$  (7.14.8)[v4]
 
 “One is entitled to keep only as much wealth as is necessary for one’s maintenance (the rest must be given away in charity). If one accumulates more than one’s need, one is a thief in the eyes of God, and will be punished for it.” What is the punishment? Firstly, at the time of death, the wealth one earned will not go along—it will be snatched away. Secondly, according to the law of karma, one will be punished for the sins committed in earning the wealth. Just as, if a smuggler is caught, not only are his goods confiscated, but he is also punished for breaking the law.
 
@@ -4964,13 +4972,10 @@ BG 16.13-15: The demoniac persons think, “I have gained so much wealth today, 
 Commentary
 Ignoring all morality, the demoniac presume they have a right to enjoy whatever they find pleasurable. They make concerted efforts to orchestrate events to fulfill their ambitions. Realizing that the ritualistic practices of the Vedas will help them become materially affluent, they even perform ritualistic ceremonies to accrue abundance and fame from them. However, like the vulture that flies high but keeps its sight fixed low, the demoniac sometimes rise in social status, but their actions remain mean and lowly. Such people respect power and believe in the principle of “might is right.” Hence, they do not hesitate in even harming or injuring others to eliminate obstacles in the fulfillment of their desires. The Sukti Sudhakar states that there are four kinds of people:
 
-eke satpuruṣāḥ parārthaghaṭakāḥ swārthān parityajya ye
-
-sāmānyāstu parārthamudyamabhṛitaḥ swārthā virodhena ye
-
-te ’mī mānav rākṣasāḥ parahitaṁ swārthāya nighnanti ye
-
-ye tughnanti nirarthakaṁ parahitaṃ te ke na jānīmahe [v5]
+$$shlok-commentary$$  eke satpuruṣāḥ parārthaghaṭakāḥ swārthān parityajya ye
+$$shlok-commentary$$  sāmānyāstu parārthamudyamabhṛitaḥ swārthā virodhena ye
+$$shlok-commentary$$  te ’mī mānav rākṣasāḥ parahitaṁ swārthāya nighnanti ye
+$$shlok-commentary$$  ye tughnanti nirarthakaṁ parahitaṃ te ke na jānīmahe [v5]
 
 “The first kind of people is the saintly personalities who sacrifice their self-interest for the welfare of others. The second kind is common people who believe in engaging in the welfare of others, provided it does not harm them. The third kind is the demoniac who do not mind harming others, if it helps fulfill their self-interest. There is also a fourth kind of people who harm others, for no reason (except sadistic delight). There is no suitable name for them.” Shree Krishna vividly describes the degraded nature of the demoniac-mentality. Blinded by pride, they think along these lines: “I was born in a wealthy and aristocratic family. I am rich and powerful, and I do what I like. There is no need for me to bow down before God because I am like God myself.”
 
@@ -4978,9 +4983,8 @@ In most cases, when people say “I,” it is their ego speaking, not them. The 
 
 The ego creates the biggest untruth in our lives, and makes us believe what we are not. Thus, for progress along the saintly path, all the religious traditions and saints urge us to dismantle our egotistic thought patterns. The Tao Te Ching teaches: “Instead of trying to be the mountain, be the valley of the Universe.” [v6] (Chapter 6) Jesus of Nazareth also stated: “When you are invited, go and sit in the lowest place so that when the host comes, he may say to you, friend, move up higher. For everyone who exalts himself will be humbled, and everyone who humbles himself will be exalted.” (Luke 14:10-11)[v7]. Saint Kabir put this very nicely:
 
-ūñche pānī na ṭike, nīche hī ṭhaharāye
-
-nīchā hoya so bhari pī, ūñchā pyāsā jāya [v8]
+$$shlok-commentary$$  ūñche pānī na ṭike, nīche hī ṭhaharāye
+$$shlok-commentary$$  nīchā hoya so bhari pī, ūñchā pyāsā jāya [v8]
 
 “Water does not remain above; it naturally flows down. Those who are low and unassuming drink (God’s grace) to their heart’s content, while those who are high and pompous remain thirsty.”
 
@@ -5003,13 +5007,13 @@ Under the sway of the ego, people identify with their mind and become confined b
 
 Humans are free to perform karmas by their choice, but they are not free to determine the results of their actions. The results are bestowed by God in accordance with the law of karma. The Ramayan states:
 
-karama pradhāna bisva kari rākhā, jo jasa karai so tasa phala chākhā [v9]
+$$shlok-commentary$$  karama pradhāna bisva kari rākhā, jo jasa karai so tasa phala chākhā [v9]
 
 “Actions are important in this world. Whatever actions people perform, they taste the corresponding fruits.” Hence, everyone has to face the karmic consequences of their actions. The Bible also states: “Be sure your sin will find you out.” (Numbers 32.23)[v9.1] Thus, in their next lives, God casts those who choose to cultivate demoniac qualities into inferior states of existence. The principle is very simple:
 
-ūrdhvaṁ gachchhanti sattvasthā madhye tiṣhṭhanti rājasāḥ
-
-jaghanya guṇa vṛittisthā adho tiṣhṭhanti tāmasāḥ (Garuḍ Purāṇ)[v10]
+$$shlok-commentary$$  ūrdhvaṁ gachchhanti sattvasthā madhye tiṣhṭhanti rājasāḥ
+$$shlok-commentary$$  jaghanya guṇa vṛittisthā adho tiṣhṭhanti tāmasāḥ 
+$$shlok-commentary$$  (Garuḍ Purāṇ)[v10]
 
 “Those who act out of sāttvic mentalities rise to the higher levels of existence; those who act out of rājasic mentalities remain in the middle regions; and those who act out of a tāmasic mentality and are inclined toward sin descend to the lower levels of existence.”
 
@@ -5138,7 +5142,7 @@ Shree Krishna now gives the final conclusion of the teachings in this chapter. B
 
 Sometimes, even well-intentioned people say, “I do not care for rules. I follow my heart and do my own thing.” It is all very well to follow the heart, but how can they be sure that their heart is not misleading them? As the saying goes, “The road to hell is paved with good intentions.” Thus, it is always wise to check with the scriptures whether our heart is truly guiding us in the proper direction. The Manu Smṛiti states:
 
-bhūtaṁ bhavyaṁ bhaviṣhyaṁ cha sarvaṁ vedāt prasidhyati (12.97)[v12]
+$$shlok-commentary$$  bhūtaṁ bhavyaṁ bhaviṣhyaṁ cha sarvaṁ vedāt prasidhyati (12.97)[v12]
 
 “The authenticity of any spiritual principle of the past, present, or future, must be established on the basis of the Vedas.” Hence, Shree Krishna concludes by instructing Arjun to comprehend the teachings of the scriptures and act according to them.
 
@@ -5326,9 +5330,9 @@ Cooked foods that have remained for more than one yām (three hours) are classif
 
 Meat-eating also creates bad karma. The Manu Smṛiti states:
 
-māṁ sa bhakṣhayitāmutra yasya māṁsam ihādmy aham
-
-etan māṁsasya māṁsatvaṁ pravadanti manīṣhiṇaḥ (5.55)[v2]
+$$shlok-commentary$$  māṁ sa bhakṣhayitāmutra yasya māṁsam ihādmy aham
+$$shlok-commentary$$  etan māṁsasya māṁsatvaṁ pravadanti manīṣhiṇaḥ 
+$$shlok-commentary$$  (5.55)[v2]
 
 “The word mānsa (meat) means “that whom I am eating here will eat me in my next life.” For this reason, the learned say that meat is called mānsa (a repeated act: I eat him, he eats me).”
 
@@ -5421,9 +5425,9 @@ BG 17.15: Words that do not cause distress, are truthful, inoffensive, and benef
 Commentary
 Austerity of speech is speaking words that are truthful, unoffending, pleasing, and beneficial for the listener. The practice of the recitation of Vedic mantras is also included in the austerities of speech. The progenitor, Manu, wrote:
 
-satyaṁ brūyāt priyaṁ brūyān na brūyāt satyam apriyam
-
-priyaṁ cha nānṛitaṁ brūyāt eṣha dharmaḥ sanātanaḥ (Manu Smṛiti 4.138)[v4]
+$$shlok-commentary$$  satyaṁ brūyāt priyaṁ brūyān na brūyāt satyam apriyam
+$$shlok-commentary$$  priyaṁ cha nānṛitaṁ brūyāt eṣha dharmaḥ sanātanaḥ 
+$$shlok-commentary$$  (Manu Smṛiti 4.138)[v4]
 
 “Speak the truth in such a way that it is pleasing to others. Do not speak the truth in a manner injurious to others. Never speak untruth, though it may be pleasant. This is the eternal path of morality and dharma.”
 
@@ -5448,15 +5452,11 @@ The mind may be likened to a garden, which can either be intelligently cultivate
 
 People imagine that their thoughts are secret and have no external consequences because they dwell within the mind, away from the sight of others. They do not realize that thoughts not only forge their inner character but also their external personality. That is why we look upon someone and say, “He seems like a very simple and trustworthy person.” For another person, we say, “She seems to be very cunning and deceitful. Stay away from her.” In each case, it was the thoughts people harbored that sculpted their appearance. Ralph Waldo Emerson said: “There is full confession in the glances of our eyes, in our smiles, in salutations, in the grasp of the hands. Our sin bedaubs us, mars all the good impressions. Men do not know why they do not trust us. The vice glasses the eyes, demeans the cheek, pinches the nose, and writes, ‘O fool, fool!’ on the forehead of a king.” Another powerful saying linking thoughts to character states:
 
-“Watch your thoughts, for they become words.
-
-Watch your words, for they become actions.
-
-Watch your actions, for they become habits.
-
-Watch your habits, for they become character.
-
-Watch your character, for it becomes your destiny.”
+$$shlok-commentary$$  “Watch your thoughts, for they become words.
+$$shlok-commentary$$  Watch your words, for they become actions.
+$$shlok-commentary$$  Watch your actions, for they become habits.
+$$shlok-commentary$$  Watch your habits, for they become character.
+$$shlok-commentary$$  Watch your character, for it becomes your destiny.”
 
 It is important to realize that we harm ourselves with every negative thought that we harbor in our mind. At the same time, we uplift ourselves with every positive thought that we dwell upon. Henry Van Dyke expressed this very vividly, in his poem “Thoughts are things.”
 
@@ -5550,15 +5550,13 @@ BG 17.20: Charity given to a worthy person simply because it is right to give, w
 Commentary
 The three-fold divisions of dānam, or charity, are now being described. It is an act of duty to give according to one’s capacity. The Bhaviṣhya Purāṇ states: dānamekaṁ kalau yuge [v5] “In the age of Kali, giving in charity is the means for purification.” The Ramayan states this too:
 
-pragaṭa chāri pada dharma ke kali mahuṅ ek pradhāna
-
-jena kena bidhi dīnheṅ dāna karai kalyāna [v6]
+$$shlok-commentary$$  pragaṭa chāri pada dharma ke kali mahuṅ ek pradhāna
+$$shlok-commentary$$  jena kena bidhi dīnheṅ dāna karai kalyāna [v6]
 
 “Dharma has four basic tenets, one amongst which is the most important in the age of Kali—give in charity by whatever means possible.” The act of charity bestows many benefits. It reduces the attachment of the giver toward material objects; it develops the attitude of service; it expands the heart, and fosters the sentiment of compassion for others. Hence, most religious traditions follow the injunction of giving away one-tenth of one’s earnings in charity. The Skandh Purāṇ states:
 
-nyāyopārjita vittasya daśhamānśhena dhīmataḥ
-
-kartavyo viniyogaśhcha īśhvaraprityarthameva cha [v7]
+$$shlok-commentary$$  nyāyopārjita vittasya daśhamānśhena dhīmataḥ
+$$shlok-commentary$$  kartavyo viniyogaśhcha īśhvaraprityarthameva cha [v7]
 
 “From the wealth you have earned by rightful means, take out one-tenth, and as a matter of duty, give it away in charity. Dedicate your charity for the pleasure of God.” Charity is classified as proper or improper, superior or inferior, according to the factors mentioned by Shree Krishna in this verse. When it is offered freely from the heart to worthy recipients, at the proper time, and at the appropriate place, it is bequeathed to be in the mode of goodness.
 
@@ -5668,10 +5666,10 @@ BG 17.26-27: The word “Sat” means eternal existence and goodness. O Arjun, i
 Commentary
 Now the auspiciousness of the word “Sat” is being glorified by Shree Krishna. This word Sat has many connotations, and the above two verses describe some of these. Sat is used to mean perpetual goodness and virtue. In addition, auspicious performance of sacrifice, austerity, and charity is also described as Sat. Sat also means that which always exists i.e., it is an eternal truth. The Śhrīmad Bhāgavatam states:
 
-satya-vrataṁ satya-paraṁ tri-satyaṁ
-satyasya yoniṁ nihitaṁ cha satye
-satyasya satyam ṛita-satya-netraṁ
-satyātmakaṁ tvāṁ śharaṇaṁ prapannāḥ (10.2.26)[v8]
+$$shlok-commentary$$  satya-vrataṁ satya-paraṁ tri-satyaṁ
+$$shlok-commentary$$  satyasya yoniṁ nihitaṁ cha satye
+$$shlok-commentary$$  satyasya satyam ṛita-satya-netraṁ
+$$shlok-commentary$$  satyātmakaṁ tvāṁ śharaṇaṁ prapannāḥ (10.2.26)[v8]
 
 “O Lord, your vow is true, for not only are you the Supreme Truth, but you are also the truth in the three phases of the cosmic manifestation—creation, maintenance, and dissolution. You are the origin of all that is true, and you are also its end. You are the essence of all truth, and you are also the eyes by which the truth is seen. Therefore, we surrender unto you, the Sat i.e., Supreme Absolute Truth. Kindly give us protection.”
 
@@ -5776,9 +5774,8 @@ BG 18.4: Now hear my conclusion on the subject of renunciation, O tiger amongst 
 Commentary
 Renunciation is important because it is the basis for higher life. It is only by giving up the lower desires that we can cultivate the higher aspirations. Likewise, it is by giving up lower actions that we can dedicate ourselves to higher duties and activities, and walk the path of enlightenment. However in the previous verse, Shree Krishna revealed that there are differing views on the true understanding of what renunciation actually entails. Having mentioned the two primary opposing views in the previous verse, Shree Krishna now reveals his opinion, which is the final verdict on the subject. He says that he will expound upon the subject by dividing renunciation into three categories (described in verses 7 to 9). He addresses Arjun as vyāghra, meaning “tiger amongst men” because renunciation is for the brave-hearted. Saint Kabir said:
 
-tīra talavār se jo laṛai, so śhūravīra nahīṅ hoya
-
-māyā taji bhakti kare, śhūra kahāvai soya [v2]
+$$shlok-commentary$$  tīra talavār se jo laṛai, so śhūravīra nahīṅ hoya
+$$shlok-commentary$$  māyā taji bhakti kare, śhūra kahāvai soya [v2]
 
 “One is not brave by virtue of fighting with arrows and swords; that person is truly brave who renounces Maya and engages in bhakti.”
 
@@ -5987,23 +5984,23 @@ BG 18.15-16: These five are the contributory factors for whatever action is perf
 Commentary
 The three kinds of actions are—kāyik (those performed with the body), vāchik (those performed by speech), and mānasik (those performed by the mind). In each of these categories, whether we do virtuous or sinful acts, the five causes mentioned in the previous verse are responsible. Due to the ego, we think of ourselves as the doers of our actions. “I achieved this.” “I accomplished that.” “I will do this.” These are statements we make under the illusion of being the doer. Shree Krishna’s purpose in revealing this knowledge is to annihilate the soul’s pride of doership. Thus, he states that those who see the soul only as the contributory factor for action do not see things as they truly are. If the soul were not granted a body by God, it could not have done anything at all. Further, if the body were not energized by God, it could have still done nothing. The Kenopaniṣhad states:
 
-yadvāchānabhyuditaṁ yena vāgabhyudyate (1.4)[v8]
+$$shlok-commentary$$  yadvāchānabhyuditaṁ yena vāgabhyudyate (1.4)[v8]
 
 “Brahman cannot be described by the voice. By its inspiration, the voice gets the power to speak.”
 
-yanmanasā na manute yenāhurmano matam (1.5)[v9]
+$$shlok-commentary$$  yanmanasā na manute yenāhurmano matam (1.5)[v9]
 
 “Brahman cannot be understood by the mind and intellect. By its power, the mind and intellect work.”
 
-yachchakṣhuṣhā na paśhyati yena chakṣhūṁṣhi paśhyati (1.6)[v10]
+$$shlok-commentary$$  yachchakṣhuṣhā na paśhyati yena chakṣhūṁṣhi paśhyati (1.6)[v10]
 
 “Brahman cannot be seen with the eyes. By its inspiration, the eyes see.”
 
-yachchhrotreṇa na śhṛiṇoti yena śhrotramidaṁ śhrutam (1.7)[v11]
+$$shlok-commentary$$  yachchhrotreṇa na śhṛiṇoti yena śhrotramidaṁ śhrutam (1.7)[v11]
 
 “Brahman cannot be heard with the ears. By its power, the ears hear.”
 
-yat prāṇena na prāṇiti yena prāṇaḥ praṇīyate (1.8)[v12]
+$$shlok-commentary$$  yat prāṇena na prāṇiti yena prāṇaḥ praṇīyate (1.8)[v12]
 
 “Brahman cannot be energized by the life airs. By its inspiration, the life airs function.”
 
@@ -6028,15 +6025,13 @@ Having described the obtuse intellect in the previous verse, Shree Krishna now d
 
 Rahim Khankhana was a famous poet saint, during the Mughal period in Indian history. Although a Muslim by birth, he was a great devotee of Lord Krishna. When he would give alms in charity, he would lower his eyes. A sweet incident is related about this habit of his. It is said that Saint Tulsidas heard of Rahim’s style of giving alms, and asked him:
 
-aisī denī dena jyuñ, kita sīkhe ho saina
-
-jyoṅ jyoṅ kara ūñchyo karo, tyoṅ tyoṅ niche naina [v13]
+$$shlok-commentary$$  aisī denī dena jyuñ, kita sīkhe ho saina
+$$shlok-commentary$$  jyoṅ jyoṅ kara ūñchyo karo, tyoṅ tyoṅ niche naina [v13]
 
 “Sir, where did you learn to give alms like this? Your hands are as high as your eyes are low.” Rahim replied beautifully and in all humbleness:
 
-denahāra koī aur hai, bhejata hai dina raina
-
-loga bharama hama para kareṅ, yāte niche naina [v14]
+$$shlok-commentary$$  denahāra koī aur hai, bhejata hai dina raina
+$$shlok-commentary$$  loga bharama hama para kareṅ, yāte niche naina [v14]
 
 “The giver is someone else, giving day and night. But the world gives me the credit, and so I lower my eyes.” Understanding that we are not the sole cause responsible for our accomplishments frees us from the egoistic pride of doership.
 
@@ -6097,7 +6092,7 @@ BG 18.20: Understand that knowledge to be in the mode of goodness by which a per
 Commentary
 Creation gives the appearance of a panorama of diverse living beings and material entities. But the substratum behind this apparent diversity is the Supreme Lord. Those who possess this vision of knowledge see the unity that exists behind the variety of creation, just as an electrical engineer sees the same electricity flowing through different gadgets, and a goldsmith sees the same gold cast into different ornaments. The Śhrīmad Bhāgavatam states:
 
-vadanti tat tattva-vidas tattvaṁ yaj jñānam advayam (1.2.11)[v15]
+$$shlok-commentary$$  vadanti tat tattva-vidas tattvaṁ yaj jñānam advayam (1.2.11)[v15]
 
 “Knowers of the truth have stated that there is only one entity in existence, without a second.” Chaitanya Mahaprabhu referred to God, in his form as Shree Krishna, as advaya jñāna tattva [v16] (one without a second, the only thing and everything that exists in creation), on the basis of the following four criteria:
 
@@ -6109,7 +6104,7 @@ Shree Krishna is also one with the souls, who are his tiny fragmental parts. A f
 
 3. Swagat bhed śhūnya. (The various parts of his body are non-different from him.) The amazing thing about God’s body is that all the parts perform the functions of all the other parts. The Brahma Samhitā states:
 
-aṅgāni yasya sakalendriya-vṛitti-manti paśhyanti pānti kalayanti chiraṁ jaganti (5.32)[v17]
+$$shlok-commentary$$  aṅgāni yasya sakalendriya-vṛitti-manti paśhyanti pānti kalayanti chiraṁ jaganti (5.32)[v17]
 
 “With every limb of his body, God can see, hear, talk, smell, eat, and think.” Hence, all the limbs of God’s body are non-different from him.
 
@@ -6180,9 +6175,9 @@ Other philosophers recommended following the dictates of the conscience. They su
 
 Regarding proper action, the Mahabharat states:
 
-ātmanaḥ pratikūlāni pareśhāṁ na samācharet
-
-śhrutiḥ smṛitiḥ sadāchāraḥ svasya cha priyamātmanaḥ (5.15.17)[v18]
+$$shlok-commentary$$  ātmanaḥ pratikūlāni pareśhāṁ na samācharet
+$$shlok-commentary$$  śhrutiḥ smṛitiḥ sadāchāraḥ svasya cha priyamātmanaḥ 
+$$shlok-commentary$$  (5.15.17)[v18]
 
 “If you do not like it when others behave with you in a certain way, then do not behave with them in that way either. But always verify that your behavior is in accordance with the scriptures.” Conduct yourself with others as you desire them to behave with you. The Bible also says, “Do to others as you would have them do to you.” (Luke 6.31)[v19] Here, Shree Krishna declares, in a similar way that action in the mode of goodness is doing one’s duty in accordance with the scriptures. He further adds that such work should be without attachment or aversion, and without desire to enjoy the results.
 
@@ -6274,9 +6269,9 @@ Shree Krishna now gives a description of tāmasic workers. Their mind is blotted
 
 The Śhrīmad Bhāgavatam also describes types of performers of actions:
 
-sāttvikaḥ kārako ’saṅgī rāgāndho rājasaḥ smṛitaḥ
-
-tāmasaḥ smṛiti-vibhraṣhṭo nirguṇo mad-apāśhrayaḥ (11.25.26)[v20]
+$$shlok-commentary$$  sāttvikaḥ kārako ’saṅgī rāgāndho rājasaḥ smṛitaḥ
+$$shlok-commentary$$  tāmasaḥ smṛiti-vibhraṣhṭo nirguṇo mad-apāśhrayaḥ 
+$$shlok-commentary$$  (11.25.26)[v20]
 
 “The worker who is detached is sāttvic in nature; the one who is excessively attached to action and its results is rājasic; one who is devoid of discrimination is tāmasic. But the worker who is surrendered to me is transcendental to the three modes.”
 
@@ -6451,11 +6446,11 @@ The Indian gooseberry (āmlā) is one of those super-foods that are very benefic
 
 The Vedas refer to happiness in the mode of goodness as śhreya, which is unpleasant in the present but ultimately beneficial. In contrast to this is preya, which is pleasant in the beginning but ultimately harmful. Regarding śhreya and preya, the Kaṭhopaniṣhad states:
 
-anyachchhreyo ’nyadutaiva preyaste ubhe nānārthe puruṣhaṁ sinītaḥ
-tayoḥ śhreya ādadānasya sādhu bhavati hīyate ’rthādya u preyo vṛiṇīte
+$$shlok-commentary$$  anyachchhreyo ’nyadutaiva preyaste ubhe nānārthe puruṣhaṁ sinītaḥ
+$$shlok-commentary$$  tayoḥ śhreya ādadānasya sādhu bhavati hīyate ’rthādya u preyo vṛiṇīte
 
-śhreyaśhcha preyaśhcha manuṣhyametastau samparītya vivinakti dhīraḥ
-śhreyo hi dhīro ’bhi preyaso vṛiṇīte preyo mando yogakṣhemād vṛinīte (1.2.1-2)[v21]
+$$shlok-commentary$$  śhreyaśhcha preyaśhcha manuṣhyametastau samparītya vivinakti dhīraḥ
+$$shlok-commentary$$  śhreyo hi dhīro ’bhi preyaso vṛiṇīte preyo mando yogakṣhemād vṛinīte (1.2.1-2)[v21]
 
 ”There are two paths—one is the ‘beneficial’ and the other is the ‘pleasant’. These two lead humans to very different ends. The pleasant is enjoyable in the beginning, but it ends in pain. The ignorant are snared to the pleasant and perish. But the wise are not deceived by its attractions, choose the beneficial, and finally attain happiness.”
 
@@ -6476,13 +6471,10 @@ BG 18.38: Happiness is said to be in the mode of passion when it is derived from
 Commentary
 Rājasic happiness is experienced as a thrill that arises from the contact between the senses and their objects, but the joy is as short-lived as the contact itself, and leaves in its wake greed, anxiety, guilt, and a thickening of the material illusion. Even in the material realm, for meaningful accomplishment, it is necessary to reject rājasic happiness. As a reminder to steer him away from immediate but misleading joys, India’s first Prime Minister, Jawaharlal Nehru, used to keep these lines from the poem, Stopping by Woods on a Snowy Evening, on his desk:
 
-The woods are lovely, dark, and deep,
-
-But I have promises to keep,
-
-And miles to go before I sleep,
-
-And miles to go before I sleep.
+$$shlok-commentary$$  The woods are lovely, dark, and deep,
+$$shlok-commentary$$  But I have promises to keep,
+$$shlok-commentary$$  And miles to go before I sleep,
+$$shlok-commentary$$  And miles to go before I sleep.
 
 The path to lasting and divine bliss lies not in indulgence, but in renunciation, austerities, and discipline.
 
@@ -6520,8 +6512,8 @@ BG 18.40: No living being on earth or the higher celestial abodes in this materi
 Commentary
 The Śhwetāśhvatar Upaniṣhad states that the material energy, Maya, is tri-colored:
 
-ajāmekāṁ lohita-śhukla-kṛiṣhṇāṁ bahvīḥ prajāḥ sṛijamānāṁ sa-rūpāḥ
-ajo hy eko juṣhamāṇo ‘nuśhete jahāty enāṁ bhukta-bhogām ajo ‘nyaḥ…(4.5)[v22]
+$$shlok-commentary$$  ajāmekāṁ lohita-śhukla-kṛiṣhṇāṁ bahvīḥ prajāḥ sṛijamānāṁ sa-rūpāḥ
+$$shlok-commentary$$  ajo hy eko juṣhamāṇo ‘nuśhete jahāty enāṁ bhukta-bhogām ajo ‘nyaḥ…(4.5)[v22]
 
 “Material nature has three colors—white, red, and black, i.e. it has three modes—goodness, passion, and ignorance. It is the mother-like womb of the innumerable living beings within the universe. It is brought into existence and supported by the one unborn Lord, who is full of knowledge. God, however, does not consort with his material energy. He independently enjoys the pleasure of his transcendental pastimes. But the living entity enjoys her and thus becomes bound.”
 
@@ -6660,9 +6652,9 @@ Instead, if we abandon our duties thinking them to be defective, and take up ano
 
 When one becomes spiritually accomplished the swa-dharma changes. It no longer remains at the bodily platform; it becomes the dharma of the soul, which is devotion to God. At that stage, one is justified in giving up occupational duties and engaging wholeheartedly in devotion because that is now the swa-dharma of one’s nature. For people with that eligibility, Shree Krishna will give the final conclusion in the end of the Bhagavad Gita: “Give up all varieties of dharmas and simply surrender unto me.” (18.66) However, until that stage is reached, the instruction given in this verse applies. Thus, the Śhrīmad Bhāgavatam states:
 
-tāvat karmāṇi kurvīta na nirvidyeta yāvatā
-
-mat-kathā-śhravaṇādau vā śhraddhā yāvan na jāyate (11.20.9)[v23]
+$$shlok-commentary$$  tāvat karmāṇi kurvīta na nirvidyeta yāvatā
+$$shlok-commentary$$  mat-kathā-śhravaṇādau vā śhraddhā yāvan na jāyate 
+$$shlok-commentary$$  (11.20.9)[v23]
 
 “We must keep doing our prescribed occupational duties as long as the taste for devotion through hearing, chanting, and meditating on the leelas of God has not developed.”
 
@@ -6765,47 +6757,41 @@ Shree Krishna concludes his description of the stage of perfection. The words Br
 
 The jñānīs are often fond of saying that bhakti is only to be done as an intermediate step toward Brahman realization. They claim that bhakti is for the purpose of purifying the heart, and at the end of the journey, only jñāna remains. Thus, they recommend that those who possess a strong intellect can ignore devotion and simply cultivate knowledge. But the above verse negates such a viewpoint. Shree Krishna states that having attained the highest realization of jñāna, one develops parā bhakti. Ved Vyas has declared the same in the Śhrīmad Bhāgavatam:
 
-ātmārāmāśh cha munayo nirgranthā apy urukrame
-
-kurvanty ahaitukīṁ bhaktim ittham-bhūta-guṇo hariḥ (1.7.10)[v24]
+$$shlok-commentary$$  ātmārāmāśh cha munayo nirgranthā apy urukrame
+$$shlok-commentary$$  kurvanty ahaitukīṁ bhaktim ittham-bhūta-guṇo hariḥ 
+$$shlok-commentary$$  (1.7.10)[v24]
 
 “Even those who are ātmārām (rejoicing in the self), established in self-knowledge, and liberated from material bonds, such perfected souls desire to possess bhakti toward God. The super-excellent qualities of God are such that they attract even the liberated souls.” There are many examples of renowned jñānīs who had attained self-knowledge and were situated in the realization of the formless Brahman. However, when they got a glimpse of the transcendental divine qualities of God, they naturally got drawn toward bhakti. Instances of such jñānīs from each of the four yugas are given here.
 
 The greatest jñanīs in Satya Yuga were the four sons of Brahma—Sanat Kumar, Sanatan Kumar, Sanak Kumar, and Sanandan Kumar. They were self-realized from birth, and their minds were always absorbed in the formless Brahman. These four brothers once visited Vaikunth, the divine abode of Lord Vishnu. There, the fragrance from the tulsī (holy basil) leaves at the lotus feet of the Lord entered their nostrils, causing a thrill of ecstasy in their hearts. Immediately, their meditation on the attributeless Brahman ended, and they were immersed in the bliss of divine love for Lord Vishnu. They beseeched him for a boon:
 
-kāmaṁ bhavaḥ sva-vṛijinair nirayeṣhu naḥ stāch
-
-cheto ’livad yadi nu te padayo rameta (Bhāgavatam 3.15.49)[v25]
+$$shlok-commentary$$  kāmaṁ bhavaḥ sva-vṛijinair nirayeṣhu naḥ stāch
+$$shlok-commentary$$  cheto ’livad yadi nu te padayo rameta 
+$$shlok-commentary$$  (Bhāgavatam 3.15.49)[v25]
 
 “O Lord, we do not even mind if you send us to hell, so long as our mind gets the opportunity to drink the divine love bliss that emanates from your lotus feet.” Just imagine, even after having realized the formless Brahman, these foremost jñānīs were willing to reside in hell for the sake of relishing the bliss of the personal form of God.
 
 Let us now move on to Tretā Yuga. The topmost jñānī in this age was King Janak. He was the father of Sita, the eternal consort of Lord Ram. He was also known as Videha, one who was beyond all perceptions of the body. His mind would remain ever absorbed in the formless Brahman. One day, however, Sage Vishwamitra came to meet him, along with Lord Ram and Lakshman. What took place then is described in the Ramayan:
 
-inhani bilokata ati anurāgā, barabasa brahmasukhahi mana tyāgā [v26]
+$$shlok-commentary$$  inhani bilokata ati anurāgā, barabasa brahmasukhahi mana tyāgā [v26]
 
 “On seeing Lord Ram, King Janak became detached from the bliss of the formless Brahman, and deeply attached to the personal form of the Supreme Lord.” In this manner, the greatest jñānī of the age of Tretā came to the path of bhakti.”
 
 The topmost jñānī in the age of Dwāpar was Shukadev, the son of Sage Ved Vyas. The Puranas describe him as being so elevated that he remained in his mother’s womb for twelve years, thinking that if he came into the world, the material energy, Maya, would overpower him. Finally, Sage Narad came and spoke to him through his mother’s ear, reassuring him that nothing would happen and he should emerge from the womb. Finally, he emerged, and by his yogic power, he expanded his body to that of a twelve-year old and renounced home to live in the forest. There, he soon reached the highest state of samādhi. Years went by, and one day Ved Vyas’s students were cutting wood in the forest, when they saw him in samādhi. They went back and told the Sage about it. He told them to recite a verse in Shukadev’s ears, describing the beauty of the personal form of Lord Krishna:
 
-barhāpīḍaṁ naṭa-vara-vapuḥ karṇayoḥ karṇikāraṁ
-
-bibhrad vāsaḥ kanaka-kapiśhaṁ vaijayantīṁ cha mālām
-
-randhrān veṇor adhara-sudhayāpūrayan gopa-vṛindair
-
-vṛindāraṇyaṁ sva-pada-ramaṇaṁ prāviśhad gīta-kīrtiḥ (Bhāgavatam 10.21.5)[v27]
+$$shlok-commentary$$  barhāpīḍaṁ naṭa-vara-vapuḥ karṇayoḥ karṇikāraṁ
+$$shlok-commentary$$  bibhrad vāsaḥ kanaka-kapiśhaṁ vaijayantīṁ cha mālām
+$$shlok-commentary$$  randhrān veṇor adhara-sudhayāpūrayan gopa-vṛindair
+$$shlok-commentary$$  vṛindāraṇyaṁ sva-pada-ramaṇaṁ prāviśhad gīta-kīrtiḥ (Bhāgavatam 10.21.5)[v27]
 
 “Shree Krishna is adorned with a peacock feathered crown upon his head, and exhibits his form as the greatest dancer. His ears are decorated with blue karṇikā flowers. His shawl is the color of brilliant gold. He wears a garland made of vaijayantī beads. He fills the holes of his flute with the nectar from his lips. His praises are sung as he enters Vrindavan, surrounded by his cowherd friends, and the marks of his footprints beautify the earth.” Shukadev was absorbed in the formless Brahman when the verse entered his ears. Suddenly, the object of his meditation transformed into the enchanting form of Lord Krishna. He felt so deeply attracted to the bliss of the personal form of God, that he left his samādhi and went back to his father, Ved Vyas. From him, he heard the Śhrīmad Bhāgavatam, which is full of the sweetness of bhakti. Later, on the banks of the Ganges, he related it to King Parikshit, grandson of Arjun. In this manner, the greatest jñānī of the age of Dwāpar got drawn to the path of bhakti.
 
 Finally, we come to Kali Yuga. Jagadguru Shankaracharya is widely considered the greatest jñānī of this age. He is widely acclaimed as the propagator of advaita vāda (non-dualism), in which he stated that there is only one entity in existence, which is the nirguṇa (without qualities), nirviśheṣha (attributeless), nirākār (formless) Brahman. However, many people are unaware that from the age of twenty until he left his body at the age of thirty-two, he wrote hundreds of verses in praise of Lord Krishna, Lord Ram, Lord Shiv, Mother Durga, etc. He also visited the four dhāms (centers of spirituality in the four corners of India), and worshipped deities of the personal forms of God in all of them. In Prabodh Sudhākar, he writes:
 
-kāmyopāsanayārthayantyanudinaṁ kiñchitphalaṁ swepsitam
-
-kechit swargamathāpavargamapare yogādiyajñādibhiḥ
-
-asmākaṁ yadunandanāṅghriyugaladhyānāvadhānārthinām
-
-kiṁ lokena damena kiṁ nṛipatinā swargāpavargaiśhcha kiṁ (verse 250)[v28]
+$$shlok-commentary$$  kāmyopāsanayārthayantyanudinaṁ kiñchitphalaṁ swepsitam
+$$shlok-commentary$$  kechit swargamathāpavargamapare yogādiyajñādibhiḥ
+$$shlok-commentary$$  asmākaṁ yadunandanāṅghriyugaladhyānāvadhānārthinām
+$$shlok-commentary$$  kiṁ lokena damena kiṁ nṛipatinā swargāpavargaiśhcha kiṁ (verse 250)[v28]
 
 “Those who perform righteous actions for the attainment of celestial abodes may do so. Those who desire liberation via the path of jñāna or aṣhṭāṅg yog may pursue that goal. As for me, I want nothing of these two paths. I wish only to engross myself in the nectar of Shree Krishna’s lotus feet. I do not desire either worldly or heavenly pleasures, nor do I desire liberation. I am a rasik who relishes the bliss of divine love.” The fact is that Shankaracharya was a great devotee of Lord Krishna. What he taught in his bhāṣhyas (commentaries) was the need of the times. When he appeared upon the earth, Buddhism was prevailing all over India. In such an environment, to reestablish the faith of the Buddhists in the Vedas, he sidelined devotion while writing his bhāṣhyas. But later, in the numerous stutis (praises) he wrote for the personal forms of God, he revealed his inner devotion. Shankaracharya was thus an example in the age of Kali, of someone who had reached the highest realization of jñāna, and who then did devotion.
 
@@ -6829,15 +6815,11 @@ Shree Krishna stated in the previous verse that on becoming situated in transcen
 
 The Padma Purāṇ mentions a beautiful incident illustrating the above truth. A ṛiṣhi by the name of Jabali saw a very effulgent and peaceful maiden meditating in the forest. He requested her to reveal her identity and purpose of meditation. She replied:
 
-brahmavidyāhamatulā yogiṁdrairyā cha mṛigyate
-
-sāhaṁ hari padāmbhoja kāmyayā suchiraṁ tapaḥ
-
-charāmyasmin vane ghore dhyāyantī puruṣhottamam
-
-brahmānandena pūrṇāhaṁ tenānandena tṛiptadhīḥ
-
-tathāpi śhūnyamātmānaṁ manye kṛiṣhṇaratiṁ vinā [v29]
+$$shlok-commentary$$  brahmavidyāhamatulā yogiṁdrairyā cha mṛigyate
+$$shlok-commentary$$  sāhaṁ hari padāmbhoja kāmyayā suchiraṁ tapaḥ
+$$shlok-commentary$$  charāmyasmin vane ghore dhyāyantī puruṣhottamam
+$$shlok-commentary$$  brahmānandena pūrṇāhaṁ tenānandena tṛiptadhīḥ
+$$shlok-commentary$$  tathāpi śhūnyamātmānaṁ manye kṛiṣhṇaratiṁ vinā [v29]
 
 “I am Brahma Vidyā (the science of knowing the self, which ultimately leads to the Brahman realization of God). Great yogis and mystics perform austerities to know me. However, I am myself performing severe austerities to develop love at the lotus feet of the personal form of God. I am replete and satiated with the bliss of Brahman. Yet, without loving attachment to Lord Krishna, I feel empty and void.” Thus, mere knowledge is insufficient for relishing the bliss of the personal form of God. It is through bhakti that one enters into this secret and achieves full God-consciousness.
 
@@ -6971,15 +6953,14 @@ Being dependent upon God, the soul must also depend upon his grace to get out of
 
 If God does not follow rules while bestowing grace, people’s faith in him will break. Let us say, for example, that there is a father who has two sons. He instructs both of them to work hard in the paddy field as it is the cultivation season. One son toils and sweats it out in the blazing son all day long. In the night when he returns, the father says, “Well done my son. You are obedient, hard-working, and loyal. Here is your reward. Take $500 and do what you like with it.” The second son does nothing—he lies in bed all day long, sleeping, drinking, smoking, and abusing his father. At night, suppose the father says, “Never mind, after all you are also my son. Here is $500; go and enjoy yourself with it.” The result of this will be that the first son’s motivation to work hard will be smothered. He will say, “If this is my father’s reward system, then why should I work? I will also do nothing, for I will receive the $500 in any case.” Likewise, if God grants his grace without our becoming qualified for it, all those who became saints in the past will complain, “What is this? We strived for many lifetimes to purify ourselves and then we became recipients of God’s grace, but this person received it without making himself eligible. Then our effort for self-improvement was meaningless.” God says, “I do not behave in this irrational manner. I have an eternal condition on the basis of which I bestow my grace. And I have declared this in all the scriptures.” The Śhwetāśhvatar Upaniṣhad states:
 
-yo brahmāṇaṁ vidadhāti pūrvaṁ yo vai vedānśh cha prahiṇoti tasmai
-
-taṁ ha devaṁ ātma-buddhi-prakāśhaṁ mumukṣhur vai śharaṇam ahaṁ prapadye (6.18)[v30]
+$$shlok-commentary$$  yo brahmāṇaṁ vidadhāti pūrvaṁ yo vai vedānśh cha prahiṇoti tasmai
+$$shlok-commentary$$  taṁ ha devaṁ ātma-buddhi-prakāśhaṁ mumukṣhur vai śharaṇam ahaṁ prapadye (6.18)[v30]
 
 “We take shelter of that Supreme Being who created Brahma and others. It is by his grace that the soul and intellect get illumined.” The Śhrīmad Bhāgavatam states:
 
-mām ekam eva śharaṇam ātmānaṁ sarva-dehinām
-
-yāhi sarvātma-bhāvena mayā syā hy akuto-bhayaḥ (11.12.15)[v31]
+$$shlok-commentary$$  mām ekam eva śharaṇam ātmānaṁ sarva-dehinām
+$$shlok-commentary$$  yāhi sarvātma-bhāvena mayā syā hy akuto-bhayaḥ 
+$$shlok-commentary$$  (11.12.15)[v31]
 
 “O Uddhav! Giving up all forms of mundane social and religious conventions, simply surrender unto me, the Supreme Soul of all souls. Only then can you cross over this material ocean and become fearless.”
 
@@ -6987,19 +6968,16 @@ Shree Krishna also stated it in verse 7.14 of the Bhagavad Gita: “My divine en
 
 The Ramayan also says:
 
-sanamukha hoi jīva mohi jabahīṅ, janma koṭi agha nāsahiṅ tabahīṅ [v32]
+$$shlok-commentary$$  sanamukha hoi jīva mohi jabahīṅ, janma koṭi agha nāsahiṅ tabahīṅ [v32]
 
 “The moment the soul surrenders to God, its account of sinful deeds in endless past lifetimes is destroyed by his grace.”
 
 In the above verse of the Bhagavad Gita, Shree Krishna has reiterated the principle of the necessity for surrendering to God to receive his grace. The details of what it means to surrender are explained in the Hari Bhakti Vilas, Bhakti Rasamrita Sindhu, the Vayu Puran, and the Ahirbudhni Samhita in the following manner:
 
-ānukūlyasya saṅkalpaḥ pratikūlyasya varjanam
-
-rakṣhiṣhyatīti viśhvāso goptṛitve varaṇaṁ tathā
-
-ātmanikṣhepa kārpaṇye ṣhaḍvidhā śharaṇāgatiḥ
-
-(Hari Bhakti Vilas 11.676)[v33]
+$$shlok-commentary$$  ānukūlyasya saṅkalpaḥ pratikūlyasya varjanam
+$$shlok-commentary$$  rakṣhiṣhyatīti viśhvāso goptṛitve varaṇaṁ tathā
+$$shlok-commentary$$  ātmanikṣhepa kārpaṇye ṣhaḍvidhā śharaṇāgatiḥ
+$$shlok-commentary$$  (Hari Bhakti Vilas 11.676)[v33]
 
 The above verse explains the six aspects of surrender to God:
 
