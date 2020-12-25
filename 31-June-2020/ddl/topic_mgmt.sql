@@ -49,7 +49,7 @@ CREATE TABLE `t_group` (
   `rating` int(11) NOT NULL,
   `title` longtext NOT NULL,
   PRIMARY KEY (`ID`)
-) ENGINE=InnoDB AUTO_INCREMENT=46 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=47 DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -70,7 +70,7 @@ CREATE TABLE `topic` (
   `last_read_date` datetime NOT NULL DEFAULT current_timestamp(),
   `uniquestrid` text CHARACTER SET utf8 DEFAULT NULL,
   PRIMARY KEY (`ID`)
-) ENGINE=InnoDB AUTO_INCREMENT=562 DEFAULT CHARSET=utf8mb4;
+) ENGINE=InnoDB AUTO_INCREMENT=563 DEFAULT CHARSET=utf8mb4;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -86,7 +86,7 @@ CREATE TABLE `topic_read_history` (
   `last_read_date` datetime DEFAULT current_timestamp(),
   `action` text DEFAULT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=174 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=175 DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -105,7 +105,7 @@ CREATE TABLE `topicgroups` (
   KEY `FK_cor9qh790ccydysg9yt8r1j1j` (`groupid`),
   CONSTRAINT `FK_cor9qh790ccydysg9yt8r1j1j` FOREIGN KEY (`groupid`) REFERENCES `t_group` (`ID`),
   CONSTRAINT `FK_fu3o7d7vrcdtyxo31l7nqvph` FOREIGN KEY (`topicid`) REFERENCES `topic` (`ID`)
-) ENGINE=InnoDB AUTO_INCREMENT=13 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=121 DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -197,4 +197,4 @@ SET character_set_client = @saved_cs_client;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2020-12-24 20:53:37
+-- Dump completed on 2020-12-25 20:20:50
