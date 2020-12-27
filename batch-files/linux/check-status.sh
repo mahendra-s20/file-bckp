@@ -18,7 +18,7 @@ echo date "$myDate"
 #set myTime=%time:~% 
 #echo time %myTime%
 
-echo $GIT_PROJ_DIR/db-files
+echo $GIT_PROJ_DIR/file-bckp
 
 
 echo "====    BCE-GUI   ================"
@@ -57,8 +57,8 @@ pushd $GIT_PROJ_DIR/interview-mgmt-rest && git pull &&  git status && git add . 
 echo "====    NODEJS-EXPRESS-MYSQL-REST   ================"
 pushd $GIT_PROJ_DIR/nodejs-express-mysql-rest && git pull &&  git status && git add . && git commit -a -m "committing at $myDate" && git push && popd
 
-echo "====    DB-FILES   ================"
-pushd $GIT_PROJ_DIR/db-files && git pull &&  git status && git add . && git commit -a -m "committing at $myDate" && git push && popd
+echo "====    FILE-BCKP   ================"
+pushd $GIT_PROJ_DIR/file-bckp && git pull &&  git status && git add . && git commit -a -m "committing at $myDate" && git push && popd
 
 echo "== GIT_MY_PAGES_APPS_DIR =="
 pushd $GIT_MY_PAGES_APPS_DIR && git pull &&  git status && git add . && git commit -a -m "committing at $myDate" && git push && popd
@@ -73,7 +73,7 @@ pushd $GIT_PROJ_DIR/angular-npm-projects && echo "==============================
 pushd $GIT_PROJ_DIR/task-mgmt-service-mysql-db-branch && echo "===============================" && git remote show origin && git log -1  && popd
 pushd $GIT_PROJ_DIR/bce-rest-services && echo "===============================" && git remote show origin && git log -1  && popd
 pushd $GIT_PROJ_DIR/interview-mgmt-rest && echo "===============================" && git remote show origin && git log -1  && popd
-pushd $$GIT_PROJ_DIR/db-files && echo "===============================" && git remote show origin && git log -1 && popd
+pushd $$GIT_PROJ_DIR/file-bckp && echo "===============================" && git remote show origin && git log -1 && popd
 pushd $GIT_MY_PAGES_APPS_DIR && echo "===============================" && git remote show origin && git log -1  && popd
 
 
