@@ -6,8 +6,8 @@ MYSQL_BIN_DIR=/opt/lampp/bin
 #:: set DB_DUMP_WITH_DATA=C:\Users\premendra.kumar\Desktop\db-dump
 #:: set DB_DUMP_WITH_DDL_ONLY=C:\Users\premendra.kumar\Desktop\db-dump\ddl
 
-DB_DUMP_WITH_DATA=/home/premendra/git/db-files/linux-db-backup
-DB_DUMP_WITH_DDL_ONLY=/home/premendra/git/db-files/linux-db-backup/ddl
+DB_DUMP_WITH_DATA=/home/premendra/git/file-bckp/linux-db-backup
+DB_DUMP_WITH_DDL_ONLY=/home/premendra/git/file-bckp/linux-db-backup/ddl
 
 
 #+--------------------+
