@@ -23,6 +23,7 @@ DB_DUMP_WITH_DDL_ONLY=/home/premendra/git/file-bckp/linux-db-backup/ddl
 #| topic-mgmt         |
 #| word-meaning       |
 #| word-meaning-test  |
+#| resume_db |
 #+--------------------+
 #10 rows in set (0.00 sec)
 
@@ -124,6 +125,8 @@ echo "======== DB-DUMP WORD-MEANING-TEST ====================="
 $MYSQL_BIN_DIR/mysqldump -u root -p --routines --skip-extended-insert word-meaning-test > $DB_DUMP_WITH_DATA/word-meaning-test.sql
 $MYSQL_BIN_DIR/mysqldump -u root -p --routines --no-data word-meaning-test > $DB_DUMP_WITH_DDL_ONLY/word-meaning-test.sql
 
-
+echo "======== DB-DUMP resume_db ====================="
+$MYSQL_BIN_DIR/mysqldump -u root -p --routines --skip-extended-insert resume_db > $DB_DUMP_WITH_DATA/resume_db.sql
+$MYSQL_BIN_DIR/mysqldump -u root -p --routines --no-data resume_db > $DB_DUMP_WITH_DDL_ONLY/resume_db.sql
 
 echo "Dump completed successfully!"
