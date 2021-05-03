@@ -27,7 +27,7 @@ CREATE TABLE `t_user` (
   `name` varchar(100) NOT NULL,
   `address` text NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -36,7 +36,34 @@ CREATE TABLE `t_user` (
 
 LOCK TABLES `t_user` WRITE;
 /*!40000 ALTER TABLE `t_user` DISABLE KEYS */;
+INSERT INTO `t_user` VALUES (1,'Premendra Kumar','House No 1212, Sec 55, Faridabad');
 /*!40000 ALTER TABLE `t_user` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `t_user_mobile_no`
+--
+
+DROP TABLE IF EXISTS `t_user_mobile_no`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `t_user_mobile_no` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `user_id` int(11) NOT NULL,
+  `mobile_no` varchar(25) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=latin1;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `t_user_mobile_no`
+--
+
+LOCK TABLES `t_user_mobile_no` WRITE;
+/*!40000 ALTER TABLE `t_user_mobile_no` DISABLE KEYS */;
+INSERT INTO `t_user_mobile_no` VALUES (1,1,'+91-8010645624');
+INSERT INTO `t_user_mobile_no` VALUES (2,1,'+91-8750084750');
+/*!40000 ALTER TABLE `t_user_mobile_no` ENABLE KEYS */;
 UNLOCK TABLES;
 
 --
@@ -52,4 +79,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2021-04-02 20:04:09
+-- Dump completed on 2021-05-03 19:17:15
