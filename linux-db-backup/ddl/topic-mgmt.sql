@@ -70,7 +70,7 @@ CREATE TABLE `topic` (
   `last_read_date` datetime NOT NULL DEFAULT CURRENT_TIMESTAMP,
   `uniquestrid` text,
   PRIMARY KEY (`ID`)
-) ENGINE=InnoDB AUTO_INCREMENT=520 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=522 DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -197,4 +197,4 @@ SET character_set_client = @saved_cs_client;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2021-05-03 19:17:06
+-- Dump completed on 2021-05-10 18:45:29
