@@ -129,4 +129,8 @@ echo "======== DB-DUMP resume_db ====================="
 $MYSQL_BIN_DIR/mysqldump -u root -p --routines --skip-extended-insert resume_db > $DB_DUMP_WITH_DATA/resume_db.sql
 $MYSQL_BIN_DIR/mysqldump -u root -p --routines --no-data resume_db > $DB_DUMP_WITH_DDL_ONLY/resume_db.sql
 
+echo "======== DB-DUMP call_details ====================="
+$MYSQL_BIN_DIR/mysqldump -u root -p --routines --skip-extended-insert call_details > $DB_DUMP_WITH_DATA/call_details.sql
+$MYSQL_BIN_DIR/mysqldump -u root -p --routines --no-data call_details > $DB_DUMP_WITH_DDL_ONLY/call_details.sql
+
 echo "Dump completed successfully!"
