@@ -28,9 +28,8 @@ CREATE TABLE `t_views` (
   `parent_id` int(11) DEFAULT NULL,
   PRIMARY KEY (`id`),
   UNIQUE KEY `UC_title` (`title`),
-  KEY `fk_self_parent_child` (`parent_id`),
-  CONSTRAINT `fk_self_parent_child` FOREIGN KEY (`parent_id`) REFERENCES `t_views` (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=111 DEFAULT CHARSET=latin1;
+  KEY `fk_self_parent_child` (`parent_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=116 DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -39,7 +38,7 @@ CREATE TABLE `t_views` (
 
 LOCK TABLES `t_views` WRITE;
 /*!40000 ALTER TABLE `t_views` DISABLE KEYS */;
-INSERT INTO `t_views` VALUES (1,'Mostly Asked Technical Topics',NULL);
+INSERT INTO `t_views` VALUES (1,'Mostly Asked Technical Topics',114);
 INSERT INTO `t_views` VALUES (2,'Backend',1);
 INSERT INTO `t_views` VALUES (3,'Frontend',1);
 INSERT INTO `t_views` VALUES (4,'Database',1);
@@ -139,6 +138,9 @@ INSERT INTO `t_views` VALUES (107,'GainManager',96);
 INSERT INTO `t_views` VALUES (108,'GIP (Global Interactive Program)',96);
 INSERT INTO `t_views` VALUES (109,'ShubhWeb',96);
 INSERT INTO `t_views` VALUES (110,'Notis',96);
+INSERT INTO `t_views` VALUES (113,'Organize Life',NULL);
+INSERT INTO `t_views` VALUES (114,'Interview Preparation',113);
+INSERT INTO `t_views` VALUES (115,'Cleaning/Organizing Books, Pdf, Certificates, Code',113);
 /*!40000 ALTER TABLE `t_views` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -155,4 +157,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2021-07-01 15:38:44
+-- Dump completed on 2021-07-01 18:15:23
