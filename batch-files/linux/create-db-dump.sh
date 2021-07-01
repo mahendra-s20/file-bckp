@@ -24,6 +24,7 @@ DB_DUMP_WITH_DDL_ONLY=/home/premendra/git/file-bckp/linux-db-backup/ddl
 #| word-meaning       |
 #| word-meaning-test  |
 #| resume_db |
+#|parent_child_relation_topics|
 #+--------------------+
 #10 rows in set (0.00 sec)
 
@@ -132,5 +133,10 @@ $MYSQL_BIN_DIR/mysqldump -u root -p --routines --no-data resume_db > $DB_DUMP_WI
 echo "======== DB-DUMP call_details ====================="
 $MYSQL_BIN_DIR/mysqldump -u root -p --routines --skip-extended-insert call_details > $DB_DUMP_WITH_DATA/call_details.sql
 $MYSQL_BIN_DIR/mysqldump -u root -p --routines --no-data call_details > $DB_DUMP_WITH_DDL_ONLY/call_details.sql
+
+
+echo "======== DB-DUMP parent_child_relation_topics ====================="
+$MYSQL_BIN_DIR/mysqldump -u root -p --routines --skip-extended-insert parent_child_relation_topics > $DB_DUMP_WITH_DATA/parent_child_relation_topics.sql
+$MYSQL_BIN_DIR/mysqldump -u root -p --routines --no-data parent_child_relation_topics > $DB_DUMP_WITH_DDL_ONLY/parent_child_relation_topics.sql
 
 echo "Dump completed successfully!"
