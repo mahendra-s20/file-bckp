@@ -29,7 +29,7 @@ CREATE TABLE `t_views` (
   PRIMARY KEY (`id`),
   UNIQUE KEY `UC_title` (`title`),
   KEY `fk_self_parent_child` (`parent_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=116 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=122 DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -89,7 +89,7 @@ INSERT INTO `t_views` VALUES (48,'Linux',38);
 INSERT INTO `t_views` VALUES (49,'Windows',38);
 INSERT INTO `t_views` VALUES (50,'Python',39);
 INSERT INTO `t_views` VALUES (51,'Ruby',39);
-INSERT INTO `t_views` VALUES (52,'Communication Skills',NULL);
+INSERT INTO `t_views` VALUES (52,'Communication Skills',114);
 INSERT INTO `t_views` VALUES (53,'Vocabulary Building',52);
 INSERT INTO `t_views` VALUES (54,'OOPS Concept',6);
 INSERT INTO `t_views` VALUES (55,'Enapsulation',54);
@@ -122,7 +122,7 @@ INSERT INTO `t_views` VALUES (89,'Concentrix ( permanent)',81);
 INSERT INTO `t_views` VALUES (90,'Accenture ( permanent)',81);
 INSERT INTO `t_views` VALUES (93,'Concentrix ( permanent, asst mgr)',81);
 INSERT INTO `t_views` VALUES (94,'Indiabulls Securities Ltd ( previous, Indiabulls Ventures Ltd)',81);
-INSERT INTO `t_views` VALUES (95,'Resume',NULL);
+INSERT INTO `t_views` VALUES (95,'Resume',114);
 INSERT INTO `t_views` VALUES (96,'Projects I\'ve worked upon',95);
 INSERT INTO `t_views` VALUES (97,'Student Information Management System ',96);
 INSERT INTO `t_views` VALUES (98,'CIPRUS',96);
@@ -141,6 +141,12 @@ INSERT INTO `t_views` VALUES (110,'Notis',96);
 INSERT INTO `t_views` VALUES (113,'Organize Life',NULL);
 INSERT INTO `t_views` VALUES (114,'Interview Preparation',113);
 INSERT INTO `t_views` VALUES (115,'Cleaning/Organizing Books, Pdf, Certificates, Code',113);
+INSERT INTO `t_views` VALUES (116,'Jasper Reports',96);
+INSERT INTO `t_views` VALUES (117,'Flex4',3);
+INSERT INTO `t_views` VALUES (118,'HTML5',3);
+INSERT INTO `t_views` VALUES (119,'CSS3',3);
+INSERT INTO `t_views` VALUES (120,'MongoDB',4);
+INSERT INTO `t_views` VALUES (121,'Neo4j',4);
 /*!40000 ALTER TABLE `t_views` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -157,4 +163,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2021-07-08 18:58:10
+-- Dump completed on 2021-07-09 18:36:09
