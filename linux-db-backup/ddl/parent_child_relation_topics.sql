@@ -29,7 +29,7 @@ CREATE TABLE `t_views` (
   PRIMARY KEY (`id`),
   UNIQUE KEY `UC_title` (`title`),
   KEY `fk_self_parent_child` (`parent_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=122 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=136 DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -45,4 +45,4 @@ CREATE TABLE `t_views` (
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2021-07-09 18:36:10
+-- Dump completed on 2021-07-10 20:56:08

@@ -29,7 +29,7 @@ CREATE TABLE `t_views` (
   PRIMARY KEY (`id`),
   UNIQUE KEY `UC_title` (`title`),
   KEY `fk_self_parent_child` (`parent_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=122 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=136 DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -76,7 +76,7 @@ INSERT INTO `t_views` VALUES (35,'Jira',5);
 INSERT INTO `t_views` VALUES (36,'Version Control',5);
 INSERT INTO `t_views` VALUES (37,'Deployment',5);
 INSERT INTO `t_views` VALUES (38,'OS/File Transfer',5);
-INSERT INTO `t_views` VALUES (39,'Other Programming Language',5);
+INSERT INTO `t_views` VALUES (39,'Other Programming Language',1);
 INSERT INTO `t_views` VALUES (40,'Agile',5);
 INSERT INTO `t_views` VALUES (41,'GIT',36);
 INSERT INTO `t_views` VALUES (42,'SVN',36);
@@ -89,7 +89,7 @@ INSERT INTO `t_views` VALUES (48,'Linux',38);
 INSERT INTO `t_views` VALUES (49,'Windows',38);
 INSERT INTO `t_views` VALUES (50,'Python',39);
 INSERT INTO `t_views` VALUES (51,'Ruby',39);
-INSERT INTO `t_views` VALUES (52,'Communication Skills',114);
+INSERT INTO `t_views` VALUES (52,'Communication Skills',126);
 INSERT INTO `t_views` VALUES (53,'Vocabulary Building',52);
 INSERT INTO `t_views` VALUES (54,'OOPS Concept',6);
 INSERT INTO `t_views` VALUES (55,'Enapsulation',54);
@@ -147,6 +147,20 @@ INSERT INTO `t_views` VALUES (118,'HTML5',3);
 INSERT INTO `t_views` VALUES (119,'CSS3',3);
 INSERT INTO `t_views` VALUES (120,'MongoDB',4);
 INSERT INTO `t_views` VALUES (121,'Neo4j',4);
+INSERT INTO `t_views` VALUES (122,'Explore Alternative Opportunities for Earnng',113);
+INSERT INTO `t_views` VALUES (123,'Share Market Trading',122);
+INSERT INTO `t_views` VALUES (124,'Freelancing',122);
+INSERT INTO `t_views` VALUES (125,'Online Teaching',122);
+INSERT INTO `t_views` VALUES (126,'Self Development',113);
+INSERT INTO `t_views` VALUES (127,'Exercise',126);
+INSERT INTO `t_views` VALUES (128,'Push-ups',127);
+INSERT INTO `t_views` VALUES (129,'Skipping',127);
+INSERT INTO `t_views` VALUES (130,'Gym',127);
+INSERT INTO `t_views` VALUES (131,'Back',130);
+INSERT INTO `t_views` VALUES (132,'Shoulders',130);
+INSERT INTO `t_views` VALUES (133,'Arms',130);
+INSERT INTO `t_views` VALUES (134,'Legs',130);
+INSERT INTO `t_views` VALUES (135,'Abdomen',130);
 /*!40000 ALTER TABLE `t_views` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -163,4 +177,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2021-07-09 18:36:09
+-- Dump completed on 2021-07-10 20:56:08
