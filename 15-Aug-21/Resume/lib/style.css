@@ -1,0 +1,23 @@
+thead {
+    color: green;
+}
+
+tbody {
+    /* color: blue; */
+    color: black;
+}
+
+tfoot {
+    color: red;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+th:hover {
+    cursor: pointer;
+    background: #AAA;
+}

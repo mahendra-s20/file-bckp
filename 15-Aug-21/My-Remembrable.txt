@@ -1,0 +1,107 @@
+
+========================
+KRA PROD SERVER
+172.17.62.32
+otsadmin
+Orbis@321
+
+=================================
+KRA UAT SERVER
+172.25.233.26
+ivladmin
+ekycuat@321
+
+=================================
+VSS Server PATH
+
+\\NXIBGOPSFS01\VSS-Server\VSS_OTSDEV
+
+=================================
+Jenkins Server
+
+http://172.17.60.70:8080/login?from=%2F
+
+===================================
+
+172.17.1.188
+otsadmin
+ibulls@123
+
+====================================
+172.17.1.47
+Administrator
+india@123
+
+===================================
+172.17.60.61
+Administrator
+india@123
+
+====================================
+
+db.adapter = oracle
+db.driver_class = oracle.jdbc.OracleDriver
+db.url = jdbc:oracle:thin:@172.17.1.99:1525:BOM3
+db.username = mumbai
+db.password = befsh00t81
+
+=============================================
+
+VSS Server location : \\nxibgopsfs01\vss-server\VSS_OTSDEV
+
+=============================================
+
+172.25.219.145
+.\weblogic
+india@123
+
+http://172.25.219.145:7001/console/login/LoginForm.jsp
+
+weblogic
+weblogic_1111
+
+==========================================
+
+http://172.25.219.92:7001/console/
+
+otsweblogic
+weblogic_1111
+
+172.25.219.92
+otsweblogic
+weblogic_1111
+
+=====================================
+
+172.25.219.36
+
+===========================================
+
+Generic id can be used on server              
+
+
+User ID: orbis\otsweblogic
+Pass: ][8vK!6FrYq&k})/
+
+ orbis\otsuatuser 
+ May@2021
+
+172.25.219.92
+
+
+=======================================
+SLACK AUTHENTICATION CODES
+If you lose access to your authentication device, you can use one of these backup codes to login to your account. Each code may be used only once. Make a copy of these codes, and store it somewhere safe.
+
+632596
+337905
+997884
+265442
+563350
+610656
+391417
+842310
+585963
+995307
+
+=======================================
