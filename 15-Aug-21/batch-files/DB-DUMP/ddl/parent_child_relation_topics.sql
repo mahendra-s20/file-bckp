@@ -1,6 +1,6 @@
 -- MySQL dump 10.17  Distrib 10.3.13-MariaDB, for Win64 (AMD64)
 --
--- Host: localhost    Database: onlinestore
+-- Host: localhost    Database: parent_child_relation_topics
 -- ------------------------------------------------------
 -- Server version	10.3.13-MariaDB
 
@@ -16,61 +16,40 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 --
--- Table structure for table `customer`
+-- Table structure for table `t_category`
 --
 
-DROP TABLE IF EXISTS `customer`;
+DROP TABLE IF EXISTS `t_category`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
-CREATE TABLE `customer` (
+CREATE TABLE `t_category` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
-  `name` varchar(50) DEFAULT NULL,
-  `password` varchar(255) DEFAULT NULL,
-  `email` varchar(255) DEFAULT NULL,
-  PRIMARY KEY (`id`),
-  UNIQUE KEY `email` (`email`)
-) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=latin1;
-/*!40101 SET character_set_client = @saved_cs_client */;
-
---
--- Table structure for table `product`
---
-
-DROP TABLE IF EXISTS `product`;
-/*!40101 SET @saved_cs_client     = @@character_set_client */;
-/*!40101 SET character_set_client = utf8 */;
-CREATE TABLE `product` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
-  `name` varchar(100) DEFAULT NULL,
-  `description` varchar(255) DEFAULT NULL,
-  `instock_quantity` int(11) DEFAULT NULL,
-  `price` decimal(8,2) DEFAULT NULL,
+  `CategoryName` varchar(1000) NOT NULL,
+  `created` timestamp NOT NULL DEFAULT current_timestamp(),
+  `updated` timestamp NOT NULL DEFAULT current_timestamp(),
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
--- Table structure for table `productorder`
+-- Table structure for table `t_views`
 --
 
-DROP TABLE IF EXISTS `productorder`;
+DROP TABLE IF EXISTS `t_views`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
-CREATE TABLE `productorder` (
-  `order_id` int(11) NOT NULL AUTO_INCREMENT,
-  `product_id` int(11) DEFAULT NULL,
-  `customer_id` int(11) DEFAULT NULL,
-  `product_quantity` int(11) DEFAULT NULL,
-  PRIMARY KEY (`order_id`),
-  KEY `product_id` (`product_id`),
-  KEY `customer_id` (`customer_id`),
-  CONSTRAINT `productorder_ibfk_1` FOREIGN KEY (`product_id`) REFERENCES `product` (`id`),
-  CONSTRAINT `productorder_ibfk_2` FOREIGN KEY (`customer_id`) REFERENCES `customer` (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=latin1;
+CREATE TABLE `t_views` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `title` varchar(200) DEFAULT NULL,
+  `parent_id` int(11) DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  UNIQUE KEY `UC_title` (`title`),
+  KEY `fk_self_parent_child` (`parent_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=137 DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
--- Dumping routines for database 'onlinestore'
+-- Dumping routines for database 'parent_child_relation_topics'
 --
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 
@@ -82,4 +61,4 @@ CREATE TABLE `productorder` (
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2021-08-27 12:27:14
+-- Dump completed on 2021-08-27 12:27:16

@@ -1,6 +1,6 @@
 -- MySQL dump 10.17  Distrib 10.3.13-MariaDB, for Win64 (AMD64)
 --
--- Host: localhost    Database: OnlineStore
+-- Host: localhost    Database: onlinestore
 -- ------------------------------------------------------
 -- Server version	10.3.13-MariaDB
 
@@ -14,14 +14,6 @@
 /*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
-
---
--- Current Database: `OnlineStore`
---
-
-CREATE DATABASE /*!32312 IF NOT EXISTS*/ `onlinestore` /*!40100 DEFAULT CHARACTER SET latin1 */;
-
-USE `OnlineStore`;
 
 --
 -- Table structure for table `customer`
@@ -46,7 +38,8 @@ CREATE TABLE `customer` (
 
 LOCK TABLES `customer` WRITE;
 /*!40000 ALTER TABLE `customer` DISABLE KEYS */;
-INSERT INTO `customer` VALUES (1,'Anjalee','2w33he94yg4mx88j9j2hy4uhd32w','anjalee@gmail.com'),(2,'Premendra Kumar','2w33he94yg4mx88j9j2hy4uhd32w','pkumar@gmail.com');
+INSERT INTO `customer` VALUES (1,'Anjalee','2w33he94yg4mx88j9j2hy4uhd32w','anjalee@gmail.com');
+INSERT INTO `customer` VALUES (2,'Premendra Kumar','2w33he94yg4mx88j9j2hy4uhd32w','pkumar@gmail.com');
 /*!40000 ALTER TABLE `customer` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -73,7 +66,8 @@ CREATE TABLE `product` (
 
 LOCK TABLES `product` WRITE;
 /*!40000 ALTER TABLE `product` DISABLE KEYS */;
-INSERT INTO `product` VALUES (1,'Apple MacBook Pro','15 inch, i7, 16GB RAM',5,667.00),(2,'Lenovo Thinkpad','15 inch, i7, 16GB RAM',5,467.00);
+INSERT INTO `product` VALUES (1,'Apple MacBook Pro','15 inch, i7, 16GB RAM',5,667.00);
+INSERT INTO `product` VALUES (2,'Lenovo Thinkpad','15 inch, i7, 16GB RAM',5,467.00);
 /*!40000 ALTER TABLE `product` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -103,12 +97,14 @@ CREATE TABLE `productorder` (
 
 LOCK TABLES `productorder` WRITE;
 /*!40000 ALTER TABLE `productorder` DISABLE KEYS */;
-INSERT INTO `productorder` VALUES (1,1,1,1),(2,2,1,1),(3,1,2,1);
+INSERT INTO `productorder` VALUES (1,1,1,1);
+INSERT INTO `productorder` VALUES (2,2,1,1);
+INSERT INTO `productorder` VALUES (3,1,2,1);
 /*!40000 ALTER TABLE `productorder` ENABLE KEYS */;
 UNLOCK TABLES;
 
 --
--- Dumping routines for database 'OnlineStore'
+-- Dumping routines for database 'onlinestore'
 --
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 
@@ -120,4 +116,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2021-08-07 13:19:08
+-- Dump completed on 2021-08-27 12:27:12

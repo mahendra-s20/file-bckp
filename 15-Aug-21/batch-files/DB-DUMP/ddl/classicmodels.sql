@@ -16,14 +16,6 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 --
--- Current Database: `classicmodels`
---
-
-CREATE DATABASE /*!32312 IF NOT EXISTS*/ `classicmodels` /*!40100 DEFAULT CHARACTER SET latin1 */;
-
-USE `classicmodels`;
-
---
 -- Table structure for table `customers`
 --
 
@@ -224,4 +216,4 @@ DELIMITER ;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2021-08-07 13:19:11
+-- Dump completed on 2021-08-27 12:27:10

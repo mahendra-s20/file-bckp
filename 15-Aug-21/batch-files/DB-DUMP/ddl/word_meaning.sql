@@ -1,6 +1,6 @@
 -- MySQL dump 10.17  Distrib 10.3.13-MariaDB, for Win64 (AMD64)
 --
--- Host: localhost    Database: onlinestore
+-- Host: localhost    Database: word_meaning
 -- ------------------------------------------------------
 -- Server version	10.3.13-MariaDB
 
@@ -16,61 +16,75 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 --
--- Table structure for table `customer`
+-- Table structure for table `t_example`
 --
 
-DROP TABLE IF EXISTS `customer`;
+DROP TABLE IF EXISTS `t_example`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
-CREATE TABLE `customer` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
-  `name` varchar(50) DEFAULT NULL,
-  `password` varchar(255) DEFAULT NULL,
-  `email` varchar(255) DEFAULT NULL,
-  PRIMARY KEY (`id`),
-  UNIQUE KEY `email` (`email`)
-) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=latin1;
-/*!40101 SET character_set_client = @saved_cs_client */;
-
---
--- Table structure for table `product`
---
-
-DROP TABLE IF EXISTS `product`;
-/*!40101 SET @saved_cs_client     = @@character_set_client */;
-/*!40101 SET character_set_client = utf8 */;
-CREATE TABLE `product` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
-  `name` varchar(100) DEFAULT NULL,
-  `description` varchar(255) DEFAULT NULL,
-  `instock_quantity` int(11) DEFAULT NULL,
-  `price` decimal(8,2) DEFAULT NULL,
+CREATE TABLE `t_example` (
+  `id` int(11) NOT NULL,
+  `wordId` int(11) NOT NULL,
+  `example` text NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
--- Table structure for table `productorder`
+-- Table structure for table `t_irregular_verb`
 --
 
-DROP TABLE IF EXISTS `productorder`;
+DROP TABLE IF EXISTS `t_irregular_verb`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
-CREATE TABLE `productorder` (
-  `order_id` int(11) NOT NULL AUTO_INCREMENT,
-  `product_id` int(11) DEFAULT NULL,
-  `customer_id` int(11) DEFAULT NULL,
-  `product_quantity` int(11) DEFAULT NULL,
-  PRIMARY KEY (`order_id`),
-  KEY `product_id` (`product_id`),
-  KEY `customer_id` (`customer_id`),
-  CONSTRAINT `productorder_ibfk_1` FOREIGN KEY (`product_id`) REFERENCES `product` (`id`),
-  CONSTRAINT `productorder_ibfk_2` FOREIGN KEY (`customer_id`) REFERENCES `customer` (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=latin1;
+CREATE TABLE `t_irregular_verb` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `unique_name` text NOT NULL,
+  `V1Infinitive` text NOT NULL,
+  `V2SimplePast` text NOT NULL,
+  `V3PastParticiple` text NOT NULL,
+  `example` text NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=405 DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
--- Dumping routines for database 'onlinestore'
+-- Table structure for table `t_meaning`
+--
+
+DROP TABLE IF EXISTS `t_meaning`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `t_meaning` (
+  `id` int(11) NOT NULL,
+  `wordId` int(11) NOT NULL,
+  `meaning` text NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Table structure for table `t_word`
+--
+
+DROP TABLE IF EXISTS `t_word`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `t_word` (
+  `id` int(11) NOT NULL,
+  `unique_name` text NOT NULL,
+  `word` text NOT NULL,
+  `type` text DEFAULT NULL,
+  `details` text DEFAULT NULL,
+  `created_on` datetime NOT NULL DEFAULT current_timestamp(),
+  `updated_on` datetime NOT NULL DEFAULT current_timestamp(),
+  `last_read` datetime NOT NULL DEFAULT current_timestamp(),
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping routines for database 'word_meaning'
 --
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 
@@ -82,4 +96,4 @@ CREATE TABLE `productorder` (
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2021-08-27 12:27:14
+-- Dump completed on 2021-08-27 12:27:21
