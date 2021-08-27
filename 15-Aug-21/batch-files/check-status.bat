@@ -65,19 +65,19 @@ echo "== GIT_MY_PAGES_APPS_DIR =="
 pushd %GIT_MY_PAGES_APPS_DIR% && call git pull &&  call git status && call git add . && call git commit -a -m "committing at %myDate% %myTime%" && call git push && popd
 
 echo "==== Logs of current commits ================"
-::  pushd %GIT_PROJ_DIR%\bce-gui && echo "===============================" && git :: ote show origin && call git log -1  && popd
-::  pushd %GIT_PROJ_DIR%\FileService && echo "===============================" && git :: ote show origin && call git log -1  && popd
-::  pushd %GIT_PROJ_DIR%\MyTestPrograms && echo "===============================" && git :: ote show origin && call git log -1  && popd
-::  pushd %GIT_PROJ_DIR%\smrt-bkp && echo "===============================" && git :: ote show origin && call git log -1  && popd
-::  pushd %GIT_PROJ_DIR%\react-projects && echo "===============================" && git :: ote show origin && call git log -1  && popd
-pushd %GIT_PROJ_DIR%\angular-npm-projects && echo "===============================" && git :: ote show origin && call git log -1  && popd
-::  pushd %GIT_PROJ_DIR%\task-mgmt-service-mysql-db-branch && echo "===============================" && git :: ote show origin && call git log -1  && popd
-::  pushd %GIT_PROJ_DIR%\bce-rest-services && echo "===============================" && git :: ote show origin && call git log -1  && popd
-::  pushd %GIT_PROJ_DIR%\interview-mgmt-rest && echo "===============================" && git :: ote show origin && call git log -1  && popd
-::  pushd %GIT_PROJ_DIR%\bce-shopping-cart && echo "===============================" && git :: ote show origin && call git log -1  && popd
-::  pushd %GIT_PROJ_DIR%\nodejs-express-mysql-rest && echo "===============================" && git :: ote show origin && call git log -1  && popd
-pushd %GIT_DUMP_DIR%\file-bckp && echo "===============================" && git :: ote show origin && call git log -1 && popd
-pushd %GIT_MY_PAGES_APPS_DIR% && echo "===============================" && git :: ote show origin && call git log -1  && popd
+::  pushd %GIT_PROJ_DIR%\bce-gui && echo "===============================" && git remote show origin && call git log -1  && popd
+::  pushd %GIT_PROJ_DIR%\FileService && echo "===============================" && git remote show origin && call git log -1  && popd
+::  pushd %GIT_PROJ_DIR%\MyTestPrograms && echo "===============================" && git remote show origin && call git log -1  && popd
+::  pushd %GIT_PROJ_DIR%\smrt-bkp && echo "===============================" && git remote show origin && call git log -1  && popd
+::  pushd %GIT_PROJ_DIR%\react-projects && echo "===============================" && git remote show origin && call git log -1  && popd
+pushd %GIT_PROJ_DIR%\angular-npm-projects && echo "===============================" && git remote show origin && call git log -1  && popd
+::  pushd %GIT_PROJ_DIR%\task-mgmt-service-mysql-db-branch && echo "===============================" && git remote show origin && call git log -1  && popd
+::  pushd %GIT_PROJ_DIR%\bce-rest-services && echo "===============================" && git remote show origin && call git log -1  && popd
+::  pushd %GIT_PROJ_DIR%\interview-mgmt-rest && echo "===============================" && git remote show origin && call git log -1  && popd
+::  pushd %GIT_PROJ_DIR%\bce-shopping-cart && echo "===============================" && git remote show origin && call git log -1  && popd
+::  pushd %GIT_PROJ_DIR%\nodejs-express-mysql-rest && echo "===============================" && git remote show origin && call git log -1  && popd
+pushd %GIT_DUMP_DIR%\file-bckp && echo "===============================" && git remote show origin && call git log -1 && popd
+pushd %GIT_MY_PAGES_APPS_DIR% && echo "===============================" && git remote show origin && call git log -1  && popd
 
 
 
