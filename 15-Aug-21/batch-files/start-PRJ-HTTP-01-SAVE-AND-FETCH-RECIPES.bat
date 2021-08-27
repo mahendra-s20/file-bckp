@@ -2,7 +2,7 @@
 
 title PRJ-HTTP-01-SAVE-AND-FETCH-RECIPES
 set CURR_DIR=%cd%
-cd D:\DATA\Projects\git-proj\prj-http-01-save-and-fetch-recipes
+cd D:\DATA\git-hub-sam\angular-npm-projects\learn-angular\prj-http-01-save-and-fetch-recipes
 
 D:
 ng serve --port 4201
