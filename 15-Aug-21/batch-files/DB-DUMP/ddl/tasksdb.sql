@@ -16,14 +16,6 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 --
--- Current Database: `tasksdb`
---
-
-CREATE DATABASE /*!32312 IF NOT EXISTS*/ `tasksdb` /*!40100 DEFAULT CHARACTER SET latin1 */;
-
-USE `tasksdb`;
-
---
 -- Table structure for table `t_tasks`
 --
 
@@ -52,4 +44,4 @@ CREATE TABLE `t_tasks` (
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2021-08-07 13:19:13
+-- Dump completed on 2021-08-29 20:20:34

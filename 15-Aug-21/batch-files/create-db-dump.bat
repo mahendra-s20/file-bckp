@@ -44,5 +44,9 @@ echo "======== DB-DUMP word_meaning ====================="
 call %MYSQL_BIN_DIR%\mysqldump -u root -p --routines --skip-extended-insert word_meaning > %DB_DUMP_WITH_DATA%\word_meaning.sql
 call %MYSQL_BIN_DIR%\mysqldump -u root -p --routines --no-data word_meaning > %DB_DUMP_WITH_DDL_ONLY%\word_meaning.sql
 
+echo "======== DB-DUMP tasksdb ====================="
+call %MYSQL_BIN_DIR%\mysqldump -u root -p --routines --skip-extended-insert tasksdb > %DB_DUMP_WITH_DATA%\tasksdb.sql
+call %MYSQL_BIN_DIR%\mysqldump -u root -p --routines --no-data tasksdb > %DB_DUMP_WITH_DDL_ONLY%\tasksdb.sql
+
 
 echo "=== DB Backup completed successfully ==="

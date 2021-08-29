@@ -16,14 +16,6 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 --
--- Current Database: `tasksdb`
---
-
-CREATE DATABASE /*!32312 IF NOT EXISTS*/ `tasksdb` /*!40100 DEFAULT CHARACTER SET latin1 */;
-
-USE `tasksdb`;
-
---
 -- Table structure for table `t_tasks`
 --
 
@@ -45,7 +37,11 @@ CREATE TABLE `t_tasks` (
 
 LOCK TABLES `t_tasks` WRITE;
 /*!40000 ALTER TABLE `t_tasks` DISABLE KEYS */;
-INSERT INTO `t_tasks` VALUES (1,'Organize life','<p>Exercise <strong><span style=\"color: #008000;\">for better life ahead</span></strong></p>\n<p>practice interview <strong>question <span style=\"color: #008000;\">for better opportunity</span></strong></p>\n<p><span style=\"color: #000000;\">Explore new earning opportunity <strong><span style=\"color: #008000;\">for job disaster management</span>.</strong></span></p>','2021-08-06 18:19:12'),(2,'Second Task','<p><strong>Task description</strong></p><ul><li><strong>First point</strong></li><li><strong>Second point</strong></li></ul>','2021-08-06 18:28:32'),(3,'Third Task','third task description','2021-08-06 21:29:45'),(4,'Fourth Task','<p><strong>Task description</strong></p><ul><li><strong>First point</strong></li><li><strong>Second point</strong></li></ul>','2021-08-07 11:21:34'),(5,'Fifth Task','<p>Exercise <strong><span style=\"color: #008000;\">for better life ahead</span></strong></p>\n<p>practice interview <strong>question <span style=\"color: #008000;\">for better opportunity</span></strong></p>\n<p><span style=\"color: #000000;\">Explore new earning opportunity <strong><span style=\"color: #008000;\">for job disaster management</span>.</strong></span></p>','2021-08-07 13:03:22');
+INSERT INTO `t_tasks` VALUES (1,'Organize life','<p>Exercise <strong><span style=\"color: #008000;\">for better life ahead</span></strong></p>\n<p>practice interview <strong>question <span style=\"color: #008000;\">for better opportunity</span></strong></p>\n<p><span style=\"color: #000000;\">Explore new earning opportunity <strong><span style=\"color: #008000;\">for job disaster management</span>.</strong></span></p>','2021-08-06 18:19:12');
+INSERT INTO `t_tasks` VALUES (2,'Second Task','<p><strong>Task description</strong></p><ul><li><strong>First point</strong></li><li><strong>Second point</strong></li></ul>','2021-08-06 18:28:32');
+INSERT INTO `t_tasks` VALUES (3,'Third Task','<font face=\"Arial\" color=\"#d30d0d\">My Actionables</font><p><font face=\"Arial\" color=\"#d30d0d\">I want to show this content in any component</font></p>','2021-08-06 21:29:45');
+INSERT INTO `t_tasks` VALUES (4,'Fourth Task','<font face=\"Arial\" color=\"#d30d0d\">My Actionables</font><p><font face=\"Arial\" color=\"#d30d0d\">I want to show this content in any component</font></p>','2021-08-07 11:21:34');
+INSERT INTO `t_tasks` VALUES (5,'Fifth Task','<p>Exercise <strong><span style=\"color: #008000;\">for better life ahead</span></strong></p>\n<p>practice interview <strong>question <span style=\"color: #008000;\">for better opportunity</span></strong></p>\n<p><span style=\"color: #000000;\">Explore new earning opportunity <strong><span style=\"color: #008000;\">for job disaster management</span>.</strong></span></p>','2021-08-07 13:03:22');
 /*!40000 ALTER TABLE `t_tasks` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -62,4 +58,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2021-08-07 13:19:11
+-- Dump completed on 2021-08-29 20:20:33
