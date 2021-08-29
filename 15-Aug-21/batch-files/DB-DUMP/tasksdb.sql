@@ -28,7 +28,7 @@ CREATE TABLE `t_tasks` (
   `description` text DEFAULT NULL,
   `created` datetime DEFAULT current_timestamp(),
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=6 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -42,6 +42,7 @@ INSERT INTO `t_tasks` VALUES (2,'Second Task','<p><strong>Task description</stro
 INSERT INTO `t_tasks` VALUES (3,'Third Task','<font face=\"Arial\" color=\"#d30d0d\">My Actionables</font><p><font face=\"Arial\" color=\"#d30d0d\">I want to show this content in any component</font></p>','2021-08-06 21:29:45');
 INSERT INTO `t_tasks` VALUES (4,'Fourth Task','<font face=\"Arial\" color=\"#d30d0d\">My Actionables</font><p><font face=\"Arial\" color=\"#d30d0d\">I want to show this content in any component</font></p>','2021-08-07 11:21:34');
 INSERT INTO `t_tasks` VALUES (5,'Fifth Task','<p>Exercise <strong><span style=\"color: #008000;\">for better life ahead</span></strong></p>\n<p>practice interview <strong>question <span style=\"color: #008000;\">for better opportunity</span></strong></p>\n<p><span style=\"color: #000000;\">Explore new earning opportunity <strong><span style=\"color: #008000;\">for job disaster management</span>.</strong></span></p>','2021-08-07 13:03:22');
+INSERT INTO `t_tasks` VALUES (6,'Clean up hard disk','<ul>\n<li>work to find duplicate files and remove them</li>\n  <li>Organise PDF,videos</li>\n</ul>','2021-08-29 21:01:50');
 /*!40000 ALTER TABLE `t_tasks` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -58,4 +59,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2021-08-29 20:20:33
+-- Dump completed on 2021-08-29 21:29:43
